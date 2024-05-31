@@ -131,8 +131,8 @@ function displayWindDirection() {
 }
 
 function keyPressed() {
-  // Change wind range with R and F keys
-  if (key === 'r' || key === 'R') {
+  // Change wind range with W and S keys
+  if (key === 'w' || key === 'S') {
     windRange += 0.1;
   } else if (key === 'f' || key === 'F') {
     windRange = max(0, windRange - 0.1); // Ensure wind range does not go below 0
