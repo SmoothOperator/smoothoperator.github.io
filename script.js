@@ -123,7 +123,7 @@ function displayWindDirection() {
   translate(50, 50); // Position the arrow in the top-left corner
   rotate(windDirectionAngle); // Rotate arrow based on wind direction angle
   stroke(200);
-  strokeWeight(3);
+  strokeWeight(3); 
   line(0, 0, 30, 0); // Arrow shaft
   line(30, 0, 25, -5); // Arrowhead
   line(30, 0, 25, 5); // Arrowhead
@@ -131,10 +131,10 @@ function displayWindDirection() {
 }
 
 function keyPressed() {
-  // Change wind range with up and down arrow keys
-  if (keyCode === UP_ARROW) {
+  // Change wind range with R and F keys
+  if (key === 'r' || key === 'R') {
     windRange += 0.1;
-  } else if (keyCode === DOWN_ARROW) {
+  } else if (key === 'f' || key === 'F') {
     windRange = max(0, windRange - 0.1); // Ensure wind range does not go below 0
   }
   
