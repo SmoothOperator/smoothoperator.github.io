@@ -105,6 +105,7 @@ function displayWindSpeed() {
   let windRangeText = "Wind Speed Range: 0 to " + nf(windRange, 1, 2) + " m/s";
   let gravityText = "Gravity: " + nf(gravity, 1, 2);
   
+  noStroke(); // Disable stroke for text
   textAlign(CENTER);
   text(windSpeedText, width / 2, segments[0].y - 90); // Position text above the top of the stick
   text(avgWindSpeedText, width / 2, segments[0].y - 70); // Position text below the current wind speed
