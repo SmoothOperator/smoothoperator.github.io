@@ -39,6 +39,14 @@
         .project p {
             color: #e1e1e1;
         }
+        .button {
+            background-color: #00FF00;
+            color: #1e1e1e;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
     </style>
 </head>
 <body>
@@ -46,7 +54,8 @@
     <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="Smooth GIF">
     <div class="content">
         <h2>About Me</h2>
-        <p>Welcome to my personal GitHub Pages site. Here you'll find my projects, experiments, and portfolio.</p>
+        <p id="dynamic-text">Welcome to my personal GitHub Pages site. Here you'll find my projects, experiments, and portfolio.</p>
+        <button class="button" onclick="changeText()">Click me</button>
         
         <h2>Projects</h2>
         <div class="project">
@@ -63,5 +72,6 @@
         
         <p><a href="README.md">Check out my README for more information</a></p>
     </div>
+    <script src="script.js"></script>
 </body>
 </html>
