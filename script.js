@@ -113,7 +113,7 @@ function displayWindSpeed() {
   text(gravityText, width / 2, segments[0].y - 30); // Position text below the wind range
   
   // Display instructions
-  let instructions = "Press UP to increase wind range, DOWN to decrease wind range. Press E to increase gravity, D to decrease gravity.";
+  let instructions = "Press W to increase wind range, S to decrease wind range. Press E to increase gravity, D to decrease gravity.";
   text(instructions, width / 2, height - 30); // Position instructions at the bottom
 }
 
@@ -131,8 +131,8 @@ function displayWindDirection() {
 }
 
 function keyPressed() {
-  // Change wind range with W and S keys
-  if (key === 'w' || key === 'S') {
+  // Change wind range with R and F keys
+  if (key === 'r' || key === 'R') {
     windRange += 0.1;
   } else if (key === 'f' || key === 'F') {
     windRange = max(0, windRange - 0.1); // Ensure wind range does not go below 0
