@@ -21,9 +21,21 @@ This is the default template using the Dracula theme.
 
 ## My Gallery
 
-![Metal](https://static.wixstatic.com/media/ed8129_d6506638efd54e9299c25e87f715f504~mv2.jpg/v1/fill/w_1080,h_683,al_c,q_85,enc_auto/ed8129_d6506638efd54e9299c25e87f715f504~mv2.jpg)
-![Metal](https://static.wixstatic.com/media/ed8129_d6506638efd54e9299c25e87f715f504~mv2.jpg/v1/fill/w_1080,h_683,al_c,q_85,enc_auto/ed8129_d6506638efd54e9299c25e87f715f504~mv2.jpg)
-![Metal](https://static.wixstatic.com/media/ed8129_d6506638efd54e9299c25e87f715f504~mv2.jpg/v1/fill/w_1080,h_683,al_c,q_85,enc_auto/ed8129_d6506638efd54e9299c25e87f715f504~mv2.jpg)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://tinyurl.com/sharkcad" alt="Metal" style="width: 10%;">
+  <img src="https://tinyurl.com/sharkcad" alt="Metal" style="width: 10%;">
+  <img src="https://tinyurl.com/sharkcad" alt="Metal" style="width: 10%;">
+</div>
+
+# Welcome to My Portfolio
+
+This is the default template using the Dracula theme.
+
+## My Gallery
+
+![Metal](https://tinyurl.com/sharkcad)
+![Metal](https://tinyurl.com/sharkcad)
+![Metal](https://tinyurl.com/sharkcad)
 
 ## [](#header-2)Header 2
 
