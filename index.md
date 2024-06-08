@@ -47,17 +47,9 @@ This is the default template using the Dracula theme.
 
 ## My Gallery
 
-<div style="display: flex; justify-content: space-between;">
-  <a href="https://tinyurl.com/florlayout2" target="_blank">
-    <img src="https://tinyurl.com/florlayout2" alt="Metal" style="width: 40%;">
-  </a>
-  <a href="https://tinyurl.com/sharkcad" target="_blank">
-    <img src="https://tinyurl.com/sharkcad" alt="Metal" style="width: 40%;">
-  </a>
-  <a href="https://tinyurl.com/sharkcad" target="_blank">
-    <img src="https://tinyurl.com/sharkcad" alt="Metal" style="width: 40%;">
-  </a>
-</div>
+## My p5.js Sketch
+
+<iframe src="windsocksketch.html" width="600" height="600" style="border:none;"></iframe>
 
 # Welcome to My Portfolio 5
 ### click for full size!
