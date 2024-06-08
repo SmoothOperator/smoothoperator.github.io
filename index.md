@@ -32,7 +32,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 layout: default
 ---
 
-# Welcome to My Portfolio 5
+# Welcome to My Portfolio 6
 ### click for full size!
 
 This is the default template using the Dracula theme.
