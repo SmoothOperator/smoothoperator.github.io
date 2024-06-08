@@ -5,6 +5,8 @@ layout: default
 ### Housekeeping!
 [Listing Pages](samples/listings-page)
 
+[Linkedin](https://www.linkedin.com/in/marshallpeck/)
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 There should be whitespace between paragraphs.
