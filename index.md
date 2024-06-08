@@ -15,6 +15,16 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
+# Welcome to My Portfolio
+
+This is the default template using the Dracula theme.
+
+## My Gallery
+
+![Metal](https://photos.app.goo.gl/7XbJ8xUkgHcuUmnR8)
+![Wax](https://photos.app.goo.gl/xAyPLU64yMi4hoaw6)
+![Note](https://photos.app.goo.gl/Qn3NdskC5vrU66Yq5)
+
 ## [](#header-2)Header 2
 
 > This is a blockquote following a header.
