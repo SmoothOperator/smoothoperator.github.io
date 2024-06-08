@@ -2,10 +2,12 @@
 layout: default
 ---
 
-### Housekeeping! V18
+### Housekeeping! V19
 [Listing Pages](samples/listings-page)
 
 [Linkedin](https://www.linkedin.com/in/marshallpeck/)
+
+`hsl(H,S,L)`
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
