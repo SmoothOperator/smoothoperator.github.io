@@ -23,23 +23,14 @@ Text that is not a quote
 
 	`hsl(212, 92%, 45%)`
 
-## Alerts
+> **Note:** This is a note alert.
 
-<div class="alert alert-info">
-  <strong>Info!</strong> This is an informational alert box.
-</div>
+> **Tip:** This is a tip alert.
 
-<div class="alert alert-warning">
-  <strong>Warning!</strong> This is a warning alert box.
-</div>
+> **Warning:** This is a warning alert.
 
-<div class="alert alert-danger">
-  <strong>Danger!</strong> This is a danger alert box.
-</div>
+> **Danger:** This is a danger alert.
 
-<div class="alert alert-success">
-  <strong>Success!</strong> This is a success alert box.
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
