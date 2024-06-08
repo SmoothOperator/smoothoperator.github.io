@@ -18,6 +18,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 
 # Welcome to My Portfolio 3
+### 50% clickable
 
 This is the default template using the Dracula theme.
 
