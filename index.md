@@ -47,7 +47,7 @@ This is the default template using the Dracula theme.
 
 ## My p5.js Sketch
 
-<iframe src="script/windsocksketch.html" width="600" height="600" style="border:none;"></iframe>
+<iframe src="script/windsock.html" width="600" height="600" style="border:none;"></iframe>
 
 # Welcome to My Portfolio 5
 ### click for full size!
