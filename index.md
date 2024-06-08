@@ -19,6 +19,8 @@ Text that is not a quote
 
 > Text that is a quote
 
+	`hsl(212, 92%, 45%)`
+
 ### Definition lists can be used with HTML syntax.
 
 <dl>
