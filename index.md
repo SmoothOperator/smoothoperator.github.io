@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Preview Page Types
+### Marshall Peck
 [Listing Pages](samples/listings-page)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
