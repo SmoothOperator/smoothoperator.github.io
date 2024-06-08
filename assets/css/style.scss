@@ -2,3 +2,28 @@
 ---
 
 @import "jekyll-theme-dracula";
+
+// Custom styles for GitHub-flavored Markdown alerts
+blockquote.note {
+  border-left: 4px solid #0070f3; /* Blue for note */
+  background-color: #f0f8ff;
+  padding: 1em;
+}
+
+blockquote.tip {
+  border-left: 4px solid #28a745; /* Green for tip */
+  background-color: #e6ffed;
+  padding: 1em;
+}
+
+blockquote.warning {
+  border-left: 4px solid #ff8c00; /* Orange for warning */
+  background-color: #fff3cd;
+  padding: 1em;
+}
+
+blockquote.danger {
+  border-left: 4px solid #dc3545; /* Red for danger */
+  background-color: #f8d7da;
+  padding: 1em;
+}
