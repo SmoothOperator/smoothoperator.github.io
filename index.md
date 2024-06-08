@@ -21,7 +21,7 @@ This is the default template using the Dracula theme.
 
 ## My Gallery
 
-![Metal]([https://photos.app.goo.gl/7XbJ8xUkgHcuUmnR8](https://static.wixstatic.com/media/ed8129_d6506638efd54e9299c25e87f715f504~mv2.jpg/v1/fill/w_1080,h_683,al_c,q_85,enc_auto/ed8129_d6506638efd54e9299c25e87f715f504~mv2.jpg))
+![Metal](https://static.wixstatic.com/media/ed8129_d6506638efd54e9299c25e87f715f504~mv2.jpg/v1/fill/w_1080,h_683,al_c,q_85,enc_auto/ed8129_d6506638efd54e9299c25e87f715f504~mv2.jpg)
 ![Wax](https://photos.app.goo.gl/xAyPLU64yMi4hoaw6)
 ![Note](https://photos.app.goo.gl/Qn3NdskC5vrU66Yq5)
 
