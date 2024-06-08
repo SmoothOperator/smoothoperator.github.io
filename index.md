@@ -39,9 +39,28 @@ This is the default template using the Dracula theme.
 
 ## My Gallery
 
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://tinyurl.com/florlayout2" target="_blank">
+    <img src="https://tinyurl.com/florlayout2" alt="Metal" style="width: 40%;">
+  </a>
+  <a href="https://tinyurl.com/sharkcad" target="_blank">
+    <img src="https://tinyurl.com/sharkcad" alt="Metal" style="width: 40%;">
+  </a>
+  <a href="https://tinyurl.com/sharkcad" target="_blank">
+    <img src="https://tinyurl.com/sharkcad" alt="Metal" style="width: 40%;">
+  </a>
+</div>
+
+# Welcome to My Portfolio 5
+### click for full size!
+
+This is the default template using the Dracula theme.
+
+## My Gallery
+
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <a href="https://lh3.googleusercontent.com/pw/AP1GczPV4JrYqUb4fzTpqn92-mDgNA0eYkqXDa7_wKiwXr31T7YnUx2n3p4QsLCBJxANIx0ZKeeajyXmzDyvqLfVNobkaJPLF-DjN6afaSZkYwIDpQeMP0hTLu9-i5etBCetyoyphfg0QcTAD6CIFufeNEIUrA=w1080-h1440-s-no-gm?authuser=0" target="_blank">
-    <img src="https://lh3.googleusercontent.com/pw/AP1GczPV4JrYqUb4fzTpqn92-mDgNA0eYkqXDa7_wKiwXr31T7YnUx2n3p4QsLCBJxANIx0ZKeeajyXmzDyvqLfVNobkaJPLF-DjN6afaSZkYwIDpQeMP0hTLu9-i5etBCetyoyphfg0QcTAD6CIFufeNEIUrA=w1080-h1440-s-no-gm?authuser=0" alt="Metal" style="width: 40%;">
+  <a href="https://tinyurl.com/florlayout2" target="_blank">
+    <img src="https://tinyurl.com/florlayout2" alt="Metal" style="width: 40%;">
   </a>
   <a href="https://tinyurl.com/sharkcad" target="_blank">
     <img src="https://tinyurl.com/sharkcad" alt="Metal" style="width: 40%;">
