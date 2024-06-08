@@ -15,6 +15,10 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 This is a <sup>superscript</sup> text
 
+Text that is not a quote
+
+> Text that is a quote
+
 ### Definition lists can be used with HTML syntax.
 
 <dl>
