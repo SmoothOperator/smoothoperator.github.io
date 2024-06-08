@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Housekeeping! V16
+### Housekeeping! V17
 [Listing Pages](samples/listings-page)
 
 [Linkedin](https://www.linkedin.com/in/marshallpeck/)
@@ -21,20 +21,23 @@ Text that is not a quote
 
 	`hsl(212, 92%, 45%)`
 
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
+## Alerts
 
-> [!TIP]
-> Helpful advice for doing things better or more easily.
+<div class="alert alert-info">
+  <strong>Info!</strong> This is an informational alert box.
+</div>
 
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+<div class="alert alert-warning">
+  <strong>Warning!</strong> This is a warning alert box.
+</div>
 
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
+<div class="alert alert-danger">
+  <strong>Danger!</strong> This is a danger alert box.
+</div>
 
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+<div class="alert alert-success">
+  <strong>Success!</strong> This is a success alert box.
+</div>
 
 ### Definition lists can be used with HTML syntax.
 
