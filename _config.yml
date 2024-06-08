@@ -1,19 +1,19 @@
 # SEO Values
-title: Dracula GitHub Pages
-tagline: The renowned dark theme for ...
-description: The renowned dark theme for ...
-url: https://dracula.github.io/gh-pages/
-twitter: https://twitter.com/zenorocha
+title: My Awesome Portfolio
+tagline: Showcasing my best projects and designs
+description: This is the portfolio of Mars, featuring a collection of creative and technical projects.
+url: https://smoothoperator.github.io/
+twitter: https://twitter.com/your_twitter_handle
 logo: https://draculatheme.com/static/icons/pack-1/045-dracula.svg
 
 # Google Analytics ID
-google_analytics:
+google_analytics: UA-XXXXXXXXX-X
 
 # GitHub Values
 github:
-  owner_name: Dracula
-  owner_url: https://github.com/dracula
-  repository_url: https://github.com/dracula/gh-pages
+  owner_name: SmoothOperator
+  owner_url: https://github.com/SmoothOperator
+  repository_url: https://github.com/SmoothOperator/smoothoperator.github.io
 
 show_downloads: true
 show_header: true
