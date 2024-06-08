@@ -15,6 +15,30 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
+---
+layout: default
+---
+
+# Welcome to My Portfolio 5
+### click for full size!
+
+This is the default template using the Dracula theme.
+
+## My Gallery
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <a href="https://tinyurl.com/sharkcad" target="_blank">
+    <img src="https://tinyurl.com/sharkcad" alt="Metal" style="width: 40%;">
+  </a>
+  <a href="https://tinyurl.com/sharkcad" target="_blank">
+    <img src="https://tinyurl.com/sharkcad" alt="Metal" style="width: 40%;">
+  </a>
+  <a href="https://tinyurl.com/sharkcad" target="_blank">
+    <img src="https://tinyurl.com/sharkcad" alt="Metal" style="width: 40%;">
+  </a>
+</div>
+
+
 # Welcome to My Portfolio 4
 ### click for full size!
 
