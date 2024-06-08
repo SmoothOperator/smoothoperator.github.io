@@ -101,16 +101,16 @@
       let windRangeText = "Wind Speed Range: 0 to " + nf(windRange, 1, 2) + " m/s";
       let gravityText = "Gravity: " + nf(gravity, 1, 2);
       
-      noStroke();
-      textAlign(CENTER);
-      text(windSpeedText, width / 2, segments[0].y - 90);
-      text(avgWindSpeedText, width / 2, segments[0].y - 70);
-      text(windRangeText, width / 2, segments[0].y - 50);
-      text(gravityText, width / 2, segments[0].y - 30);
-      
-      let instructions = "Press W to increase wind range,\nS to decrease wind range.\nPress E to increase gravity,\nD to decrease gravity.";
-      text(instructions, width / 2, height - 120);
-    }
+  noStroke();
+  textAlign(CENTER);
+  text(windSpeedText, width / 2, segments[0].y - 90);
+  text(avgWindSpeedText, width / 2, segments[0].y - 70);
+  text(windRangeText, width / 2, segments[0].y - 50);
+  text(gravityText, width / 2, segments[0].y - 30);
+  
+  let instructions = "Press W to increase wind range,\nS to decrease wind range.\nPress E to increase gravity,\nD to decrease gravity.";
+  text(instructions, width / 2, height - 90);
+}
 
     function displayWindDirection() {
       push();
