@@ -22,8 +22,8 @@ This is the default template using the Dracula theme.
 ## My Gallery
 
 ![Metal](https://static.wixstatic.com/media/ed8129_d6506638efd54e9299c25e87f715f504~mv2.jpg/v1/fill/w_1080,h_683,al_c,q_85,enc_auto/ed8129_d6506638efd54e9299c25e87f715f504~mv2.jpg)
-![Wax]([https://photos.app.goo.gl/xAyPLU64yMi4hoaw6](https://static.wixstatic.com/media/ed8129_b82fd9632f6e4ba5b36e7f5c98b599f7~mv2.jpg/v1/fill/w_1212,h_971,al_c,q_85,enc_auto/ed8129_b82fd9632f6e4ba5b36e7f5c98b599f7~mv2.jpg))
-![Note]([https://photos.app.goo.gl/Qn3NdskC5vrU66Yq5](https://static.wixstatic.com/media/ed8129_0e8deffe0210455dae709d4ebc69e2f4~mv2.jpg/v1/fill/w_1236,h_788,al_c,q_85,enc_auto/ed8129_0e8deffe0210455dae709d4ebc69e2f4~mv2.jpg))
+![Metal](https://static.wixstatic.com/media/ed8129_d6506638efd54e9299c25e87f715f504~mv2.jpg/v1/fill/w_1080,h_683,al_c,q_85,enc_auto/ed8129_d6506638efd54e9299c25e87f715f504~mv2.jpg)
+![Metal](https://static.wixstatic.com/media/ed8129_d6506638efd54e9299c25e87f715f504~mv2.jpg/v1/fill/w_1080,h_683,al_c,q_85,enc_auto/ed8129_d6506638efd54e9299c25e87f715f504~mv2.jpg)
 
 ## [](#header-2)Header 2
 
