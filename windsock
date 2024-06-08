@@ -12,7 +12,7 @@ let windSpeeds = [];
 let windOffset;
 
 function setup() {
-  createCanvas(500, 500);
+  createCanvas(600, 560);
   frameRate(60);
   textSize(12);
   fill(200);
