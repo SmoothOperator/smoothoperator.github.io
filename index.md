@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Housekeeping! V13
+### Housekeeping! V14
 [Listing Pages](samples/listings-page)
 
 [Linkedin](https://www.linkedin.com/in/marshallpeck/)
@@ -40,14 +40,35 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 layout: default
 ---
 
-# Welcome to My Portfolio 6
+---
+layout: default
+title: R&P
+description: maybe also a blog
+---
+
+# Welcome to My Portfolio
 ### click for full size!
 
 This is the default template using the Dracula theme.
 
+## My Gallery
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <a href="https://tinyurl.com/sharkcad" target="_blank">
+    <img src="https://tinyurl.com/sharkcad" alt="Metal" style="width: 40%;">
+  </a>
+  <a href="https://tinyurl.com/sharkcad" target="_blank">
+    <img src="https://tinyurl.com/sharkcad" alt="Metal" style="width: 40%;">
+  </a>
+  <a href="https://tinyurl.com/sharkcad" target="_blank">
+    <img src="https://tinyurl.com/sharkcad" alt="Metal" style="width: 40%;">
+  </a>
+</div>
+
 ## My p5.js Sketch
 
-<iframe src="script/windsock.html" width="600" height="600" style="border:none;"></iframe>
+<iframe src="windsocksketch.html" width="600" height="600" style="border:none;"></iframe>
+
 
 # Welcome to My Portfolio 5
 ### click for full size!
