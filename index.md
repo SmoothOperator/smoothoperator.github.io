@@ -47,7 +47,9 @@ This is the default template using the Dracula theme.
 
 ## Windsock
 
-<iframe src="windsock.html" width="700" height="700" style="border:none;"></iframe>
+<div style="position: relative; padding-bottom: 100%; height: 0; overflow: hidden;">
+  <iframe src="script/windsocksketch.html" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"></iframe>
+</div>
 
 # Welcome to My Portfolio 5
 ### click for full size!
