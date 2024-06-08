@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Housekeeping! V22
+### Housekeeping! V23
 [Listing Pages](samples/listings-page)
 
 [Linkedin](https://www.linkedin.com/in/marshallpeck/)
@@ -39,6 +39,12 @@ Text that is not a quote
 </picture>
 
 ### Definition lists can be used with HTML syntax.
+
+## Windsock
+
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 100%;">
+  <iframe src="script/windsock.html" style="border: none; position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 
 <dl>
 <dt>Name</dt>
