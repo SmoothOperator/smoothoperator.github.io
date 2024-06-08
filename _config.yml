@@ -11,9 +11,9 @@ google_analytics:
 
 # GitHub Values
 github:
-  owner_name: Dracula
-  owner_url: https://github.com/dracula
-  repository_url: https://github.com/dracula/gh-pages
+  owner_name: SmoothOperator
+  owner_url: https://github.com/SmoothOperator
+  repository_url: https://github.com/SmoothOperator/smoothoperator.github.io
 
 show_downloads: true
 show_header: true
