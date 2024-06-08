@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Housekeeping! V23
+### Housekeeping! V24
 [Listing Pages](samples/listings-page)
 
 [Linkedin](https://www.linkedin.com/in/marshallpeck/)
