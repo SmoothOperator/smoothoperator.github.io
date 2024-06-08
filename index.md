@@ -42,7 +42,7 @@ Text that is not a quote
 
 ## Windsock
 
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 100%;">
+<div style="position: relative; width: 600%; height: 0; padding-bottom: 600%;">
   <iframe src="script/windsock.html" style="border: none; position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
 
