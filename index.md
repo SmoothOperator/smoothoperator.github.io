@@ -93,7 +93,7 @@ This is the default template using the Dracula theme.
   </a>
 </div>
 
-## My p5.js Sketch
+## God, I love chatGPT
 
 <iframe src="windsocksketch.html" width="600" height="600" style="border:none;"></iframe>
 
