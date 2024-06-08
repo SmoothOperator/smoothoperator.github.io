@@ -22,9 +22,9 @@ This is the default template using the Dracula theme.
 ## My Gallery
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://tinyurl.com/sharkcad" alt="Metal" style="width: 10%;">
-  <img src="https://tinyurl.com/sharkcad" alt="Metal" style="width: 10%;">
-  <img src="https://tinyurl.com/sharkcad" alt="Metal" style="width: 10%;">
+  <img src="https://tinyurl.com/sharkcad" alt="Metal" style="width: 30%;">
+  <img src="https://tinyurl.com/sharkcad" alt="Metal" style="width: 30%;">
+  <img src="https://tinyurl.com/sharkcad" alt="Metal" style="width: 30%;">
 </div>
 
 # Welcome to My Portfolio
