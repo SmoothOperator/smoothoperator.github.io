@@ -3,6 +3,8 @@ layout: default
 ---
 
 ### Housekeeping! V25
+See what I've been up to in the last 10 years here: [2014-2024 unsorted photogallery]([samples/listings-page](https://photos.app.goo.gl/z1X7arV6D6iKYqBN8))
+
 [Listing Pages](samples/listings-page)
 
 [Linkedin](https://www.linkedin.com/in/marshallpeck/)
