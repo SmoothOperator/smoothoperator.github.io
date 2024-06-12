@@ -2,6 +2,19 @@
 layout: default
 ---
 
+### About me.
+
+<dl>
+<dt>Name</dt>
+<dd>Marshall Peck</dd>
+<dt>Born</dt>
+<dd>1980's</dd>
+<dt>Primary Skillset</dt>
+<dd>Industrial Design</dd>
+<dt>Current Location</dt>
+<dd>Austin, TX</dd>
+</dl>
+
 ### Housekeeping! V25
 I made a [2014-2024 unsorted photogallery]([samples/listings-page](https://photos.app.goo.gl/z1X7arV6D6iKYqBN8)) just for you!
 There's a lot of "creative process" and weird oops photos, POV projects, my days at ProtoBuilds some visual asethetics. If you a what-am-I-looking-at feel browsing through those - Mission accomplished? But seriously, enjoy.
