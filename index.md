@@ -3,11 +3,11 @@ layout: default
 ---
 
 ### Housekeeping! V25
-See what I've been up to in the last 10 years here: [2014-2024 unsorted photogallery]([samples/listings-page](https://photos.app.goo.gl/z1X7arV6D6iKYqBN8))
+See what I've been up to in the last 10 years or so in this [2014-2024 unsorted photogallery]([samples/listings-page](https://photos.app.goo.gl/z1X7arV6D6iKYqBN8)) a lot of "artistic process" and weird oops photos.
 
 [Listing Pages](samples/listings-page)
 
-[Linkedin](https://www.linkedin.com/in/marshallpeck/)
+Barely post on my [Linkedin](https://www.linkedin.com/in/marshallpeck/) but it's got every job I've ever had since highscool on it.
 
 `hsl(H,S,L)`
 
