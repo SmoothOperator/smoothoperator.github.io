@@ -6,13 +6,13 @@ layout: default
 
 <dl>
 <dt>Name</dt>
-<dd>Marshall Peck</dd>
+<dd>Marshall</dd>
 <dt>Born</dt>
 <dd>1980's</dd>
-<dt>Primary Skillset</dt>
-<dd>Industrial Design</dd>
-<dt>Current Location</dt>
-<dd>Austin, TX</dd>
+<dt>Skills</dt>
+<dd>Design</dd>
+<dt>Location</dt>
+<dd>Austin</dd>
 </dl>
 
 ### Housekeeping! V25
