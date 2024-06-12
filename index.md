@@ -3,7 +3,8 @@ layout: default
 ---
 
 ### Housekeeping! V25
-See what I've been up to in the last 10 years or so in this [2014-2024 unsorted photogallery]([samples/listings-page](https://photos.app.goo.gl/z1X7arV6D6iKYqBN8)) a lot of "artistic process" and weird oops photos.
+I made a [2014-2024 unsorted photogallery]([samples/listings-page](https://photos.app.goo.gl/z1X7arV6D6iKYqBN8)) just for you!
+There's a lot of "creative process" and weird oops photos, POV projects, my days at ProtoBuilds some visual asethetics. If you a what-am-I-looking-at feel browsing through those - Mission accomplished? But seriously, enjoy.
 
 [Listing Pages](samples/listings-page)
 
@@ -66,25 +67,6 @@ layout: default
 title: R&P
 description: maybe also a blog
 ---
-
-# Welcome to My Portfolio
-### click for full size!
-
-This is the default template using the Dracula theme.
-
-## My Gallery
-
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <a href="https://tinyurl.com/sharkcad" target="_blank">
-    <img src="https://tinyurl.com/sharkcad" alt="Metal" style="width: 40%;">
-  </a>
-  <a href="https://tinyurl.com/sharkcad" target="_blank">
-    <img src="https://tinyurl.com/sharkcad" alt="Metal" style="width: 40%;">
-  </a>
-  <a href="https://tinyurl.com/sharkcad" target="_blank">
-    <img src="https://tinyurl.com/sharkcad" alt="Metal" style="width: 40%;">
-  </a>
-</div>
 
 ## God, I love chatGPT
 
