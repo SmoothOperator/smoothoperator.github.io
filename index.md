@@ -17,7 +17,8 @@ layout: default
 
 ### Housekeeping! V25
 I made a [2014-2024 unsorted photogallery]([samples/listings-page](https://photos.app.goo.gl/z1X7arV6D6iKYqBN8)) just for you!
-There's a lot of "creative process" and weird oops photos, POV projects, my days at ProtoBuilds some visual asethetics. If you a what-am-I-looking-at feel browsing through those - Mission accomplished? But seriously, enjoy.
+It's got a lot of "creative process" weird oops photos, POV projects and etc. from my days at ProtoBuilds.
+If you get a what-am-I-looking-at feel browsing through those - Mission accomplished? But seriously, enjoy.
 
 [Listing Pages](samples/listings-page)
 
