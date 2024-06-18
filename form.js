@@ -6,8 +6,8 @@ document.getElementById('contact-form').addEventListener('submit', function(even
   const message = document.getElementById('message').value;
 
   const data = {
-    service_id: 'YOUR_EMAILJS_SERVICE_ID', // Replace with your actual service ID
-    template_id: 'YOUR_EMAILJS_TEMPLATE_ID', // Replace with your actual template ID
+    service_id: 'service_b2wr6md',
+    template_id: 'template_7huea39',  // Replace with your template ID
     user_id: 'email_r4vFo6Eg3Vv2lkcFqQB9i3ni',
     template_params: {
       'name': name,
