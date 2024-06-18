@@ -8,8 +8,7 @@ document.getElementById('contact-form').addEventListener('submit', function(even
   const data = {
     service_id: 'service_b2wr6md',
     template_id: 'template_7huea39',
-    user_id: '
-email_iPdgUWL0U6gaZd2f0CydTEzP,
+    user_id: 'user_yEbR9FMh83PHJEnkP',
     template_params: {
       'name': name,
       'email': email,
