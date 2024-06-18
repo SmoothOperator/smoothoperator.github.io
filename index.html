@@ -5,38 +5,68 @@
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
     <script type="text/javascript">
         (function() {
-            // https://dashboard.emailjs.com/admin/account
-            emailjs.init({
-              publicKey: "yEbR9FMh83PHJEnkP",
-            });
+            // Initialize EmailJS with your public key
+            emailjs.init('yEbR9FMh83PHJEnkP');
         })();
-    </script>
-    <script type="text/javascript">
+
         window.onload = function() {
             document.getElementById('contact-form').addEventListener('submit', function(event) {
                 event.preventDefault();
-                // these IDs from the previous steps
+                // Provide user feedback during submission
+                document.getElementById('submit-btn').disabled = true;
+                document.getElementById('feedback').textContent = 'Sending...';
+
+                // Send form data
                 emailjs.sendForm('contact_service', 'contact_form', this)
                     .then(() => {
-                        console.log('SUCCESS!');
+                        document.getElementById('feedback').textContent = 'Message sent successfully!';
+                        document.getElementById('submit-btn').disabled = false;
+                        this.reset(); // Clear the form
                     }, (error) => {
-                        console.log('FAILED...', error);
+                        document.getElementById('feedback').textContent = 'Failed to send message. Please try again later.';
+                        console.error('FAILED...', error);
+                        document.getElementById('submit-btn').disabled = false;
                     });
             });
         }
     </script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        form {
+            max-width: 400px;
+            margin: auto;
+            padding: 1em;
+            border: 1px solid #ccc;
+            border-radius: 1em;
+        }
+        label {
+            margin-top: 1em;
+            display: block;
+        }
+        input, textarea {
+            width: 100%;
+            padding: 0.5em;
+            margin-top: 0.5em;
+        }
+        #feedback {
+            margin-top: 1em;
+            font-weight: bold;
+        }
+    </style>
 </head>
 <body>
     <form id="contact-form">
-        <!-- To simplify the tutorial, the value is static. -->
         <input type="hidden" name="contact_number" value="697483">
-        <label>Name</label>
-        <input type="text" name="user_name">
-        <label>Email</label>
-        <input type="email" name="user_email">
-        <label>Message</label>
-        <textarea name="message"></textarea>
-        <input type="submit" value="Send">
+        <label for="user_name">Name</label>
+        <input type="text" id="user_name" name="user_name" required>
+        <label for="user_email">Email</label>
+        <input type="email" id="user_email" name="user_email" required>
+        <label for="message">Message</label>
+        <textarea id="message" name="message" required></textarea>
+        <input type="submit" id="submit-btn" value="Send">
+        <div id="feedback"></div>
     </form>
 </body>
 </html>
