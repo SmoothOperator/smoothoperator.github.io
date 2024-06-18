@@ -7,7 +7,7 @@ document.getElementById('contact-form').addEventListener('submit', function(even
 
   const data = {
     service_id: 'service_b2wr6md',
-    template_id: 'template_7huea39',  // Replace with your template ID
+    template_id: 'template_7huea39',
     user_id: 'email_r4vFo6Eg3Vv2lkcFqQB9i3ni',
     template_params: {
       'name': name,
@@ -27,8 +27,11 @@ document.getElementById('contact-form').addEventListener('submit', function(even
     if (response.ok) {
       alert('Message sent successfully!');
     } else {
-      alert('Failed to send message.');
+      return response.text().then(text => { throw new Error(text); });
     }
   })
-  .catch(error => console.error('Error:', error));
+  .catch(error => {
+    console.error('Error:', error);
+    alert('Failed to send message: ' + error.message);
+  });
 });
