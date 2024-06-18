@@ -16,32 +16,13 @@
                 document.getElementById('submit-btn').disabled = true;
                 document.getElementById('feedback').textContent = 'Sending...';
 
-                const serviceID = 'contact_service';
-                const templateID = 'contact_form';
-                const autoReplyTemplateID = 'reply_0i7u4g3';
-
-                // Send form data to yourself
-                emailjs.sendForm(serviceID, templateID, this)
+                // Send form data
+                emailjs.sendForm('contact_service', 'contact_form', this)
                     .then(() => {
-                        console.log('Form sent successfully');
-
-                        // Send auto-reply to user
-                        const user_email = this.user_email.value;
-                        emailjs.send(serviceID, autoReplyTemplateID, {
-                            user_name: this.user_name.value,
-                            user_email: user_email,
-                            message: this.message.value
-                        }).then(() => {
-                            document.getElementById('feedback').textContent = 'Message sent successfully! Auto-reply has been sent.';
-                            document.getElementById('submit-btn').disabled = false;
-                            this.reset(); // Clear the form
-                        }).catch((error) => {
-                            document.getElementById('feedback').textContent = 'Failed to send auto-reply. Please try again later.';
-                            console.error('Auto-reply failed...', error);
-                            document.getElementById('submit-btn').disabled = false;
-                        });
-
-                    }).catch((error) => {
+                        document.getElementById('feedback').textContent = 'Message sent successfully!';
+                        document.getElementById('submit-btn').disabled = false;
+                        this.reset(); // Clear the form
+                    }, (error) => {
                         document.getElementById('feedback').textContent = 'Failed to send message. Please try again later.';
                         console.error('FAILED...', error);
                         document.getElementById('submit-btn').disabled = false;
