@@ -33,13 +33,17 @@
     <style>
         body {
             font-family: Arial, sans-serif;
+            background-color: #f0f0f5; /* Light grey background */
+            padding: 20px;
         }
         form {
             max-width: 400px;
             margin: auto;
             padding: 1em;
+            background: #ffffff; /* White background for the form */
             border: 1px solid #ccc;
             border-radius: 1em;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
         label {
             margin-top: 1em;
@@ -49,10 +53,24 @@
             width: 100%;
             padding: 0.5em;
             margin-top: 0.5em;
+            border: 1px solid #ccc;
+            border-radius: 0.25em;
+        }
+        input[type="submit"] {
+            background-color: #007bff; /* Bootstrap blue color */
+            color: white;
+            border: none;
+            padding: 0.75em;
+            cursor: pointer;
+            border-radius: 0.25em;
+        }
+        input[type="submit"]:disabled {
+            background-color: #cccccc;
         }
         #feedback {
             margin-top: 1em;
             font-weight: bold;
+            color: #007bff; /* Bootstrap blue color */
         }
     </style>
 </head>
