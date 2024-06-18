@@ -6,9 +6,10 @@ document.getElementById('contact-form').addEventListener('submit', function(even
   const message = document.getElementById('message').value;
 
   const data = {
-    service_id: 'YOUR_EMAILJS_SERVICE_ID',
-    template_id: 'YOUR_EMAILJS_TEMPLATE_ID',
-    user_id: 'YOUR_EMAILJS_USER_ID',
+    service_id: 'service_b2wr6md',
+    template_id: 'emplate_7huea39',
+    user_id: '
+email_r4vFo6Eg3Vv2lkcFqQB9i3ni',
     template_params: {
       'name': name,
       'email': email,
