@@ -19,9 +19,23 @@
                 // Send form data
                 emailjs.sendForm('contact_service', 'contact_form', this)
                     .then(() => {
-                        document.getElementById('feedback').textContent = 'Message sent successfully!';
-                        document.getElementById('submit-btn').disabled = false;
-                        this.reset(); // Clear the form
+                        console.log('Form sent successfully');
+                        // Send auto-reply to user
+                        const user_email = document.getElementById('user_email').value;
+                        const user_name = document.getElementById('user_name').value;
+                        emailjs.send('contact_service', 'reply_0i7u4g3', {
+                            user_name: user_name,
+                            user_email: user_email
+                        })
+                        .then(() => {
+                            document.getElementById('feedback').textContent = 'Message sent successfully! Auto-reply has been sent.';
+                            document.getElementById('submit-btn').disabled = false;
+                            document.getElementById('contact-form').reset(); // Clear the form
+                        }, (error) => {
+                            document.getElementById('feedback').textContent = 'Message sent but auto-reply failed. Please try again later.';
+                            console.error('Auto-reply failed...', error);
+                            document.getElementById('submit-btn').disabled = false;
+                        });
                     }, (error) => {
                         document.getElementById('feedback').textContent = 'Failed to send message. Please try again later.';
                         console.error('FAILED...', error);
