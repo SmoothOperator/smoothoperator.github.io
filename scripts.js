@@ -24,3 +24,10 @@ function calculateOhmsLaw() {
         document.getElementById('resistance').value = (power / (current * current)).toFixed(2);
     }
 }
+
+function resetOhmsLaw() {
+    document.getElementById('voltage').value = '';
+    document.getElementById('resistance').value = '';
+    document.getElementById('current').value = '';
+    document.getElementById('power').value = '';
+}
