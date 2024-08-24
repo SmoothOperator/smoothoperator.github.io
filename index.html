@@ -1,104 +1,13 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Contact Form</title>
-    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
-    <script type="text/javascript">
-        (function() {
-            // Initialize EmailJS with your public key
-            emailjs.init('yEbR9FMh83PHJEnkP');
-        })();
-
-        window.onload = function() {
-            document.getElementById('contact-form').addEventListener('submit', function(event) {
-                event.preventDefault();
-                // Provide user feedback during submission
-                document.getElementById('submit-btn').disabled = true;
-                document.getElementById('feedback').textContent = 'Sending...';
-
-                // Send form data
-                emailjs.sendForm('contact_service', 'contact_form', this)
-                    .then(() => {
-                        console.log('Form sent successfully');
-                        // Send auto-reply to user
-                        const user_email = document.getElementById('user_email').value;
-                        const user_name = document.getElementById('user_name').value;
-                        emailjs.send('contact_service', 'reply_0i7u4g3', {
-                            user_name: user_name,
-                            user_email: user_email
-                        })
-                        .then(() => {
-                            document.getElementById('feedback').textContent = 'Message sent successfully! Auto-reply has been sent.';
-                            document.getElementById('submit-btn').disabled = false;
-                            document.getElementById('contact-form').reset(); // Clear the form
-                        }, (error) => {
-                            document.getElementById('feedback').textContent = 'Message sent but auto-reply failed. Please try again later.';
-                            console.error('Auto-reply failed...', error);
-                            document.getElementById('submit-btn').disabled = false;
-                        });
-                    }, (error) => {
-                        document.getElementById('feedback').textContent = 'Failed to send message. Please try again later.';
-                        console.error('FAILED...', error);
-                        document.getElementById('submit-btn').disabled = false;
-                    });
-            });
-        }
-    </script>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f0f0f5; /* Light grey background */
-            padding: 20px;
-        }
-        form {
-            max-width: 400px;
-            margin: auto;
-            padding: 1em;
-            background: #ffffff; /* White background for the form */
-            border: 1px solid #ccc;
-            border-radius: 1em;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        label {
-            margin-top: 1em;
-            display: block;
-        }
-        input, textarea {
-            width: 100%;
-            padding: 0.5em;
-            margin-top: 0.5em;
-            border: 1px solid #ccc;
-            border-radius: 0.25em;
-        }
-        input[type="submit"] {
-            background-color: #FF02CD; /* Bootstrap blue color */
-            color: white;
-            border: none;
-            padding: 0.75em;
-            cursor: pointer;
-            border-radius: 0.25em;
-        }
-        input[type="submit"]:disabled {
-            background-color: #cccccc;
-        }
-        #feedback {
-            margin-top: 1em;
-            font-weight: bold;
-            color: #FF02CD; /* Bootstrap blue color */
-        }
-    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SmoothOperator</title>
 </head>
 <body>
-    <form id="contact-form">
-        <input type="hidden" name="contact_number" value="697483">
-        <label for="user_name">Name</label>
-        <input type="text" id="user_name" name="user_name" required>
-        <label for="user_email">Email</label>
-        <input type="email" id="user_email" name="user_email" required>
-        <label for="message">Message</label>
-        <textarea id="message" name="message" required></textarea>
-        <input type="submit" id="submit-btn" value="Send">
-        <div id="feedback"></div>
-    </form>
+    <h1>Welcome to SmoothOperator's GitHub Page</h1>
+    <p>This is a simple start. More to come soon!</p>
+    <a href="experiments.html">Go to Experiments</a>
 </body>
 </html>
