@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SmoothOperator</title>
     <link rel="icon" href="animatedfavicon.ico" type="image/x-icon">
-    <script src="scripts.js" defer></script>
     <style>
         /* Default light mode styles */
         body {
@@ -56,21 +55,24 @@
     <br><br>
     <span class="dark-mode-toggle" onclick="toggleDarkMode()">Click here to activate dark mode</span>
 
-    <hr>
+    <script>
+        // Check if dark mode is already enabled
+        if (localStorage.getItem('darkMode') === 'enabled') {
+            document.body.classList.add('dark-mode');
+            document.querySelector('.dark-mode-toggle').textContent = 'Click here to deactivate dark mode';
+        }
 
-    <h2>Voltage, Resistance, Current, and Power Calculator</h2>
-    <form>
-        <label for="voltage">Voltage (V): </label>
-        <input type="number" id="voltage" step="any"><br><br>
-        <label for="resistance">Resistance (Ω): </label>
-        <input type="number" id="resistance" step="any"><br><br>
-        <label for="current">Current (A): </label>
-        <input type="number" id="current" step="any"><br><br>
-        <label for="power">Power (W): </label>
-        <input type="number" id="power" step="any"><br><br>
-        <button type="button" onclick="calculateOhmsLaw()">Calculate</button>
-        <button type="button" onclick="resetOhmsLaw()">Reset</button>
-    </form>
-
+        function toggleDarkMode() {
+            document.body.classList.toggle('dark-mode');
+            const toggleText = document.querySelector('.dark-mode-toggle');
+            if (document.body.classList.contains('dark-mode')) {
+                localStorage.setItem('darkMode', 'enabled');
+                toggleText.textContent = 'Click here to deactivate dark mode';
+            } else {
+                localStorage.setItem('darkMode', 'disabled');
+                toggleText.textContent = 'Click here to activate dark mode';
+            }
+        }
+    </script>
 </body>
 </html>
