@@ -46,32 +46,16 @@
         body.dark-mode .dark-mode-toggle {
             color: #80d8ff;
         }
-
-        #stats {
-            margin-top: 20px;
-            padding: 10px;
-            border: 1px solid #ccc;
-            border-radius: 5px;
-            background-color: #f9f9f9;
-        }
-
-        body.dark-mode #stats {
-            background-color: #1e1e1e;
-            color: #e0e0e0;
-        }
     </style>
 </head>
 <body>
-    <h1>Welcome to SmoothOperator's GitHub Page V7</h1>
+    <h1>Welcome to SmoothOperator's GitHub Page V8</h1>
     <p>This is a simple start. More to come soon!</p>
     <a href="experiments.html">Go to Experiments</a>
     <br><br>
     <span class="dark-mode-toggle" onclick="toggleDarkMode()">Click here to activate dark mode</span>
-
-    <div id="stats">
-        <h2>Site Stats</h2>
-        <p>Visitor Count: <span id="visitor-count">Loading...</span></p>
-    </div>
+    <br><br>
+    <iframe src="stats.html" style="border:none;width:100%;height:100px;"></iframe>
 
     <script>
         // Check if dark mode is already enabled
@@ -91,22 +75,6 @@
                 toggleText.textContent = 'Click here to activate dark mode';
             }
         }
-
-        // Fetch the visitor count from the server
-        function fetchVisitorCount() {
-            fetch('counter.php')
-                .then(response => response.text())
-                .then(data => {
-                    document.getElementById('visitor-count').textContent = data;
-                })
-                .catch(error => {
-                    console.error('Error fetching visitor count:', error);
-                    document.getElementById('visitor-count').textContent = 'Error';
-                });
-        }
-
-        // Call the function to update visitor count on page load
-        fetchVisitorCount();
     </script>
 </body>
 </html>
