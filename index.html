@@ -13,16 +13,37 @@
             transition: background-color 0.3s, color 0.3s;
         }
 
+        a {
+            color: blue;
+            text-decoration: none;
+        }
+
+        a:hover {
+            color: darkblue;
+        }
+
         /* Dark mode styles */
         body.dark-mode {
             background-color: #121212;
             color: #e0e0e0;
         }
 
+        body.dark-mode a {
+            color: #80d8ff; /* Light cyan for better contrast */
+        }
+
+        body.dark-mode a:hover {
+            color: #40c4ff; /* Slightly darker cyan for hover */
+        }
+
         .dark-mode-toggle {
             cursor: pointer;
             text-decoration: underline;
             color: blue;
+        }
+
+        body.dark-mode .dark-mode-toggle {
+            color: #80d8ff;
         }
     </style>
 </head>
