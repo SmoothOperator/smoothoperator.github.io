@@ -1,4 +1,12 @@
-// Dark mode toggle function
+// Dark mode functionality
+if (localStorage.getItem('darkMode') === 'enabled') {
+    document.body.classList.add('dark-mode');
+    const toggleText = document.querySelector('.dark-mode-toggle');
+    if (toggleText) {
+        toggleText.textContent = 'Click here to deactivate dark mode';
+    }
+}
+
 function toggleDarkMode() {
     document.body.classList.toggle('dark-mode');
     const toggleText = document.querySelector('.dark-mode-toggle');
@@ -11,28 +19,17 @@ function toggleDarkMode() {
     }
 }
 
-// Check if dark mode is already enabled
-if (localStorage.getItem('darkMode') === 'enabled') {
-    document.body.classList.add('dark-mode');
-    document.querySelector('.dark-mode-toggle').textContent = 'Click here to deactivate dark mode';
-}
-
-// Function to calculate Ohm's Law
+// Voltage, Resistance, Current Calculator
 function calculateOhmsLaw() {
     const voltage = parseFloat(document.getElementById('voltage').value);
     const resistance = parseFloat(document.getElementById('resistance').value);
     const current = parseFloat(document.getElementById('current').value);
-    let result;
 
     if (!isNaN(voltage) && !isNaN(resistance)) {
-        result = `Current (I) = ${(voltage / resistance).toFixed(2)} A`;
+        document.getElementById('current').value = (voltage / resistance).toFixed(2);
     } else if (!isNaN(voltage) && !isNaN(current)) {
-        result = `Resistance (R) = ${(voltage / current).toFixed(2)} Ω`;
+        document.getElementById('resistance').value = (voltage / current).toFixed(2);
     } else if (!isNaN(resistance) && !isNaN(current)) {
-        result = `Voltage (V) = ${(resistance * current).toFixed(2)} V`;
-    } else {
-        result = 'Please enter two values to calculate the third.';
+        document.getElementById('voltage').value = (resistance * current).toFixed(2);
     }
-
-    document.getElementById('ohms-law-result').textContent = result;
 }
