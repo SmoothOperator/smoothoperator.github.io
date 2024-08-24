@@ -5,48 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SmoothOperator</title>
     <link rel="icon" href="animatedfavicon.ico" type="image/x-icon">
-    <style>
-        /* Default light mode styles */
-        body {
-            background-color: white;
-            color: black;
-            font-family: Arial, sans-serif;
-            transition: background-color 0.3s, color 0.3s;
-        }
-
-        a {
-            color: blue;
-            text-decoration: none;
-        }
-
-        a:hover {
-            color: darkblue;
-        }
-
-        /* Dark mode styles */
-        body.dark-mode {
-            background-color: #121212;
-            color: #e0e0e0;
-        }
-
-        body.dark-mode a {
-            color: #80d8ff; /* Light cyan for better contrast */
-        }
-
-        body.dark-mode a:hover {
-            color: #40c4ff; /* Slightly darker cyan for hover */
-        }
-
-        .dark-mode-toggle {
-            cursor: pointer;
-            text-decoration: underline;
-            color: blue;
-        }
-
-        body.dark-mode .dark-mode-toggle {
-            color: #80d8ff;
-        }
-    </style>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <h1>Welcome to SmoothOperator's GitHub Page</h1>
@@ -55,24 +14,23 @@
     <br><br>
     <span class="dark-mode-toggle" onclick="toggleDarkMode()">Click here to activate dark mode</span>
 
-    <script>
-        // Check if dark mode is already enabled
-        if (localStorage.getItem('darkMode') === 'enabled') {
-            document.body.classList.add('dark-mode');
-            document.querySelector('.dark-mode-toggle').textContent = 'Click here to deactivate dark mode';
-        }
+    <hr>
 
-        function toggleDarkMode() {
-            document.body.classList.toggle('dark-mode');
-            const toggleText = document.querySelector('.dark-mode-toggle');
-            if (document.body.classList.contains('dark-mode')) {
-                localStorage.setItem('darkMode', 'enabled');
-                toggleText.textContent = 'Click here to deactivate dark mode';
-            } else {
-                localStorage.setItem('darkMode', 'disabled');
-                toggleText.textContent = 'Click here to activate dark mode';
-            }
-        }
-    </script>
+    <!-- Voltage, Resistance, and Current Calculator -->
+    <h2>Ohm's Law Calculator</h2>
+    <p>Enter any two values to calculate the third:</p>
+    <label for="voltage">Voltage (V):</label>
+    <input type="number" id="voltage" placeholder="V">
+    <br>
+    <label for="resistance">Resistance (Ω):</label>
+    <input type="number" id="resistance" placeholder="Ω">
+    <br>
+    <label for="current">Current (A):</label>
+    <input type="number" id="current" placeholder="A">
+    <br><br>
+    <button onclick="calculateOhmsLaw()">Calculate</button>
+    <p id="ohms-law-result"></p>
+
+    <script src="scripts.js"></script>
 </body>
 </html>
