@@ -1,1 +1,51 @@
-blank
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Experiments</title>
+    <style>
+        /* Default light mode styles */
+        body {
+            background-color: white;
+            color: black;
+            font-family: Arial, sans-serif;
+            transition: background-color 0.3s, color 0.3s;
+        }
+
+        a {
+            color: blue;
+            text-decoration: none;
+        }
+
+        a:hover {
+            color: darkblue;
+        }
+
+        /* Dark mode styles */
+        body.dark-mode {
+            background-color: #121212;
+            color: #e0e0e0;
+        }
+
+        body.dark-mode a {
+            color: #80d8ff; /* Light cyan for better contrast */
+        }
+
+        body.dark-mode a:hover {
+            color: #40c4ff; /* Slightly darker cyan for hover */
+        }
+    </style>
+</head>
+<body>
+    <h1>Experiments</h1>
+    <p>This page will showcase various experiments and code snippets.</p>
+
+    <script>
+        // Check if dark mode is already enabled
+        if (localStorage.getItem('darkMode') === 'enabled') {
+            document.body.classList.add('dark-mode');
+        }
+    </script>
+</body>
+</html>
