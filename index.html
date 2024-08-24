@@ -59,7 +59,7 @@
     <hr>
 
     <h2>Voltage, Resistance, Current, and Power Calculator</h2>
-    <form oninput="calculateOhmsLaw()">
+    <form>
         <label for="voltage">Voltage (V): </label>
         <input type="number" id="voltage" step="any"><br><br>
         <label for="resistance">Resistance (Ω): </label>
@@ -68,6 +68,8 @@
         <input type="number" id="current" step="any"><br><br>
         <label for="power">Power (W): </label>
         <input type="number" id="power" step="any"><br><br>
+        <button type="button" onclick="calculateOhmsLaw()">Calculate</button>
+        <button type="button" onclick="resetOhmsLaw()">Reset</button>
     </form>
 
 </body>
