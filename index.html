@@ -4,10 +4,45 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SmoothOperator</title>
+    <style>
+        /* Default light mode styles */
+        body {
+            background-color: white;
+            color: black;
+            font-family: Arial, sans-serif;
+            transition: background-color 0.3s, color 0.3s;
+        }
+
+        /* Dark mode styles */
+        body.dark-mode {
+            background-color: #121212;
+            color: #e0e0e0;
+        }
+
+        .dark-mode-toggle {
+            cursor: pointer;
+            text-decoration: underline;
+            color: blue;
+        }
+    </style>
 </head>
 <body>
     <h1>Welcome to SmoothOperator's GitHub Page</h1>
     <p>This is a simple start. More to come soon!</p>
     <a href="experiments.html">Go to Experiments</a>
+    <br><br>
+    <span class="dark-mode-toggle" onclick="toggleDarkMode()">Click here to activate dark mode</span>
+
+    <script>
+        function toggleDarkMode() {
+            document.body.classList.toggle('dark-mode');
+            const toggleText = document.querySelector('.dark-mode-toggle');
+            if (document.body.classList.contains('dark-mode')) {
+                toggleText.textContent = 'Click here to deactivate dark mode';
+            } else {
+                toggleText.textContent = 'Click here to activate dark mode';
+            }
+        }
+    </script>
 </body>
 </html>
