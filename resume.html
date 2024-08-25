@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Experiments</title>
+    <title>Resume - Marshall Peck</title>
     <link rel="icon" href="animatedfavicon.ico" type="image/x-icon">
     <style>
         /* Default light mode styles */
@@ -12,6 +12,9 @@
             color: black;
             font-family: Arial, sans-serif;
             transition: background-color 0.3s, color 0.3s;
+            margin: 0;
+            padding: 10px;
+            text-align: left;
         }
 
         a {
@@ -36,16 +39,41 @@
         body.dark-mode a:hover {
             color: #40c4ff; /* Slightly darker cyan for hover */
         }
+
+        .dark-mode-toggle {
+            cursor: pointer;
+            text-decoration: underline;
+            color: blue;
+        }
+
+        body.dark-mode .dark-mode-toggle {
+            color: #80d8ff;
+        }
     </style>
 </head>
 <body>
     <h1>Marshall Peck</h1>
     <p>In summary...</p>
 
+    <span class="dark-mode-toggle" onclick="toggleDarkMode()">Click here to activate dark mode</span>
+
     <script>
         // Check if dark mode is already enabled
         if (localStorage.getItem('darkMode') === 'enabled') {
             document.body.classList.add('dark-mode');
+            document.querySelector('.dark-mode-toggle').textContent = 'Click here to deactivate dark mode';
+        }
+
+        function toggleDarkMode() {
+            document.body.classList.toggle('dark-mode');
+            const toggleText = document.querySelector('.dark-mode-toggle');
+            if (document.body.classList.contains('dark-mode')) {
+                localStorage.setItem('darkMode', 'enabled');
+                toggleText.textContent = 'Click here to deactivate dark mode';
+            } else {
+                localStorage.setItem('darkMode', 'disabled');
+                toggleText.textContent = 'Click here to activate dark mode';
+            }
         }
     </script>
 </body>
