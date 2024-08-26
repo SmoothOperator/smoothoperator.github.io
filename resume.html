@@ -33,102 +33,139 @@
         }
 
         body.dark-mode a {
-            color: #80d8ff; /* Light cyan for better contrast */
+            color: #80d8ff;
         }
 
         body.dark-mode a:hover {
-            color: #40c4ff; /* Slightly darker cyan for hover */
+            color: #40c4ff;
         }
 
         .dark-mode-toggle {
             cursor: pointer;
             text-decoration: underline;
             color: blue;
-            display: inline-block;
-            margin-top: 20px;
         }
 
         body.dark-mode .dark-mode-toggle {
             color: #80d8ff;
         }
 
-        h1, h2 {
-            margin-bottom: 10px;
+        h1 {
+            font-size: 2em;
+            margin-bottom: 0.5em;
         }
 
-        p, ul {
-            margin-bottom: 20px;
+        h2 {
+            font-size: 1.5em;
+            margin-top: 1.5em;
+            margin-bottom: 0.5em;
+            border-bottom: 1px solid #ccc;
+            padding-bottom: 0.3em;
+        }
+
+        p {
+            margin-bottom: 1em;
         }
 
         ul {
-            list-style-type: disc;
             margin-left: 20px;
+            list-style-type: disc;
+        }
+
+        .contact-info {
+            margin-bottom: 20px;
+        }
+
+        .section-title {
+            font-size: 1.5em;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .subtext {
+            color: gray;
+            font-size: 0.9em;
+            margin-top: -10px;
+            margin-bottom: 20px;
+        }
+
+        .highlight {
+            background-color: #f0f0f0;
+            padding: 5px;
+            border-radius: 5px;
+        }
+
+        hr {
+            border: 0;
+            height: 1px;
+            background: #ccc;
+            margin-top: 20px;
+            margin-bottom: 20px;
         }
     </style>
 </head>
 <body>
+    <span class="dark-mode-toggle" onclick="toggleDarkMode()">Click here to activate dark mode</span>
+
     <h1>Marshall Peck</h1>
-    <p>Email: <a href="mailto:marshallpeck@gmail.com">marshallpeck@gmail.com</a></p>
-    <p>LinkedIn: <a href="#">LinkedIn Profile</a></p>
+    <div class="contact-info">
+        <p>Email: <a href="mailto:marshallpeck@gmail.com">marshallpeck@gmail.com</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/marshallpeck/" target="_blank">Marshall Peck</a></p>
+    </div>
 
-    <h2>Summary</h2>
-    <p>As an independent “freelance”/business owner, I’ve been all over the map both figuratively and literally. I’d like a chance to work for a company on a longer-term basis.</p>
+    <p>As an independent “freelance”/business owner, I’ve been all over the map both figuratively and literally. I’m ready for a long-term commitment to a company where I can contribute my skills and experience.</p>
     <p>I’ve got 10 years of experience as an Industrial Designer, CAD modeler, product developer, 3D printing specialist, and machine designer.</p>
-    <p>If you want a super intimate view of what I’ve been up to, check out my <a href="#">2014-2024 unsorted photogallery</a>. It's got a lot of "creative process" weird oops photos, renders, POV projects, and more from my days running ProtoBuilds.</p>
 
-    <h2>Experience</h2>
-    <p>I have provided 3D printing, prototyping, and consulting services for hundreds of clients since 2014, including SpaceX, NXP, Lifesize, and various businesses or individuals as a freelance individual or via my website and company Protobuilds, LLC.</p>
-    
-    <h2>Passions</h2>
+    <h2 class="section-title">Experience</h2>
+    <p>If you to see what I’ve been up to, check out my <a href="https://photos.app.goo.gl/z1X7arV6D6iKYqBN8" target="_blank">2014-2024 unsorted photogallery</a>. It's a collection of creative process photos, renders, and projects from my time running ProtoBuilds.</p>
+    <p>I’ve worked across multiple industries and disciplines, including mechanical, electrical, and kinematic. My spatial reasoning skills and experience enable me to design, model, and prototype improvements for the physical world. I’ve delivered on projects valued at over $50k, and I’ve managed employees during my time running ProtoBuilds.</p>
+    <p>Since 2014, I’ve provided 3D printing, prototyping, and consulting services to hundreds of clients, including SpaceX, NXP, Lifesize, and various businesses or individuals, either as a freelance individual or through my company, Protobuilds, LLC.</p>
+
+    <h2 class="section-title">Passions</h2>
     <ul>
         <li>Robotics</li>
         <li>Experimental Art</li>
         <li>Science</li>
-        <li>Human-human interaction, human-computer interaction</li>
+        <li>Human-human interaction</li>
+        <li>Human-computer interaction</li>
     </ul>
 
-    <h2>Latest Hobbies</h2>
-    <p>Details about your latest hobbies can go here.</p>
+    <h2 class="section-title">Latest Hobby</h2>
+    <p>Playing around with large language models, ChatGPT, etc.</p>
 
-    <h2>Education</h2>
+    <hr>
+
+    <h2 class="section-title">Education</h2>
     <p>Attended Sam Houston State University 2004-2006 - non-graduate</p>
 
-    <h2>Occupation</h2>
-    <p>Owner and operator of: <a href="https://protobuilds.com">protobuilds.com</a></p>
+    <h2 class="section-title">Occupation</h2>
+    <p>Owner and operator of: <a href="https://protobuilds.com" target="_blank">protobuilds.com</a></p>
 
-    <h2>Online Profiles</h2>
-    <p>Instructables: I have authored 6 instructables on various topics which have placed (won) in 2 contests. Most have been featured and have over 400k total views. Several of these guides have been published in design/3D printing blogs and in official MakeZine ebooks.</p>
-    <p>Designs on Thingiverse: Occasionally, I publish designs that I think are useful or interesting. I focus on sharing usable CAD formats and helpful descriptions.</p>
-    <p>Protobuilds’ eBay and Amazon: Delivering products on time, improving documentation and organization is our motto. I have experience messaging suppliers and negotiating wholesale purchases on platforms like Aliexpress and Alibaba.</p>
-
-    <h2>Skills and Experience</h2>
+    <h2 class="section-title">Online Profiles</h2>
     <ul>
-        <li><strong>Design, manufacturing, and electronics:</strong> Expert competency using Fusion 360, in-depth experience with FDM 3D printing, CNC machining, and more.</li>
-        <li><strong>Programming languages:</strong> Intermediate competency with Arduino IDE, C/C++, Processing/Java.</li>
-        <li><strong>Communication:</strong> Building client relationships, project management, hiring and subcontracting, creating messaging and branding.</li>
-        <li><strong>CAD/CAM applications:</strong> Proficient/expert in Fusion 360, Lightburn, Autodesk Inventor 2013, Corel Draw, Inkscape, Gimp, Simplify3D, Linux CNC, GRBL, Universal Gcode Sender.</li>
+        <li><a href="https://www.instructables.com/" target="_blank">Instructables</a>: Authored 6 instructables on various topics, won 2 contests, featured in several design/3D printing blogs and official MakeZine ebooks. Over 400k total views.</li>
+        <li><a href="https://www.thingiverse.com/" target="_blank">Thingiverse</a>: Occasionally publish designs, focusing on sharing usable CAD formats and helpful descriptions.</li>
+        <li>Protobuilds’ eBay and Amazon: Delivering products on time, improving documentation, and organization is our motto. Experienced in messaging suppliers and negotiating wholesale purchases on platforms like Aliexpress and Alibaba.</li>
     </ul>
 
-    <span class="dark-mode-toggle" onclick="toggleDarkMode()">Click here to activate dark mode</span>
+    <hr>
 
-    <script>
-        // Check if dark mode is already enabled
-        if (localStorage.getItem('darkMode') === 'enabled') {
-            document.body.classList.add('dark-mode');
-            document.querySelector('.dark-mode-toggle').textContent = 'Click here to deactivate dark mode';
-        }
+    <h2 class="section-title">Skills and Experience</h2>
+    <h3>Design, Manufacturing, and Electronics</h3>
+    <ul>
+        <li>Expert competency using Fusion 360 modeling, complex assemblies, freeform t-spline sculpting, motion studies, rendering, animation, and CAM workspaces</li>
+        <li>1000’s of hours of in-depth experience with FDM 3D printing for various applications, materials, and specifications</li>
+        <li>CNC machining, tool path creation with Fusion 360</li>
+        <li>Designing CNC machines such as routers, laser cutters, X/Y plotters, SLA, FDM 3D printers, and familiarity with g-code</li>
+        <li>Intermediate competency designing circuits with discrete components utilizing microcontrollers and I/O peripherals</li>
+    </ul>
 
-        function toggleDarkMode() {
-            document.body.classList.toggle('dark-mode');
-            const toggleText = document.querySelector('.dark-mode-toggle');
-            if (document.body.classList.contains('dark-mode')) {
-                localStorage.setItem('darkMode', 'enabled');
-                toggleText.textContent = 'Click here to deactivate dark mode';
-            } else {
-                localStorage.setItem('darkMode', 'disabled');
-                toggleText.textContent = 'Click here to activate dark mode';
-            }
-        }
-    </script>
-</body>
-</html>
+    <h3>Programming Languages</h3>
+    <ul>
+        <li>Intermediate competency with Arduino IDE, C/C++, Processing/Java</li>
+    </ul>
+
+    <h3>Communication</h3>
+    <ul>
+        <li>Building client relationships</li>
+        <li>Project managemen
