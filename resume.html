@@ -44,69 +44,70 @@
             cursor: pointer;
             text-decoration: underline;
             color: blue;
+            display: inline-block;
+            margin-top: 20px;
         }
 
         body.dark-mode .dark-mode-toggle {
             color: #80d8ff;
         }
 
-        .content-section {
-            margin-bottom: 20px;
-        }
-
-        .photo {
-            width: 200px;
-            height: 200px;
-            background-color: #ddd;
-            margin-bottom: 20px;
-        }
-
-        .header {
-            margin-bottom: 20px;
-        }
-
-        .section-title {
-            font-size: 1.5em;
-            font-weight: bold;
+        h1, h2 {
             margin-bottom: 10px;
         }
 
-        .subtext {
-            color: gray;
-            font-size: 0.9em;
-            margin-top: -10px;
+        p, ul {
             margin-bottom: 20px;
+        }
+
+        ul {
+            list-style-type: disc;
+            margin-left: 20px;
         }
     </style>
 </head>
 <body>
     <h1>Marshall Peck</h1>
-    <p class="subtext">Some interactive elements may not work on mobile.</p>
+    <p>Email: <a href="mailto:marshallpeck@gmail.com">marshallpeck@gmail.com</a></p>
+    <p>LinkedIn: <a href="#">LinkedIn Profile</a></p>
 
-    <div class="content-section">
-        <div class="header">
-            <p>This is going to be a non-traditional resume page as far as format and stuff. Non-traditional in terms of the layout but also the narrative, overall tone and voice. Actually, writing a resume is always something I've had mixed feelings about.</p>
-            <p>Existential crisis aside, let's go ahead and get the basics down first.</p>
-        </div>
+    <h2>Summary</h2>
+    <p>As an independent “freelance”/business owner, I’ve been all over the map both figuratively and literally. I’d like a chance to work for a company on a longer-term basis.</p>
+    <p>I’ve got 10 years of experience as an Industrial Designer, CAD modeler, product developer, 3D printing specialist, and machine designer.</p>
+    <p>If you want a super intimate view of what I’ve been up to, check out my <a href="#">2014-2024 unsorted photogallery</a>. It's got a lot of "creative process" weird oops photos, renders, POV projects, and more from my days running ProtoBuilds.</p>
 
-        <div class="photo">[Photo Placeholder]</div>
+    <h2>Experience</h2>
+    <p>I have provided 3D printing, prototyping, and consulting services for hundreds of clients since 2014, including SpaceX, NXP, Lifesize, and various businesses or individuals as a freelance individual or via my website and company Protobuilds, LLC.</p>
+    
+    <h2>Passions</h2>
+    <ul>
+        <li>Robotics</li>
+        <li>Experimental Art</li>
+        <li>Science</li>
+        <li>Human-human interaction, human-computer interaction</li>
+    </ul>
 
-        <p><strong>Born:</strong> 1986</p>
-        <p><strong>Location:</strong> Austin, TX</p>
-        <p><strong>Current Role:</strong> Industrial Designer, 3D Printing Specialist, Entrepreneur/Business Owner/Freelancer with 10+ years experience.</p>
-    </div>
+    <h2>Latest Hobbies</h2>
+    <p>Details about your latest hobbies can go here.</p>
 
-    <div class="content-section">
-        <h2 class="section-title">What I Want</h2>
-        <p>Hardly ever has a question been so crafted as to cause such introspection as "What do you want?". It's almost condescending. In some contexts that phrase can be so abrupt as to be considered almost rude. Just try fitting it into a conversation and see how long of a pause you'll get.</p>
-        <p>So, in the spirit of the above question, I want to know who's got a good answer to that question and how they feel trying to answer it. It's work. The answer is always work.</p>
-        <p><strong>(Minimum Requirements)</strong></p>
-        <ul>
-            <li>Employment that pays at least 2 1/2 times the median rent where the business is primarily located. (That's only about $54k/year in Austin, TX.)</li>
-            <li>On-site, in-office, in-person, collaborative position that requires my creative, professional/technical experience for an established business whose company culture is introspective, self-aware, ethical, transparent, and that I enjoy learning from.</li>
-            <li>I'm at the point in my career that I want a unique, well-defined role with projects and goals that I can make meaningful contributions to for a number of years.</li>
-        </ul>
-    </div>
+    <h2>Education</h2>
+    <p>Attended Sam Houston State University 2004-2006 - non-graduate</p>
+
+    <h2>Occupation</h2>
+    <p>Owner and operator of: <a href="https://protobuilds.com">protobuilds.com</a></p>
+
+    <h2>Online Profiles</h2>
+    <p>Instructables: I have authored 6 instructables on various topics which have placed (won) in 2 contests. Most have been featured and have over 400k total views. Several of these guides have been published in design/3D printing blogs and in official MakeZine ebooks.</p>
+    <p>Designs on Thingiverse: Occasionally, I publish designs that I think are useful or interesting. I focus on sharing usable CAD formats and helpful descriptions.</p>
+    <p>Protobuilds’ eBay and Amazon: Delivering products on time, improving documentation and organization is our motto. I have experience messaging suppliers and negotiating wholesale purchases on platforms like Aliexpress and Alibaba.</p>
+
+    <h2>Skills and Experience</h2>
+    <ul>
+        <li><strong>Design, manufacturing, and electronics:</strong> Expert competency using Fusion 360, in-depth experience with FDM 3D printing, CNC machining, and more.</li>
+        <li><strong>Programming languages:</strong> Intermediate competency with Arduino IDE, C/C++, Processing/Java.</li>
+        <li><strong>Communication:</strong> Building client relationships, project management, hiring and subcontracting, creating messaging and branding.</li>
+        <li><strong>CAD/CAM applications:</strong> Proficient/expert in Fusion 360, Lightburn, Autodesk Inventor 2013, Corel Draw, Inkscape, Gimp, Simplify3D, Linux CNC, GRBL, Universal Gcode Sender.</li>
+    </ul>
 
     <span class="dark-mode-toggle" onclick="toggleDarkMode()">Click here to activate dark mode</span>
 
