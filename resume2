@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume - Marshall Peck</title>
+    <link rel="icon" href="animatedfavicon.ico" type="image/x-icon">
+    <style>
+        /* Default light mode styles */
+        body {
+            background-color: #f5f5f5; /* Softer white */
+            color: #333; /* Darker grey for text */
+            font-family: Arial, sans-serif;
+            transition: background-color 0.3s, color 0.3s;
+            margin: 0;
+            padding: 10px;
+            text-align: left;
+        }
+
+        a {
+            color: blue;
+            text-decoration: none;
+        }
+
+        a:hover {
+            color: darkblue;
+        }
+
+        /* Dark mode styles */
+        body.dark-mode {
+            background-color: #1c1c1c; /* Dark grey */
+            color: #e0e0e0; /* Softer light grey */
+        }
+
+        body.dark-mode a {
+            color: #80d8ff;
+        }
+
+        body.dark-mode a:hover {
+            color: #40c4ff;
+        }
+
+        .dark-mode-toggle {
+            cursor: pointer;
+            text-decoration: underline;
+            color: blue;
+            display: block;
+            margin-top: 10px;
+            margin-bottom: 20px;
+        }
+
+        body.dark-mode .dark-mode-toggle {
+            color: #80d8ff;
+        }
+
+        h1 {
+            font-size: 2em;
+            margin-bottom: 0.5em;
+        }
+
+        h2 {
+            font-size: 1.5em;
+            margin-top: 1.5em;
+            margin-bottom: 0.5em;
+        }
+
+        p {
+            margin-bottom: 1em;
+            line-height: 1.6; /* Improve readability */
+        }
+
+        ul {
+            margin-left: 20px;
+            list-style-type: disc;
+        }
+
+        .contact-info {
+            margin-bottom: 20px;
+        }
+
+        .subtext {
+            color: gray;
+            font-size: 0.9em;
+            margin-top: -10px;
+            margin-bottom: 20px;
+        }
+
+        .sassy-note {
+            font-size: 1.1em;
+            color: gray;
+            margin-top: 20px;
+            font-family: 'Georgia', serif; /* Slightly different font for a more conversational tone */
+        }
+
+        body.dark-mode .sassy-note {
+            color: #aaaaaa;
+        }
+    </style>
+</head>
+<body>
+    <h1>Marshall Peck</h1>
+    <span class="dark-mode-toggle" onclick="toggleDarkMode()">Click here to activate dark mode</span>
+
+    <div class="contact-info">
+        <p>Email: <a href="mailto:marshallpeck@gmail.com">marshallpeck@gmail.com</a></p>
+        <p><a href="https://www.linkedin.com/in/marshallpeck/" target="_blank">LinkedIn</a></p>
+    </div>
+
+    <p>As an independent “freelance”/business owner, I’ve been all over the map both figuratively and literally. I’m ready for a long-term commitment to a company where I can contribute my skills and experience.</p>
+    <p>I’ve got 10 years of experience as an Industrial Designer, CAD modeler, product developer, 3D printing specialist, and machine designer.</p>
+
+    <h2>Experience</h2>
+    <p>If you want a deeper dive into what I’ve been up to, check out my <a href="https://photos.app.goo.gl/z1X7arV6D6iKYqBN8" target="_blank">2014-2024 unsorted photogallery</a>. It's a collection of creative process photos, renders, and POV projects from my time running ProtoBuilds.</p>
+    <p>I’ve worked across multiple industries and disciplines, including mechanical, electrical, and kinematic. My spatial reasoning skills and experience enable me to design, model, and prototype improvements for the physical world. I’ve delivered on projects valued at over $50k, and I’ve managed employees during my time running ProtoBuilds.</p>
+    <p>Since 2014, I’ve provided 3D printing, prototyping, and consulting services to hundreds of clients, including SpaceX, NXP, Lifesize, and various businesses or individuals, either as a freelance individual or through my company, Protobuilds, LLC.</p>
+
+    <div class="sassy-note">
+        <p>And yeah, I’ve been running ProtoBuilds for a while now, handling everything from managing employees to delivering on big projects. No big deal, just what I do.</p>
+    </div>
+
+    <h2>Passions</h2>
+    <ul>
+        <li>Robotics</li>
+        <li>Experimental Art</li>
+        <li>Science</li>
+        <li>Human-human interaction</li>
+        <li>Human-computer interaction</li>
+    </ul>
+
+    <h2>Latest Hobby</h2>
+    <p>Playing around with large language models, ChatGPT, etc.</p>
+
+    <h2>Education</h2>
+    <p>Attended Sam Houston State University 2004-2006 - non-graduate</p>
+
+    <h2>Occupation</h2>
+    <p>Owner and operator of: <a href="https://protobuilds.com" target="_blank">protobuilds.com</a></p>
+
+    <h2>Online Profiles</h2>
+    <ul>
+        <li><a href="https://www.instructables.com/" target="_blank">Instructables</a>: Authored 6 instructables on various topics, won 2 contests, featured in several design/3D printing blogs and official MakeZine ebooks. Over 400k total views.</li>
+        <li><a href="https://www.thingiverse.com/" target="_blank">Thingiverse</a>: Occasionally publish designs, focusing on sharing usable CAD formats and helpful descriptions.</li>
+        <li>Protobuilds’ eBay and Amazon: Delivering products on time, improving documentation, and organization is our motto. Experienced in messaging suppliers and negotiating wholesale purchases on platforms like Aliexpress and Alibaba.</li>
+    </ul>
+
+    <h2>Skills and Experience</h2>
+    <h3>Design, Manufacturing, and Electronics</h3>
+    <ul>
+        <li>Expert competency using Fusion 360 modeling, complex assemblies, freeform t-spline sculpting, motion studies, rendering, animation, and CAM workspaces</li>
+        <li>1000’s of hours of in-depth experience with FDM 3D printing for various applications, materials, and specifications</li>
+        <li>CNC machining, tool path creation with Fusion 360</li>
+        <li>Designing CNC machines such as routers, laser cutters, X/Y plotters, SLA, FDM 3D printers, and familiarity with g-code</li>
+        <li>Intermediate competency designing circuits with discrete components utilizing microcontrollers and I/O peripherals</li>
+    </ul>
+
+    <h3>Programming Languages</h3>
+    <ul>
+        <li>Intermediate competency with Arduino IDE, C/C++, Processing/Java</li>
+    </ul>
+
+    <h3>Communication</h3>
+    <ul>
+        <li>Building client relationships</li>
+        <li>Project management</li>
+        <li>Hiring and subcontracting</li>
+        <li>Creating messaging and branding</li>
+    </ul>
+
+    <h3>CAD/CAM Applications - Proficient/Expert</h3>
+    <ul>
+        <li>Fusion 360 - Expert</li>
+        <li>Lightburn - Proficient</li>
+        <li>Autodesk Inventor 2013 - Proficient</li>
+        <li>Corel Draw - Proficient</li>
+        <li>Inkscape - Expert</li>
+        <li>Gimp - Proficient</li>
+        <li>Simplify3D - Expert</li>
+        <li>Linux CNC - Proficient</li>
+        <li>GRBL - Proficient</li>
+        <li>Universal Gcode Sender - Expert</li>
+    </ul>
+
+    <script>
+        // Check if dark mode is already enabled
+        if (localStorage.getItem('darkMode') === 'enabled') {
+            document.body.classList.add('dark-mode');
+            document.querySelector('.dark-mode-toggle').textContent = 'Click here to deactivate dark mode';
+        }
+
+        function toggleDarkMode() {
+            document.body.classList.toggle('dark-mode');
+            const toggleText = document.querySelector('.dark-mode-toggle');
+            if (document.body.classList.contains('dark-mode')) {
+                localStorage.setItem('darkMode', 'enabled');
+                toggleText.textContent = 'Click here to deactivate dark mode';
+            } else {
+                localStorage.setItem('darkMode', 'disabled');
+                toggleText.textContent = 'Click here to activate dark mode';
+            }
+        }
+    </script>
+</body>
+</html>
