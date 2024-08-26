@@ -49,11 +49,64 @@
         body.dark-mode .dark-mode-toggle {
             color: #80d8ff;
         }
+
+        .content-section {
+            margin-bottom: 20px;
+        }
+
+        .photo {
+            width: 200px;
+            height: 200px;
+            background-color: #ddd;
+            margin-bottom: 20px;
+        }
+
+        .header {
+            margin-bottom: 20px;
+        }
+
+        .section-title {
+            font-size: 1.5em;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .subtext {
+            color: gray;
+            font-size: 0.9em;
+            margin-top: -10px;
+            margin-bottom: 20px;
+        }
     </style>
 </head>
 <body>
     <h1>Marshall Peck</h1>
-    <p>Some elements might only work in standard browswers.</p>
+    <p class="subtext">Some interactive elements may not work on mobile.</p>
+
+    <div class="content-section">
+        <div class="header">
+            <p>This is going to be a non-traditional resume page as far as format and stuff. Non-traditional in terms of the layout but also the narrative, overall tone and voice. Actually, writing a resume is always something I've had mixed feelings about.</p>
+            <p>Existential crisis aside, let's go ahead and get the basics down first.</p>
+        </div>
+
+        <div class="photo">[Photo Placeholder]</div>
+
+        <p><strong>Born:</strong> 1986</p>
+        <p><strong>Location:</strong> Austin, TX</p>
+        <p><strong>Current Role:</strong> Industrial Designer, 3D Printing Specialist, Entrepreneur/Business Owner/Freelancer with 10+ years experience.</p>
+    </div>
+
+    <div class="content-section">
+        <h2 class="section-title">What I Want</h2>
+        <p>Hardly ever has a question been so crafted as to cause such introspection as "What do you want?". It's almost condescending. In some contexts that phrase can be so abrupt as to be considered almost rude. Just try fitting it into a conversation and see how long of a pause you'll get.</p>
+        <p>So, in the spirit of the above question, I want to know who's got a good answer to that question and how they feel trying to answer it. It's work. The answer is always work.</p>
+        <p><strong>(Minimum Requirements)</strong></p>
+        <ul>
+            <li>Employment that pays at least 2 1/2 times the median rent where the business is primarily located. (That's only about $54k/year in Austin, TX.)</li>
+            <li>On-site, in-office, in-person, collaborative position that requires my creative, professional/technical experience for an established business whose company culture is introspective, self-aware, ethical, transparent, and that I enjoy learning from.</li>
+            <li>I'm at the point in my career that I want a unique, well-defined role with projects and goals that I can make meaningful contributions to for a number of years.</li>
+        </ul>
+    </div>
 
     <span class="dark-mode-toggle" onclick="toggleDarkMode()">Click here to activate dark mode</span>
 
