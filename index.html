@@ -90,6 +90,12 @@
             height: auto; /* Ensure image scales correctly */
             margin-top: 20px;
         }
+
+        .thumbnail {
+            max-width: 200px; /* Size the thumbnail */
+            cursor: pointer; /* Show pointer on hover */
+            margin-top: 20px;
+        }
     </style>
 </head>
 <body>
@@ -103,10 +109,14 @@
         <p>Here's a <a href="resume.html" class="resume-link" target="_blank">resume</a> link. Enjoy!</p>
     </div>
 
-    <!-- Adding the image here -->
-    <img src="images/Voxel%20OX%20Render.png" alt="Voxel OX Render">
+    <!-- Adding the thumbnail -->
+    <img id="thumbnail" class="thumbnail" src="images/Voxel%20OX%20Render.png" alt="Thumbnail of Voxel OX Render">
 
-    <!-- Link to external darkmode.js file -->
+    <!-- Adding the full-size image -->
+    <img id="fullsize" src="images/Voxel%20OX%20Render.png" alt="Voxel OX Render" style="display: none;">
+
+    <!-- Link to external scripts -->
     <script src="scripts/darkmode.js"></script>
+    <script src="scripts/thumbnail.js"></script>
 </body>
 </html>
