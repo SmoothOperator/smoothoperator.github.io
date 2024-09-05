@@ -96,6 +96,13 @@
             cursor: pointer;
             margin-top: 20px;
         }
+
+        .fullsize {
+            display: none;
+            max-width: 100%; /* Ensures full-size image doesn't exceed the page width */
+            height: auto;
+            margin-top: 20px;
+        }
     </style>
 </head>
 <body>
@@ -116,12 +123,12 @@
     <!-- Thumbnail for Voxel OX Render -->
     <img id="thumbnail-1" class="thumbnail" src="images/voxelox/Voxel%20OX%20Render.png" alt="Thumbnail of Voxel OX Render">
     <!-- Full-size image for Voxel OX Render -->
-    <img id="fullsize-1" src="images/voxelox/Voxel%20OX%20Render.png" alt="Voxel OX Render" style="display: none;">
+    <img id="fullsize-1" class="fullsize" src="images/voxelox/Voxel%20OX%20Render.png" alt="Voxel OX Render">
 
     <!-- Thumbnail for Assembled Voxel OX -->
     <img id="thumbnail-2" class="thumbnail" src="images/voxelox/assembled%20Voxel%20Ox.png" alt="Thumbnail of Assembled Voxel OX">
     <!-- Full-size image for Assembled Voxel OX -->
-    <img id="fullsize-2" src="images/voxelox/assembled%20Voxel%20Ox.png" alt="Assembled Voxel OX" style="display: none;">
+    <img id="fullsize-2" class="fullsize" src="images/voxelox/assembled%20Voxel%20Ox.png" alt="Assembled Voxel OX">
 
     <!-- Link to external scripts -->
     <script src="scripts/darkmode.js"></script>
