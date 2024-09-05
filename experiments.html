@@ -12,6 +12,8 @@
             color: black;
             font-family: Arial, sans-serif;
             transition: background-color 0.3s, color 0.3s;
+            margin: 0;
+            padding: 10px;
         }
 
         a {
@@ -36,16 +38,99 @@
         body.dark-mode a:hover {
             color: #40c4ff; /* Slightly darker cyan for hover */
         }
+
+        .dark-mode-toggle {
+            cursor: pointer;
+            text-decoration: underline;
+            color: blue;
+            display: inline-block;
+            margin-top: 10px;
+            margin-bottom: 20px;
+        }
+
+        body.dark-mode .dark-mode-toggle {
+            color: #80d8ff;
+        }
+
+        h1 {
+            font-size: 2em;
+            margin-bottom: 0.5em;
+        }
+
+        .scroll-container {
+            display: flex;
+            overflow-x: scroll;
+            white-space: nowrap;
+            margin-top: 20px;
+        }
+
+        .scroll-container img {
+            max-width: 150px;
+            height: auto;
+            margin-right: 10px;
+        }
+
+        .back-link {
+            font-size: 1em;
+            color: crimson;
+        }
     </style>
 </head>
 <body>
-    <h1>Experiments V6</h1>
-    <p>This page will showcase various experiments and code snippets.</p>
 
+    <!-- Back button -->
+    <a href="index.html" class="back-link">Back to Home</a>
+
+    <h1>Experiment #1: Scrolling Gallery</h1>
+    
+    <!-- Scrolling gallery container -->
+    <div class="scroll-container">
+        <!-- Add the thumbnails -->
+        <img src="Experiment%20#1:%20Scrolling%20Gallery/images/vac%20rake.png" alt="Vac Rake">
+        <img src="Experiment%20#1:%20Scrolling%20Gallery/images/TR%20logo%20replacement.png" alt="TR Logo Replacement">
+        <img src="Experiment%20#1:%20Scrolling%20Gallery/images/SlickRock%20Shale%20STEP%20v5.png" alt="SlickRock Shale STEP v5">
+        <img src="Experiment%20#1:%20Scrolling%20Gallery/images/slickrock.png" alt="Slickrock">
+        <img src="Experiment%20#1:%20Scrolling%20Gallery/images/stage%20and%20audience.jpg" alt="Stage and Audience">
+        <img src="Experiment%20#1:%20Scrolling%20Gallery/images/swirly%20things.jpg" alt="Swirly Things">
+        <img src="Experiment%20#1:%20Scrolling%20Gallery/images/makerarm%20base2.png" alt="Makerarm Base2">
+        <img src="Experiment%20#1:%20Scrolling%20Gallery/images/minigolf1.jpg" alt="Minigolf">
+        <img src="Experiment%20#1:%20Scrolling%20Gallery/images/painted%20dome%202.png" alt="Painted Dome 2">
+        <img src="Experiment%20#1:%20Scrolling%20Gallery/images/painted%20dome.png" alt="Painted Dome">
+        <img src="Experiment%20#1:%20Scrolling%20Gallery/images/projector%20room.png" alt="Projector Room">
+        <img src="Experiment%20#1:%20Scrolling%20Gallery/images/screen%20and%20chair.png" alt="Screen and Chair">
+        <img src="Experiment%20#1:%20Scrolling%20Gallery/images/Setup%20Render%20v2.png" alt="Setup Render v2">
+        <img src="Experiment%20#1:%20Scrolling%20Gallery/images/helmet.jpg" alt="Helmet">
+        <img src="Experiment%20#1:%20Scrolling%20Gallery/images/Insect%20and%20Octo%20Table%20v3.png" alt="Insect and Octo Table v3">
+        <img src="Experiment%20#1:%20Scrolling%20Gallery/images/fotek.png" alt="Fotek">
+        <img src="Experiment%20#1:%20Scrolling%20Gallery/images/fabric%20render.jpg" alt="Fabric Render">
+        <img src="Experiment%20#1:%20Scrolling%20Gallery/images/dome%20display.png" alt="Dome Display">
+        <img src="Experiment%20#1:%20Scrolling%20Gallery/images/ebay%20logo%20voxel%20latest%20rendering.jpg" alt="eBay Logo Voxel">
+        <img src="Experiment%20#1:%20Scrolling%20Gallery/images/Dealership%20v1.png" alt="Dealership v1">
+        <img src="Experiment%20#1:%20Scrolling%20Gallery/images/dealership.png" alt="Dealership">
+        <img src="Experiment%20#1:%20Scrolling%20Gallery/images/banana%20and%20glass" alt="Banana and Glass">
+    </div>
+
+    <!-- Dark mode toggle -->
+    <span class="dark-mode-toggle" onclick="toggleDarkMode()">Click here to activate dark mode</span>
+
+    <script src="scripts/darkmode.js"></script>
     <script>
         // Check if dark mode is already enabled
         if (localStorage.getItem('darkMode') === 'enabled') {
             document.body.classList.add('dark-mode');
+            document.querySelector('.dark-mode-toggle').textContent = 'Click here to deactivate dark mode';
+        }
+
+        function toggleDarkMode() {
+            document.body.classList.toggle('dark-mode');
+            const toggleText = document.querySelector('.dark-mode-toggle');
+            if (document.body.classList.contains('dark-mode')) {
+                localStorage.setItem('darkMode', 'enabled');
+                toggleText.textContent = 'Click here to deactivate dark mode';
+            } else {
+                localStorage.setItem('darkMode', 'disabled');
+                toggleText.textContent = 'Click here to activate dark mode';
+            }
         }
     </script>
 </body>
