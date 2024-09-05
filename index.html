@@ -44,7 +44,7 @@
             cursor: pointer;
             text-decoration: underline;
             color: blue;
-            display: inline; /* Changed to make sure only the text is clickable */
+            display: inline; /* Ensure only the text is clickable */
             margin-top: 10px;
             margin-bottom: 20px;
         }
@@ -78,11 +78,17 @@
             font-size: 1.1em;
             color: gray;
             margin-top: 20px;
-            font-family: Arial, sans-serif; /* Changed to match the rest */
+            font-family: Arial, sans-serif; /* Consistent font */
         }
 
         body.dark-mode .sassy-note {
             color: #aaaaaa;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto; /* Ensure image scales correctly */
+            margin-top: 20px;
         }
     </style>
 </head>
@@ -96,6 +102,9 @@
     <div class="sassy-note">
         <p>Here's a <a href="resume.html" class="resume-link" target="_blank">resume</a> link. Enjoy!</p>
     </div>
+
+    <!-- Adding the image here -->
+    <img src="images/Voxel%20OX%20Render.png" alt="Voxel OX Render">
 
     <script>
         // Check if dark mode is already enabled
