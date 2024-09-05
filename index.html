@@ -44,7 +44,7 @@
             cursor: pointer;
             text-decoration: underline;
             color: blue;
-            display: inline; /* Ensure only the text is clickable */
+            display: inline;
             margin-top: 10px;
             margin-bottom: 20px;
         }
@@ -60,7 +60,7 @@
 
         p {
             margin-bottom: 1em;
-            line-height: 1.6; /* Improve readability */
+            line-height: 1.6;
         }
 
         .resume-link {
@@ -78,7 +78,7 @@
             font-size: 1.1em;
             color: gray;
             margin-top: 20px;
-            font-family: Arial, sans-serif; /* Consistent font */
+            font-family: Arial, sans-serif;
         }
 
         body.dark-mode .sassy-note {
@@ -87,19 +87,19 @@
 
         img {
             max-width: 100%;
-            height: auto; /* Ensure image scales correctly */
+            height: auto;
             margin-top: 20px;
         }
 
         .thumbnail {
-            max-width: 200px; /* Size the thumbnail */
-            cursor: pointer; /* Show pointer on hover */
+            max-width: 200px;
+            cursor: pointer;
             margin-top: 20px;
         }
     </style>
 </head>
 <body>
-    <h1>Welcome to SmoothOperator Vthumbnail</h1>
+    <h1>Welcome to SmoothOperator</h1>
     <p>This is me just like playing around with Github pages.</p>
     <a href="experiments.html">Go to Experiments</a>
     <br><br>
@@ -109,11 +109,19 @@
         <p>Here's a <a href="resume.html" class="resume-link" target="_blank">resume</a> link. Enjoy!</p>
     </div>
 
-    <!-- Adding the thumbnail -->
-    <img id="thumbnail" class="thumbnail" src="images/Voxel%20OX%20Render.png" alt="Thumbnail of Voxel OX Render">
+    <!-- Adding thumbnails for the Voxel OX images -->
+    <h2>Voxel OX Project</h2>
+    <p>Click the thumbnails below to view the full-size images:</p>
 
-    <!-- Adding the full-size image -->
-    <img id="fullsize" src="images/Voxel%20OX%20Render.png" alt="Voxel OX Render" style="display: none;">
+    <!-- Thumbnail for Voxel OX Render -->
+    <img id="thumbnail-1" class="thumbnail" src="images/voxelox/Voxel%20OX%20Render.png" alt="Thumbnail of Voxel OX Render">
+    <!-- Full-size image for Voxel OX Render -->
+    <img id="fullsize-1" src="images/voxelox/Voxel%20OX%20Render.png" alt="Voxel OX Render" style="display: none;">
+
+    <!-- Thumbnail for Assembled Voxel OX -->
+    <img id="thumbnail-2" class="thumbnail" src="images/voxelox/assembled%20Voxel%20Ox.png" alt="Thumbnail of Assembled Voxel OX">
+    <!-- Full-size image for Assembled Voxel OX -->
+    <img id="fullsize-2" src="images/voxelox/assembled%20Voxel%20Ox.png" alt="Assembled Voxel OX" style="display: none;">
 
     <!-- Link to external scripts -->
     <script src="scripts/darkmode.js"></script>
