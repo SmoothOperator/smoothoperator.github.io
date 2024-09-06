@@ -72,9 +72,9 @@
             margin-bottom: 20px;
         }
 
-        .static-gallery img {
-            max-width: 150px;
-            height: auto;
+        .static-gallery img, .scroll-container img {
+            height: 150px; /* Set a fixed height for all images */
+            width: auto; /* Maintain aspect ratio */
         }
 
         /* Scrolling gallery */
@@ -83,12 +83,6 @@
             overflow-x: scroll;
             white-space: nowrap;
             margin-top: 20px;
-        }
-
-        .scroll-container img {
-            max-width: 150px;
-            height: auto;
-            margin-right: 10px;
         }
 
         .back-link {
