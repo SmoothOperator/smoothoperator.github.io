@@ -72,7 +72,7 @@
             margin-bottom: 20px;
         }
 
-        .static-gallery img, .scroll-container img {
+        .static-gallery img, .scroll-container img, .loop-container img {
             height: 150px; /* Set a fixed height for all images */
             width: auto; /* Maintain aspect ratio */
         }
@@ -83,6 +83,28 @@
             overflow-x: scroll;
             white-space: nowrap;
             margin-top: 20px;
+        }
+
+        /* Infinite scrolling gallery */
+        .loop-container {
+            display: flex;
+            overflow: hidden;
+            white-space: nowrap;
+            width: 100%; /* Ensure it fits within the container width */
+        }
+
+        .loop {
+            display: flex;
+            animation: scroll 20s linear infinite; /* Scroll effect */
+        }
+
+        @keyframes scroll {
+            from {
+                transform: translateX(0);
+            }
+            to {
+                transform: translateX(-100%);
+            }
         }
 
         .back-link {
@@ -165,11 +187,6 @@
             <img src="Experiment%20%231:%20Scrolling%20Gallery/images/screen%20and%20chair.png" alt="Screen and Chair">
         </div>
     </div>
-
-    <!-- Dark mode functionality -->
-    <script src="scripts/darkmode.js"></script>
-</body>
-</html>
 
     <!-- Dark mode functionality -->
     <script src="scripts/darkmode.js"></script>
