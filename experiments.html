@@ -1,116 +1,78 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SmoothOperator Experiments</title>
-  <link rel="icon" href="animatedfavicon.ico" type="image/x-icon">
-  <style>
-    /* Default light mode styles */
-    body {
-      background-color: #f5f5f5; /* Softer white */
-      color: #333; /* Darker grey for text */
-      font-family: Arial, sans-serif;
-      transition: background-color 0.3s, color 0.3s;
-      margin: 0;
-      padding: 10px;
-      text-align: left;
-    }
-    a {
-      color: blue;
-      text-decoration: none;
-    }
-    a:hover {
-      color: darkblue;
-    }
-    /* Dark mode styles */
-    body.dark-mode {
-      background-color: #1c1c1c; /* Dark grey */
-      color: #e0e0e0; /* Softer light grey */
-    }
-    body.dark-mode a {
-      color: #80d8ff;
-    }
-    body.dark-mode a:hover {
-      color: #40c4ff;
-    }
-    .dark-mode-toggle {
-      cursor: pointer;
-      text-decoration: underline;
-      color: blue;
-      display: inline;
-      margin-top: 10px;
-      margin-bottom: 20px;
-    }
-    body.dark-mode .dark-mode-toggle {
-      color: #80d8ff;
-    }
-    h1 {
-      font-size: 2em;
-      margin-bottom: 0.5em;
-    }
-    p {
-      margin-bottom: 1em;
-      line-height: 1.6;
-    }
-    .resume-link {
-      margin-top: 20px;
-      display: inline-block;
-      color: crimson;
-      font-weight: bold;
-    }
-    .resume-link:hover {
-      color: red;
-    }
-    .sassy-note {
-      font-size: 1.1em;
-      color: gray;
-      margin-top: 20px;
-      font-family: Arial, sans-serif;
-    }
-    body.dark-mode .sassy-note {
-      color: #aaaaaa;
-    }
-    img {
-      max-width: 100%;
-      height: auto;
-      margin-top: 20px;
-    }
-    .thumbnail {
-      max-width: 200px;
-      cursor: pointer;
-      margin-top: 20px;
-    }
-    .fullsize {
-      display: none;
-      max-width: 100%;
-      height: auto;
-      margin-top: 20px;
-    }
-  </style>
-</head>
-<body>
-  <h1>Welcome to SmoothOperator gallery</h1>
-  <p>This is my experiments page where I'm messing around with fresh ideas and quirky projects.</p>
-  <a href="index.html">Back to Home</a>
-  <br><br>
-  <span class="dark-mode-toggle" onclick="toggleDarkMode()">Click here to activate dark mode</span>
+# Markdown Crash Course 🔥
 
-  <div class="sassy-note">
-    <p>Wanna peep my other work? Check out my <a href="resume.html" class="resume-link" target="_blank">resume</a>.</p>
-  </div>
+Yo, here's your quick-and-easy Markdown guide to style your GitHub.io pages effortlessly.
 
-  <!-- Add your experimental projects or content below -->
-  <h2>Experiment Zone</h2>
-  <p>Time to get creative! Insert your wild experiments, sketches, or tech demos right here.</p>
+---
 
-  <!-- Example thumbnail for an experiment -->
-  <img id="thumbnail-exp" class="thumbnail" src="images/experiments/experiment1.png" alt="Thumbnail of Experiment 1">
-  <!-- Full-size image for the experiment -->
-  <img id="fullsize-exp" class="fullsize" src="images/experiments/experiment1.png" alt="Full-size Experiment 1">
+## Headings 🧢
 
-  <!-- External scripts -->
-  <script src="scripts/darkmode.js"></script>
-  <script src="scripts/thumbnail.js"></script>
-</body>
-</html>
+# Big-ass Title (`#`)
+## Smaller Heading (`##`)
+### Even Smaller (`###`)
+#### You get the point (`####`)
+
+---
+
+## Text Styles 🎨
+
+**Bold text** using `**Bold text**`
+
+*Italicized text* using `*Italicized text*`
+
+~~Strikethrough~~ using `~~Strikethrough~~`
+
+---
+
+## Lists (Because organization is hot) 📝
+
+### Bullet points
+- First thing
+- Another thing
+- Yet another badass thing
+
+### Numbered List
+1. Step one
+2. Step two
+3. Profit!
+
+---
+
+## Links (so clickable it hurts) 🔗
+
+Here's a [link to GitHub](https://github.com/) using `[link text](URL)`
+
+---
+
+## Images (Eye candy) 🖼️
+
+Add images easily:
+
+`![Alt text](image_url_here.png)`
+
+Example:
+
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+---
+
+## Code Snippets (Geeky but essential) 🤓
+
+Inline code:  
+Wrap text in backticks \`like this\`.
+
+Example: `const vibes = "awesome";`
+
+Block code:
+
+\`\`\`javascript  
+function chillOut() {
+  console.log("Life is good.");
+}
+\`\`\`
+
+Produces:
+
+```javascript
+function chillOut() {
+  console.log("Life is good.");
+}
