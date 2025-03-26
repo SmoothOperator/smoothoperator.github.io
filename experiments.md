@@ -1,8 +1,3 @@
-<div style="background-color: #1c1c1c; color: #e0e0e0; padding: 20px;">
-  <h2>Dark Background Section ✨</h2>
-  <p>This bit of Markdown got some spicy background action.</p>
-</div>
-
 # Markdown Crash Course 🔥
 
 Yo, here's your quick-and-easy Markdown guide to style your GitHub.io pages effortlessly.
