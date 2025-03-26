@@ -1,148 +1,116 @@
-import processing.core.PApplet;
-import java.util.ArrayList;
-
-public class WindSimulation extends PApplet {
-
-    int numSegments = 17; // Number of segments
-    float stickLength = 150; // Length of the white stick
-    PVector[] segments = new PVector[numSegments + 1]; // Array of segment positions
-    float[] segmentLengths = new float[numSegments]; // Array of segment lengths
-    float gravity = 1.0; // Gravity effect
-    float windStrength = 0.12; // Base wind strength
-    int segmentColor = color(255, 165, 0); // Color of the segments (orange)
-    float windIntensity; // Current wind intensity
-    float windRange = 2.0; // Wind range for Perlin noise
-    float windDirectionAngle; // Wind direction angle in radians
-    ArrayList<Float> windSpeeds = new ArrayList<Float>(); // List to store wind speeds for average calculation
-    float windOffset; // Random offset for wind direction
-
-    public static void main(String[] args) {
-        PApplet.main("WindSimulation");
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SmoothOperator Experiments</title>
+  <link rel="icon" href="animatedfavicon.ico" type="image/x-icon">
+  <style>
+    /* Default light mode styles */
+    body {
+      background-color: #f5f5f5; /* Softer white */
+      color: #333; /* Darker grey for text */
+      font-family: Arial, sans-serif;
+      transition: background-color 0.3s, color 0.3s;
+      margin: 0;
+      padding: 10px;
+      text-align: left;
     }
-
-    public void settings() {
-        size(800, 600);
+    a {
+      color: blue;
+      text-decoration: none;
     }
-
-    public void setup() {
-        frameRate(60); // Increase frame rate to make animation more responsive
-        textSize(12); // Set text size
-        fill(200); // Set text color to light grey
-
-        // Initialize segment lengths in descending order
-        for (int i = 0; i < numSegments; i++) {
-            segmentLengths[i] = map(i, 0, numSegments - 1, 17, 6); // Descending lengths from 17 to 6
-        }
-        // Initialize segments starting from the top of the white stick
-        segments[0] = new PVector(width / 2, height * 2 / 3 - stickLength);
-        for (int i = 1; i <= numSegments; i++) {
-            segments[i] = new PVector(segments[i - 1].x, segments[i - 1].y + segmentLengths[i - 1]);
-        }
-
-        // Initialize wind direction angle randomly within the desired range
-        windOffset = random(1000); // Random offset for wind direction Perlin noise
+    a:hover {
+      color: darkblue;
     }
-
-    public void draw() {
-        background(0);
-        applyPhysics();
-        displaySegments();
-        displayWindSpeed();
-        displayWindDirection();
+    /* Dark mode styles */
+    body.dark-mode {
+      background-color: #1c1c1c; /* Dark grey */
+      color: #e0e0e0; /* Softer light grey */
     }
-
-    void applyPhysics() {
-        // Adjust wind intensity based on Perlin noise
-        windIntensity = noise(frameCount * 0.01f) * windRange; // Wind intensity range from 0 to windRange
-
-        // Add current wind intensity to the list
-        windSpeeds.add(windIntensity);
-        if (windSpeeds.size() > 60) { // Keep the list to the last 60 values (1 second of data at 60 fps)
-            windSpeeds.remove(0);
-        }
-
-        // Calculate wind direction only once per frame
-        float windDirection = (noise(windOffset + frameCount * 0.01f) - 0.5f) * (1 / (1 + windIntensity));
-        windDirectionAngle = windDirection * PI / 4; // Mostly east-west, slight variation in direction
-
-        float windX = cos(windDirectionAngle) * windIntensity * windStrength;
-        float windY = sin(windDirectionAngle) * windIntensity * windStrength;
-
-        // Apply gravity and wind to each segment except the first one
-        for (int i = 1; i <= numSegments; i++) {
-            segments[i].y += gravity + windY; // Apply gravity and vertical wind component to y-coordinate
-            segments[i].x += windX * segmentLengths[i - 1]; // Apply horizontal wind component to x-coordinate
-
-            // Keep segments connected without stretching
-            PVector dir = PVector.sub(segments[i], segments[i - 1]);
-            dir.setMag(segmentLengths[i - 1]); // Ensure the segments stay the correct length
-            segments[i] = PVector.add(segments[i - 1], dir);
-        }
+    body.dark-mode a {
+      color: #80d8ff;
     }
-
-    void displaySegments() {
-        // Draw the stick (stable)
-        stroke(255);
-        strokeWeight(4);
-        line(segments[0].x, segments[0].y + stickLength, segments[0].x, segments[0].y);
-
-        // Draw the segments
-        for (int i = 1; i < numSegments; i++) {
-            stroke(segmentColor);
-            strokeWeight(2);
-            line(segments[i].x, segments[i].y, segments[i + 1].x, segments[i + 1].y);
-        }
+    body.dark-mode a:hover {
+      color: #40c4ff;
     }
-
-    void displayWindSpeed() {
-        // Calculate average wind speed
-        float avgWindSpeed = 0;
-        for (float speed : windSpeeds) {
-            avgWindSpeed += speed;
-        }
-        avgWindSpeed /= windSpeeds.size();
-
-        // Convert wind speeds to knots and mph
-        float windSpeedKnots = windIntensity * 1.94384f;
-        float avgWindSpeedKnots = avgWindSpeed * 1.94384f;
-        float windSpeedMph = windIntensity * 2.23694f;
-        float avgWindSpeedMph = avgWindSpeed * 2.23694f;
-
-        // Display the current and average wind speed above the stick
-        String windSpeedText = "Current Wind Speed: " + nf(windSpeedKnots, 1, 2) + " knots (" + nf(windSpeedMph, 1, 2) + " mph)";
-        String avgWindSpeedText = "Average Wind Speed: " + nf(avgWindSpeedKnots, 1, 2) + " knots (" + nf(avgWindSpeedMph, 1, 2) + " mph)";
-        textAlign(CENTER);
-        text(windSpeedText, width / 2, segments[0].y - 90);
-        text(avgWindSpeedText, width / 2, segments[0].y - 70);
+    .dark-mode-toggle {
+      cursor: pointer;
+      text-decoration: underline;
+      color: blue;
+      display: inline;
+      margin-top: 10px;
+      margin-bottom: 20px;
     }
-
-    void displayWindDirection() {
-        // Draw the wind direction arrow in the top-left corner, with length based on wind intensity
-        pushMatrix();
-        translate(50, 50);
-        rotate(windDirectionAngle);
-        stroke(200);
-        strokeWeight(3);
-        float arrowLength = 30 + windIntensity * 20;
-        line(0, 0, arrowLength, 0);
-        line(arrowLength, 0, arrowLength - 5, -5);
-        line(arrowLength, 0, arrowLength - 5, 5);
-        popMatrix();
+    body.dark-mode .dark-mode-toggle {
+      color: #80d8ff;
     }
-
-    public void keyPressed() {
-        // Change wind range with up and down arrow keys
-        if (keyCode == UP) {
-            windRange += 0.1f;
-        } else if (keyCode == DOWN) {
-            windRange = max(0, windRange - 0.1f);
-        }
-
-        // Change gravity with e and d keys
-        if (key == 'e' || key == 'E') {
-            gravity += 0.1f;
-        } else if (key == 'd' || key == 'D') {
-            gravity = max(0, gravity - 0.1f);
-        }
+    h1 {
+      font-size: 2em;
+      margin-bottom: 0.5em;
     }
-}
+    p {
+      margin-bottom: 1em;
+      line-height: 1.6;
+    }
+    .resume-link {
+      margin-top: 20px;
+      display: inline-block;
+      color: crimson;
+      font-weight: bold;
+    }
+    .resume-link:hover {
+      color: red;
+    }
+    .sassy-note {
+      font-size: 1.1em;
+      color: gray;
+      margin-top: 20px;
+      font-family: Arial, sans-serif;
+    }
+    body.dark-mode .sassy-note {
+      color: #aaaaaa;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      margin-top: 20px;
+    }
+    .thumbnail {
+      max-width: 200px;
+      cursor: pointer;
+      margin-top: 20px;
+    }
+    .fullsize {
+      display: none;
+      max-width: 100%;
+      height: auto;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to SmoothOperator gallery</h1>
+  <p>This is my experiments page where I'm messing around with fresh ideas and quirky projects.</p>
+  <a href="index.html">Back to Home</a>
+  <br><br>
+  <span class="dark-mode-toggle" onclick="toggleDarkMode()">Click here to activate dark mode</span>
+
+  <div class="sassy-note">
+    <p>Wanna peep my other work? Check out my <a href="resume.html" class="resume-link" target="_blank">resume</a>.</p>
+  </div>
+
+  <!-- Add your experimental projects or content below -->
+  <h2>Experiment Zone</h2>
+  <p>Time to get creative! Insert your wild experiments, sketches, or tech demos right here.</p>
+
+  <!-- Example thumbnail for an experiment -->
+  <img id="thumbnail-exp" class="thumbnail" src="images/experiments/experiment1.png" alt="Thumbnail of Experiment 1">
+  <!-- Full-size image for the experiment -->
+  <img id="fullsize-exp" class="fullsize" src="images/experiments/experiment1.png" alt="Full-size Experiment 1">
+
+  <!-- External scripts -->
+  <script src="scripts/darkmode.js"></script>
+  <script src="scripts/thumbnail.js"></script>
+</body>
+</html>
