@@ -23,6 +23,16 @@ Yo, here's your quick-and-easy Markdown guide to style your GitHub.io pages effo
 
 ---
 
+## Diagrams
+```mermaid
+graph TD;
+    A[Start] --> B{Is it working?};
+    B -- Yes --> C[Great!];
+    B -- No --> D[Check the code];
+    D --> B;
+```
+
+
 ## Lists (Because organization is hot) 📝
 
 ### Bullet points
