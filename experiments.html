@@ -1,49 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>SmoothOperator Experiments</title>
-  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-  <link rel="icon" href="animatedfavicon.ico" type="image/x-icon">
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      padding: 20px;
-      background-color: #f5f5f5;
-      color: #333;
-    }
-
-    body.dark-mode {
-      background-color: #1c1c1c;
-      color: #e0e0e0;
-    }
-
-    a {
-      color: blue;
-    }
-
-    body.dark-mode a {
-      color: #80d8ff;
-    }
-
-    .dark-mode-toggle {
-      cursor: pointer;
-      text-decoration: underline;
-      color: blue;
-      margin-bottom: 20px;
-      display: inline-block;
-    }
-  </style>
-</head>
-<body>
-  <span class="dark-mode-toggle" onclick="document.body.classList.toggle('dark-mode')">
-    Activate Dark Mode
-  </span>
-
-  <div id="markdown-content"></div>
-
-  <script>
-    const markdown = `
 # Markdown Crash Course 🔥
 
 Yo, here's your quick-and-easy Markdown guide to style your GitHub.io pages effortlessly.
@@ -52,31 +6,32 @@ Yo, here's your quick-and-easy Markdown guide to style your GitHub.io pages effo
 
 ## Headings 🧢
 
-# Big-ass Title (\`#\`)
-## Smaller Heading (\`##\`)
-### Even Smaller (\`###\`)
-#### You get the point (\`####\`)
+# Big-ass Title (#)
+## Smaller Heading (##)
+### Even Smaller (###)
+#### You get the point (####)
 
 ---
 
 ## Text Styles 🎨
 
-**Bold text** using \`**Bold text**\`
+**Bold text** using **Bold text**
 
-*Italicized text* using \`*Italicized text*\`
+*Italicized text* using *Italicized text*
 
-~~Strikethrough~~ using \`~~Strikethrough~~\`
+~~Strikethrough~~ using ~~Strikethrough~~
 
 ---
 
 ## Diagrams
-\`\`\`mermaid
+mermaid
 graph TD;
     A[Start] --> B{Is it working?};
     B -- Yes --> C[Great!];
     B -- No --> D[Check the code];
     D --> B;
-\`\`\`
+
+
 
 ## Lists (Because organization is hot) 📝
 
@@ -94,7 +49,7 @@ graph TD;
 
 ## Links (so clickable it hurts) 🔗
 
-Here's a [link to GitHub](https://github.com/) using \`[link text](URL)\`
+Here's a [link to GitHub](https://github.com/) using [link text](URL)
 
 ---
 
@@ -102,7 +57,7 @@ Here's a [link to GitHub](https://github.com/) using \`[link text](URL)\`
 
 Add images easily:
 
-\`![Alt text](image_url_here.png)\`
+![Alt text](image_url_here.png)
 
 Example:
 
@@ -113,28 +68,21 @@ Example:
 ## Code Snippets (Geeky but essential) 🤓
 
 Inline code:  
-Wrap text in backticks \`like this\`.
+Wrap text in backticks \like this\.
 
-Example: \`const vibes = "awesome";\`
+Example: const vibes = "awesome";
 
 Block code:
 
-\`\`\`javascript  
+\\\javascript  
 function chillOut() {
   console.log("Life is good.");
 }
-\`\`\`
+\\\
 
 Produces:
 
-\`\`\`javascript
+javascript
 function chillOut() {
   console.log("Life is good.");
 }
-\`\`\`
-`;
-
-    document.getElementById('markdown-content').innerHTML = marked.parse(markdown);
-  </script>
-</body>
-</html>
