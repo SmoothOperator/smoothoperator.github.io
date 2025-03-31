@@ -1,3 +1,12 @@
+<style>
+  body, html {
+    margin: 0;
+    padding: 0;
+  }
+
+  /* rest of your CSS here... */
+</style>
+
 # Marshall Peck
 
 [marshallpeck@gmail.com](mailto:marshallpeck@gmail.com) • [LinkedIn](https://www.linkedin.com/in/marshallpeck/) • [GitHub](https://github.com/SmoothOperator)
