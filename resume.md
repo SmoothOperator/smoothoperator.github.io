@@ -25,6 +25,8 @@ Basically, I can augment a team with additional labor, take on certain types of 
 
 📸 [Check out my 2014-2024 photogallery](https://photos.app.goo.gl/z1X7arV6D6iKYqBN8) for a peek at my creative process and projects.
 
+see linkedin for additional work history
+
 ---
 
 ### Passions 🔥
