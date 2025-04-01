@@ -63,6 +63,15 @@ Example:
 
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
+## Image Row (Side-by-side) 🧱
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100">
+</div>
+
+
 ---
 
 ## Code Snippets (Geeky but essential) 🤓
