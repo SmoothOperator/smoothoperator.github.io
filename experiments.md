@@ -71,6 +71,7 @@ Example:
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100">
 </div>
 
+---
 
 ## Image with Wrapped Text 🌀
 
@@ -79,6 +80,8 @@ Example:
 </div>
 
 This is some text that wraps around the image like it's giving it a cozy little hug. Great for bios, side-notes, or captions with style.
+
+---
 
 ## Image Grid 🔲
 
