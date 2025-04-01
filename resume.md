@@ -5,15 +5,17 @@
 ---
 
 ### About Me
-I have been working with companies large and small providing 3D printing, CNC machining, prototyping and design services for about **10 years** (since 2014) across a wide range of industries from: consumer products, medical devices, light industrial machinine equipment, defence and for companies large and small. I have provided fabrication, consulting or design work for firms like **SpaceX**, **NXP** and have worked with 100's of other buisnesses over the years.
+As a freelance professional, I have  companies large and small providing 3D printing, CNC machining, prototyping and design services for about **10 years** (since 2014) across a wide range of industries from: consumer products, medical devices, light industrial machinine equipment, defence and for companies large and small. I have provided fabrication, consulting or design work for firms like **SpaceX**, **NXP** and have worked with 100's of other businesses over the years.
 
-As a freelance professional, I have worked for a companies on either short-term contract by-the-hour or all-inclusive project, on-site or remote basis depending on needs of client/project where services required of me are valued anywhere from a few hundred dollars to 10's of thousands, requiring me to manage complex projects and reliably project outcomes over several months.
+I have worked for a companies on either short-term contract by-the-hour or all-inclusive project, on-site or remote basis depending on needs of client/project where services required of me are valued anywhere from a few hundred dollars to 10's of thousands, requiring me to manage complex projects and reliably project outcomes over several months.
 
 My specialties are design for rapid manufacturing, 2.5D + 3D CNC machining, SLA, SLS, FDM and fabrication of items or assemblies for end-use function, aesthetic prototypes, or short run-manufacturing.
 
-My design software of choice is Fusion 360 for which, you may consider me an expert. Assemblies utilizing custom threads, interlocking parts or compliant mechanisms is something I have a lot of experience with, for example.
+My design software of choice is Fusion 360 for which, you may consider me an expert in many of it's areas. Assemblies utilizing custom threads, interlocking parts or compliant mechanisms is something I have a lot of experience with, for example.
 
-Basically, I can augment a team with additional labor, take on certain types of projects full service or consult in an area where I may have unique experience.
+I have in the past, over many years, augmented teams with additional labor, taken on certain types of projects, full service or consulted. In that time, I have enjoyed being a business owner, exploring my passions, interests, and realizing many a dream. I belive my experience is unique.
+
+*What I'm looking for* is a new, interesting challenge and long-term project. That is why I am seeking full-time employment at an established firm or startup with salary range 90k+
 
 ---
 
