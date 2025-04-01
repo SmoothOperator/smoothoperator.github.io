@@ -5,7 +5,18 @@
 ---
 
 ### About Me
-Over the last **10 years**, I’ve rocked it as an independent business owner and freelance industrial designer. My jam? Product development, CAD modeling, 3D printing, and CNC machine design—serving up slick results for everyone from startups to major players like **SpaceX**, **NXP**, and **Lifesize**.
+Over the last **10 years**, I’ve rocked it as an independent business owner and freelance industrial designer. Product development, CAD modeling, 3D printing, and CNC machine design—serving up slick results for everyone from startups to major players like **SpaceX**, **NXP**, and **Lifesize**.
+
+##More about me:
+I have been working with companies large and small providing 3D printing, CNC machining, prototyping and design services for about 10 years across a wide range of industries from: consumer products, medical, light industrial, defence, fire arms and even a few drone related projects.
+
+My specialties are design for rapid manufacturing, 2.5D + 3D CNC machining, SLA, SLS, FDM and fabrication of items or assemblies for end-use function, aesthetic prototypes, or short run-manufacturing.
+
+My design software of choice is Fusion 360 for which, you may consider me an expert. Assemblies utilizing custom threads, interlocking parts or compliant mechanisms is something I have a lot of experience with, for example.
+
+I work for a wide range of companies on either short-term contract by-the-hour or all-inclusive project basis depending on needs of client/project.
+
+Basically, I can augment a team with additional labor, take on certain types of projects full service or consult in an area where I may have unique experience.
 
 ---
 
