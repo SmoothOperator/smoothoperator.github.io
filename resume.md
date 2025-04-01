@@ -5,7 +5,7 @@
 ---
 
 ### About Me
-Over the last **10 years**, I’ve rocked it as an independent business owner and freelance industrial designer. Product development, CAD modeling, 3D printing, and CNC machine design—serving up slick results for everyone from startups to major players like **SpaceX**, **NXP**, and **Lifesize**.
+Over the last **10 years**, I’ve rocked it as an independent business owner and freelance industrial designer. Product development, CAD modeling, 3D printing, and CNC machine design—serving up results for everyone from startups to major players like **SpaceX**, **NXP**, and **Lifesize**.
 
 #### More about me
 I have been working with companies large and small providing 3D printing, CNC machining, prototyping and design services for about 10 years across a wide range of industries from: consumer products, medical, light industrial, defence, fire arms and even a few drone related projects.
