@@ -65,7 +65,7 @@ Messing around with large language models and AI, including ChatGPT and other cu
 
 ### Online Profiles 🌐
 - **Instructables**: 6 authored instructables, featured in MakeZine and popular 3D printing blogs.
-- **Devpost**: Profile created during Facebook's F8 Hackathon.
+- **Devpost**: Profile created for F8 Hackathon.
 
 ---
 
@@ -79,51 +79,84 @@ Here's a [link to GitHub](https://github.com/) using [link text](URL)
 
 ---
 
-<h2>Portfolio</h2>
-<h3>Image Row (Side-by-side) 🧱</h3>
+# Portfolio
+
+### Voxel Ox
+An open source 3D printer published on OpenBuilds.com [project link](https://builds.openbuilds.com/builds/voxel-ox-extendable-3d-printer-and-cnc-platform.5080/)
 
 <div style="display: flex; gap: 10px; align-items: flex-start;">
   <a href="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" target="_blank">
-    <img src="https://github.com/SmoothOperator/smoothoperator.github.io/blob/main/images/voxelox/Voxel%20OX%20Render.png?raw=true" style="height: 120px; object-fit: contain;">
+    <img src="https://github.com/SmoothOperator/smoothoperator.github.io/blob/main/images/voxelox/Voxel%20OX%20Render.png?raw=true" style="height: 250px; object-fit: contain;">
   </a>
 
   <a href="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20assembled.png" target="_blank">
-    <img src="https://github.com/SmoothOperator/smoothoperator.github.io/blob/main/images/voxelox/Voxel%20OX%20assembled.png?raw=true" style="height: 120px; object-fit: contain;">
+    <img src="https://github.com/SmoothOperator/smoothoperator.github.io/blob/main/images/voxelox/Voxel%20OX%20assembled.png?raw=true" style="height: 150px; object-fit: contain;">
   </a>
 
   <a href="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/11845195_10101973842321305_35337157328280729_o.jpg" target="_blank">
-    <img src="https://github.com/SmoothOperator/smoothoperator.github.io/blob/main/images/voxelox/11845195_10101973842321305_35337157328280729_o.jpg?raw=true" style="height: 120px; object-fit: contain;">
+    <img src="https://github.com/SmoothOperator/smoothoperator.github.io/blob/main/images/voxelox/11845195_10101973842321305_35337157328280729_o.jpg?raw=true" style="height: 150px; object-fit: contain;">
   </a>
 
   <a href="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/assembledVoxelOx.png" target="_blank">
-    <img src="https://github.com/SmoothOperator/smoothoperator.github.io/blob/main/images/assembledVoxelOx.png?raw=true" style="height: 120px; object-fit: contain;">
+    <img src="https://github.com/SmoothOperator/smoothoperator.github.io/blob/main/images/assembledVoxelOx.png?raw=true" style="height: 150px; object-fit: contain;">
   </a>
 </div>
 
 
-### ONNIT office Breakroom
 
 
 
-Voxel Ox [project link](https://builds.openbuilds.com/builds/voxel-ox-extendable-3d-printer-and-cnc-platform.5080/) on OpenBuilds.
+### ONNIT office Break room
+
+
+
+Break room for the ONNIT office in Austin, TX.
 
 <div style="display: flex; gap: 10px; align-items: flex-start;">
+
   <a href="https://static.wixstatic.com/media/ed8129_8f0e93c5098c44c6bc5fdf7723c85973~mv2_d_2048_1291_s_2.jpg/v1/fill/w_1118,h_705,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ed8129_8f0e93c5098c44c6bc5fdf7723c85973~mv2_d_2048_1291_s_2.jpg" target="_blank">
-    <img src="https://static.wixstatic.com/media/ed8129_8f0e93c5098c44c6bc5fdf7723c85973~mv2_d_2048_1291_s_2.jpg/v1/fill/w_1118,h_705,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ed8129_8f0e93c5098c44c6bc5fdf7723c85973~mv2_d_2048_1291_s_2.jpg?raw=true" style="height: 120px; object-fit: contain;">
+    <img src="https://static.wixstatic.com/media/ed8129_8f0e93c5098c44c6bc5fdf7723c85973~mv2_d_2048_1291_s_2.jpg/v1/fill/w_1118,h_705,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ed8129_8f0e93c5098c44c6bc5fdf7723c85973~mv2_d_2048_1291_s_2.jpg?raw=true" style="height: 250px; object-fit: contain;">
   </a>
 
-  <a href="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20assembled.png" target="_blank">
-    <img src="https://github.com/SmoothOperator/smoothoperator.github.io/blob/main/images/voxelox/Voxel%20OX%20assembled.png?raw=true" style="height: 120px; object-fit: contain;">
+  <a href="https://static.wixstatic.com/media/ed8129_93fff110a10f4d539a4e399e3b30263e~mv2.jpg/v1/fill/w_1127,h_705,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ed8129_93fff110a10f4d539a4e399e3b30263e~mv2.jpg" target="_blank">
+    <img src="https://static.wixstatic.com/media/ed8129_93fff110a10f4d539a4e399e3b30263e~mv2.jpg/v1/fill/w_1127,h_705,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ed8129_93fff110a10f4d539a4e399e3b30263e~mv2.jpg?raw=true" style="height: 150px; object-fit: contain;">
   </a>
 
-  <a href="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/11845195_10101973842321305_35337157328280729_o.jpg" target="_blank">
-    <img src="https://github.com/SmoothOperator/smoothoperator.github.io/blob/main/images/voxelox/11845195_10101973842321305_35337157328280729_o.jpg?raw=true" style="height: 120px; object-fit: contain;">
+  <a href="https://static.wixstatic.com/media/ed8129_b9645ed93385426eb74cdd9d65c16c09~mv2.jpg/v1/fill/w_1127,h_705,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ed8129_b9645ed93385426eb74cdd9d65c16c09~mv2.jpg" target="_blank">
+    <img src="https://static.wixstatic.com/media/ed8129_b9645ed93385426eb74cdd9d65c16c09~mv2.jpg/v1/fill/w_1127,h_705,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ed8129_b9645ed93385426eb74cdd9d65c16c09~mv2.jpg" style="height: 150px; object-fit: contain;">
   </a>
 
-  <a href="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/assembledVoxelOx.png" target="_blank">
-    <img src="https://github.com/SmoothOperator/smoothoperator.github.io/blob/main/images/assembledVoxelOx.png?raw=true" style="height: 120px; object-fit: contain;">
+  <a href="https://static.wixstatic.com/media/ed8129_87c23c8d921f4cea8f4aaef0b38b558c~mv2.jpg/v1/fill/w_1127,h_705,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ed8129_87c23c8d921f4cea8f4aaef0b38b558c~mv2.jpg" target="_blank">
+    <img src="https://static.wixstatic.com/media/ed8129_87c23c8d921f4cea8f4aaef0b38b558c~mv2.jpg/v1/fill/w_1127,h_705,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ed8129_87c23c8d921f4cea8f4aaef0b38b558c~mv2.jpg?raw=true" style="height: 150px; object-fit: contain;">
   </a>
 </div>
 
+
+
+
+### ONNIT office Break room
+
+
+
+Break room for the ONNIT office in Austin, TX.
+
+<div style="display: flex; gap: 10px; align-items: flex-start;">
+
+  <a href="https://lh3.googleusercontent.com/pw/AP1GczNO2UjmNsCW4UF6m0_txNZpRrEZRVl00z6CJZYnNfxW0jmQdrO8rCCff6f3pcmt47WCC_dNe53GCJxj9pGaJT9I5RRCmV7RbwVYpES18_bmIDXitwqpr4OKFyMgT8W4JsricPa-H5jRmcCploMGXjFqwA=w800-h929-s-no-gm?authuser=0" target="_blank">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczNO2UjmNsCW4UF6m0_txNZpRrEZRVl00z6CJZYnNfxW0jmQdrO8rCCff6f3pcmt47WCC_dNe53GCJxj9pGaJT9I5RRCmV7RbwVYpES18_bmIDXitwqpr4OKFyMgT8W4JsricPa-H5jRmcCploMGXjFqwA=w800-h929-s-no-gm?authuser=0/v1/fill/w_1118,h_705,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ed8129_8f0e93c5098c44c6bc5fdf7723c85973~mv2_d_2048_1291_s_2.jpg?raw=true" style="height: 250px; object-fit: contain;">
+  </a>
+
+  <a href="https://static.wixstatic.com/media/ed8129_93fff110a10f4d539a4e399e3b30263e~mv2.jpg/v1/fill/w_1127,h_705,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ed8129_93fff110a10f4d539a4e399e3b30263e~mv2.jpg" target="_blank">
+    <img src="https://static.wixstatic.com/media/ed8129_93fff110a10f4d539a4e399e3b30263e~mv2.jpg/v1/fill/w_1127,h_705,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ed8129_93fff110a10f4d539a4e399e3b30263e~mv2.jpg?raw=true" style="height: 150px; object-fit: contain;">
+  </a>
+
+  <a href="https://static.wixstatic.com/media/ed8129_b9645ed93385426eb74cdd9d65c16c09~mv2.jpg/v1/fill/w_1127,h_705,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ed8129_b9645ed93385426eb74cdd9d65c16c09~mv2.jpg" target="_blank">
+    <img src="https://static.wixstatic.com/media/ed8129_b9645ed93385426eb74cdd9d65c16c09~mv2.jpg/v1/fill/w_1127,h_705,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ed8129_b9645ed93385426eb74cdd9d65c16c09~mv2.jpg" style="height: 150px; object-fit: contain;">
+  </a>
+
+  <a href="https://static.wixstatic.com/media/ed8129_87c23c8d921f4cea8f4aaef0b38b558c~mv2.jpg/v1/fill/w_1127,h_705,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ed8129_87c23c8d921f4cea8f4aaef0b38b558c~mv2.jpg" target="_blank">
+    <img src="https://static.wixstatic.com/media/ed8129_87c23c8d921f4cea8f4aaef0b38b558c~mv2.jpg/v1/fill/w_1127,h_705,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ed8129_87c23c8d921f4cea8f4aaef0b38b558c~mv2.jpg?raw=true" style="height: 150px; object-fit: contain;">
+  </a>
+</div>
 
 ---
