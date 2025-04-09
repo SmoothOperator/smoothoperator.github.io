@@ -81,11 +81,8 @@ Here's a [link to GitHub](https://github.com/) using [link text](URL)
 
 # Portfolio
 
-<h3>Portfolio 🔧</h3>
-
-| ![]([url1](https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/refs/heads/main/images/voxelox/IMG_20171006_055552.jpg)) | ![](url2) | ![](url3) |
+| ![](https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/refs/heads/main/images/voxelox/IMG_20171006_055552.jpg) | ![](url2) | ![](url3) |
 |----------|-----------|-----------|
-
 
 
 ---
