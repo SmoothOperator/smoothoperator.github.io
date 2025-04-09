@@ -99,3 +99,31 @@ Here's a [link to GitHub](https://github.com/) using [link text](URL)
     <img src="https://github.com/SmoothOperator/smoothoperator.github.io/blob/main/images/assembledVoxelOx.png?raw=true" style="height: 120px; object-fit: contain;">
   </a>
 </div>
+
+
+### ONNIT office Breakroom
+
+
+
+Voxel Ox [project link](https://builds.openbuilds.com/builds/voxel-ox-extendable-3d-printer-and-cnc-platform.5080/) on OpenBuilds.
+
+<div style="display: flex; gap: 10px; align-items: flex-start;">
+  <a href="https://static.wixstatic.com/media/ed8129_8f0e93c5098c44c6bc5fdf7723c85973~mv2_d_2048_1291_s_2.jpg/v1/fill/w_1118,h_705,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ed8129_8f0e93c5098c44c6bc5fdf7723c85973~mv2_d_2048_1291_s_2.jpg" target="_blank">
+    <img src="https://static.wixstatic.com/media/ed8129_8f0e93c5098c44c6bc5fdf7723c85973~mv2_d_2048_1291_s_2.jpg/v1/fill/w_1118,h_705,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ed8129_8f0e93c5098c44c6bc5fdf7723c85973~mv2_d_2048_1291_s_2.jpg?raw=true" style="height: 120px; object-fit: contain;">
+  </a>
+
+  <a href="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20assembled.png" target="_blank">
+    <img src="https://github.com/SmoothOperator/smoothoperator.github.io/blob/main/images/voxelox/Voxel%20OX%20assembled.png?raw=true" style="height: 120px; object-fit: contain;">
+  </a>
+
+  <a href="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/11845195_10101973842321305_35337157328280729_o.jpg" target="_blank">
+    <img src="https://github.com/SmoothOperator/smoothoperator.github.io/blob/main/images/voxelox/11845195_10101973842321305_35337157328280729_o.jpg?raw=true" style="height: 120px; object-fit: contain;">
+  </a>
+
+  <a href="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/assembledVoxelOx.png" target="_blank">
+    <img src="https://github.com/SmoothOperator/smoothoperator.github.io/blob/main/images/assembledVoxelOx.png?raw=true" style="height: 120px; object-fit: contain;">
+  </a>
+</div>
+
+
+---
