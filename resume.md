@@ -79,7 +79,7 @@ Here's a [link to GitHub](https://github.com/) using [link text](URL)
 
 ---
 
-#Portfolio
+# Portfolio
 
 ## Image Row (Side-by-side) 🧱
 
