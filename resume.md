@@ -81,7 +81,7 @@ Here's a [link to GitHub](https://github.com/) using [link text](URL)
 
 # Portfolio
 
-| ![](https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/refs/heads/main/images/voxelox/IMG_20171006_055552.jpg) | ![](url2) | ![](url3) |
+| ![](https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/refs/heads/main/images/voxelox/IMG_20171006_055552.jpg) | ![](https://builds.openbuilds.com/proxy.php?image=http%3A%2F%2Fi.imgur.com%2F2hjkVLT.png&hash=c22e2350742bddd9de70b05f2fdf0b58) | ![](url3) |
 |----------|-----------|-----------|
 
 
