@@ -96,6 +96,10 @@ Here's a [link to GitHub](https://github.com/) using [link text](URL)
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100">
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100">
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100">
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100">
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100">
 </div>
 
 ---
