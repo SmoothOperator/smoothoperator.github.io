@@ -79,27 +79,14 @@ Here's a [link to GitHub](https://github.com/) using [link text](URL)
 
 ---
 
+#Portfolio
+
 ## Image Row (Side-by-side) 🧱
 
 <div style="display: flex; gap: 10px;">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100">
-</div>
-
----
-
-## Image Grid
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 10px;">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100">
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100">
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100">
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100">
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100">
 </div>
 
 ---
