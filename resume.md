@@ -79,16 +79,6 @@ Here's a [link to GitHub](https://github.com/) using [link text](URL)
 
 ---
 
-## Images (Eye candy) 🖼️
-
-Add images easily:
-
-![Alt text](image_url_here.png)
-
-Example:
-
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
-
 ## Image Row (Side-by-side) 🧱
 
 <div style="display: flex; gap: 10px;">
