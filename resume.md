@@ -82,3 +82,23 @@ Messing around with large language models and AI, including ChatGPT and other cu
 This is some text that wraps around the image like it's giving it a cozy little hug. Great for bios, side-notes, or captions with style.
 
 ---
+
+## Images (Eye candy) 🖼️
+
+Add images easily:
+
+![Alt text](image_url_here.png)
+
+Example:
+
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+## Image Row (Side-by-side) 🧱
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100">
+</div>
+
+---
