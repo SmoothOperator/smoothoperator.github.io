@@ -80,9 +80,12 @@ Here's a [link to GitHub](https://github.com/) using [link text](URL)
 ---
 
 # Portfolio
+## Image Row (Side-by-side) 🧱
 
-| ![](https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/refs/heads/main/images/voxelox/IMG_20171006_055552.jpg) | ![](https://builds.openbuilds.com/proxy.php?image=http%3A%2F%2Fi.imgur.com%2F2hjkVLT.png&hash=c22e2350742bddd9de70b05f2fdf0b58) | ![](url3) |
-|----------|-----------|-----------|
-
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/SmoothOperator/smoothoperator.github.io/blob/main/images/voxelox/Voxel%20OX%20Render.png?raw=true" width="100">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100">
+</div>
 
 ---
