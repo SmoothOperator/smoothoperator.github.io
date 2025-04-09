@@ -86,20 +86,16 @@ Here's a [link to GitHub](https://github.com/) using [link text](URL)
   <a href="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" target="_blank">
     <img src="https://github.com/SmoothOperator/smoothoperator.github.io/blob/main/images/voxelox/Voxel%20OX%20Render.png?raw=true" style="height: 120px; object-fit: contain;">
   </a>
-  
+
   <a href="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20assembled.png" target="_blank">
     <img src="https://github.com/SmoothOperator/smoothoperator.github.io/blob/main/images/voxelox/Voxel%20OX%20assembled.png?raw=true" style="height: 120px; object-fit: contain;">
   </a>
-  
+
   <a href="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/11845195_10101973842321305_35337157328280729_o.jpg" target="_blank">
     <img src="https://github.com/SmoothOperator/smoothoperator.github.io/blob/main/images/voxelox/11845195_10101973842321305_35337157328280729_o.jpg?raw=true" style="height: 120px; object-fit: contain;">
   </a>
-  
+
   <a href="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/assembledVoxelOx.png" target="_blank">
     <img src="https://github.com/SmoothOperator/smoothoperator.github.io/blob/main/images/assembledVoxelOx.png?raw=true" style="height: 120px; object-fit: contain;">
   </a>
 </div>
-
-
-
----
