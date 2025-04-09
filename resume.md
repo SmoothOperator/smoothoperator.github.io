@@ -73,13 +73,9 @@ Messing around with large language models and AI, including ChatGPT and other cu
 - Autodesk Fusion 360
 - Simplify3D
 
-## Image with Wrapped Text 🌀
+## Links (so clickable it hurts) 🔗
 
-<div style="float: left; margin-right: 20px;">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="120">
-</div>
-
-This is some text that wraps around the image like it's giving it a cozy little hug. Great for bios, side-notes, or captions with style.
+Here's a [link to GitHub](https://github.com/) using [link text](URL)
 
 ---
 
@@ -96,6 +92,27 @@ Example:
 ## Image Row (Side-by-side) 🧱
 
 <div style="display: flex; gap: 10px;">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100">
+</div>
+
+---
+
+## Image with Wrapped Text 🌀
+
+<div style="float: left; margin-right: 20px;">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="120">
+</div>
+
+This is some text that wraps around the image like it's giving it a cozy little hug. Great for bios, side-notes, or captions with style.
+
+---
+
+## Image Grid 🔲
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 10px;">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100">
