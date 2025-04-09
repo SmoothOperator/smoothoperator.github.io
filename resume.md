@@ -89,17 +89,7 @@ Here's a [link to GitHub](https://github.com/) using [link text](URL)
 
 ---
 
-## Image with Wrapped Text 🌀
-
-<div style="float: left; margin-right: 20px;">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="120">
-</div>
-
-This is some text that wraps around the image like it's giving it a cozy little hug. Great for bios, side-notes, or captions with style.
-
----
-
-## Image Grid 🔲
+## Image Grid
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 10px;">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100">
