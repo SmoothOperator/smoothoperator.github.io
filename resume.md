@@ -85,7 +85,7 @@ Here's a [link to GitHub](https://github.com/) using [link text](URL)
 
 <div style="display: flex; gap: 10px;">
   <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/refs/heads/main/images/Voxel%20OX%20Render.png" width="100">
-  <img src="https://builds.openbuilds.com/proxy.php?image=http%3A%2F%2Fi.imgur.com%2Fj3XRK6o.jpg&hash=d7ce97199865cc539181aea1b7a57611" width="100">
+  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/refs/heads/main/images/assembledVoxelox" width="100">
  <img src="https://builds.openbuilds.com/proxy.php?image=http%3A%2F%2Fi.imgur.com%2Fj3XRK6o.jpg&hash=d7ce97199865cc539181aea1b7a57611" width="100">
  <img src="https://builds.openbuilds.com/proxy.php?image=http%3A%2F%2Fi.imgur.com%2Fj3XRK6o.jpg&hash=d7ce97199865cc539181aea1b7a57611" width="100">
 </div>
