@@ -147,21 +147,6 @@ Break room for the ONNIT office in Austin, TX.
   </a>
 
 
-  <a href="https://lh3.googleusercontent.com/pw/AP1GczNO2UjmNsCW4UF6m0_txNZpRrEZRVl00z6CJZYnNfxW0jmQdrO8rCCff6f3pcmt47WCC_dNe53GCJxj9pGaJT9I5RRCmV7RbwVYpES18_bmIDXitwqpr4OKFyMgT8W4JsricPa-H5jRmcCploMGXjFqwA=w800-h929-s-no-gm?authuser=0" target="_blank">
-    <img src="https://lh3.googleusercontent.com/pw/AP1GczNO2UjmNsCW4UF6m0_txNZpRrEZRVl00z6CJZYnNfxW0jmQdrO8rCCff6f3pcmt47WCC_dNe53GCJxj9pGaJT9I5RRCmV7RbwVYpES18_bmIDXitwqpr4OKFyMgT8W4JsricPa-H5jRmcCploMGXjFqwA=w800-h929-s-no-gm?authuser=0/v1/fill/w_1118,h_705,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ed8129_8f0e93c5098c44c6bc5fdf7723c85973~mv2_d_2048_1291_s_2.jpg?raw=true" style="height: 250px; object-fit: contain;">
-  </a>
-
-
-  <a href="https://static.wixstatic.com/media/ed8129_b9645ed93385426eb74cdd9d65c16c09~mv2.jpg/v1/fill/w_1127,h_705,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ed8129_b9645ed93385426eb74cdd9d65c16c09~mv2.jpg" target="_blank">
-    <img src="https://static.wixstatic.com/media/ed8129_b9645ed93385426eb74cdd9d65c16c09~mv2.jpg/v1/fill/w_1127,h_705,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ed8129_b9645ed93385426eb74cdd9d65c16c09~mv2.jpg" style="height: 150px; object-fit: contain;">
-  </a>
-
-  <a href="https://static.wixstatic.com/media/ed8129_87c23c8d921f4cea8f4aaef0b38b558c~mv2.jpg/v1/fill/w_1127,h_705,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ed8129_87c23c8d921f4cea8f4aaef0b38b558c~mv2.jpg" target="_blank">
-    <img src="https://static.wixstatic.com/media/ed8129_87c23c8d921f4cea8f4aaef0b38b558c~mv2.jpg/v1/fill/w_1127,h_705,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ed8129_87c23c8d921f4cea8f4aaef0b38b558c~mv2.jpg?raw=true" style="height: 150px; object-fit: contain;">
-  </a>
-</div>
-
-
 
 
 
@@ -175,17 +160,6 @@ Flat-pack DIY product for outdoor recreation.
     <img src="https://lh3.googleusercontent.com/pw/AP1GczPj3-RED3fXWc60oaygBJlOEZCE_A-HUVonRXEaMFU8eAOhCkb7_opFyK04qM2p3sXdg0KLYGYOUIBxpbv0ZGQ41tkrHEXNCdGJ9zfX5N0Rs4GGvq2FxnZ7mCe7pWXYXjfkkodWkJ68GYe7UDOFmPwPeQ=w414-h414-s-no-gm?authuser=0" style="height: 250px; object-fit: contain;">
   </a>
 
-  <a href="https://static.wixstatic.com/media/ed8129_93fff110a10f4d539a4e399e3b30263e~mv2.jpg/v1/fill/w_1127,h_705,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ed8129_93fff110a10f4d539a4e399e3b30263e~mv2.jpg" target="_blank">
-    <img src="https://static.wixstatic.com/media/ed8129_93fff110a10f4d539a4e399e3b30263e~mv2.jpg/v1/fill/w_1127,h_705,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ed8129_93fff110a10f4d539a4e399e3b30263e~mv2.jpg?raw=true" style="height: 150px; object-fit: contain;">
-  </a>
 
-  <a href="https://static.wixstatic.com/media/ed8129_b9645ed93385426eb74cdd9d65c16c09~mv2.jpg/v1/fill/w_1127,h_705,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ed8129_b9645ed93385426eb74cdd9d65c16c09~mv2.jpg" target="_blank">
-    <img src="https://static.wixstatic.com/media/ed8129_b9645ed93385426eb74cdd9d65c16c09~mv2.jpg/v1/fill/w_1127,h_705,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ed8129_b9645ed93385426eb74cdd9d65c16c09~mv2.jpg" style="height: 150px; object-fit: contain;">
-  </a>
-
-  <a href="https://static.wixstatic.com/media/ed8129_87c23c8d921f4cea8f4aaef0b38b558c~mv2.jpg/v1/fill/w_1127,h_705,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ed8129_87c23c8d921f4cea8f4aaef0b38b558c~mv2.jpg" target="_blank">
-    <img src="https://static.wixstatic.com/media/ed8129_87c23c8d921f4cea8f4aaef0b38b558c~mv2.jpg/v1/fill/w_1127,h_705,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ed8129_87c23c8d921f4cea8f4aaef0b38b558c~mv2.jpg?raw=true" style="height: 150px; object-fit: contain;">
-  </a>
-</div>
 
 ---
