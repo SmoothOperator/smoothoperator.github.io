@@ -103,7 +103,7 @@ An open source 3D printer published on OpenBuilds.com [project link](https://bui
 </div>
 
 
-
+---
 
 
 ### ONNIT office Break room
@@ -132,7 +132,7 @@ Break room for the ONNIT office in Austin, TX.
 </div>
 
 
-
+---
 
 ### SPF 3D printer
 
@@ -147,7 +147,7 @@ Break room for the ONNIT office in Austin, TX.
   </a>
 
 
-
+---
 
 
 ### TINY Dome
