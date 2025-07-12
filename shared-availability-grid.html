@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shared Availability Grid</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 2em;
+      background: #f4f4f4;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 1em;
+    }
+    th, td {
+      border: 1px solid #bbb;
+      text-align: center;
+      padding: 10px;
+    }
+    .status {
+      height: 20px;
+      width: 20px;
+      border-radius: 50%;
+      border: 2px solid #555;
+      display: inline-block;
+      cursor: pointer;
+    }
+    .available { background: #8BC34A; }
+    .meeting { background: #2196F3; }
+    .unselected { background: transparent; }
+    .legend span {
+      margin-right: 1em;
+    }
+  </style>
+</head>
+<body>
+  <h1>🌐 Shared Availability Grid</h1>
+  <p>This version stores changes directly in the browser, visible to anyone using this device.</p>
+
+  <div class="legend">
+    <span><span class="status available"></span> Available</span>
+    <span><span class="status meeting"></span> PB Meeting</span>
+    <span><span class="status unselected" style="border-color:#999"></span> None</span>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Time</th>
+        <th>Monday</th>
+        <th>Tuesday</th>
+        <th>Wednesday</th>
+        <th>Thursday</th>
+        <th>Friday</th>
+        <th>Saturday</th>
+        <th>Sunday</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <script>
+    const times = ["8:00 - 9:00", "9:00 - 10:00", "10:00 - 11:00", "11:00 - 12:00", "12:00 - 1:00", "1:00 - 2:00", "2:00 - 3:00", "3:00 - 4:00", "4:00 - 5:00"];
+    const days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"];
+    const statusOrder = ["unselected", "available", "meeting"];
+    let allDots = [];
+
+    function createDotCell(i) {
+      const td = document.createElement("td");
+      const dot = document.createElement("span");
+      dot.className = "status unselected";
+      dot.dataset.index = i;
+      dot.onclick = () => {
+        const current = statusOrder.indexOf(dot.classList[1]);
+        dot.classList.remove(statusOrder[current]);
+        const next = (current + 1) % statusOrder.length;
+        dot.classList.add(statusOrder[next]);
+        saveToStorage();
+      };
+      td.appendChild(dot);
+      allDots.push(dot);
+      return td;
+    }
+
+    function buildGrid() {
+      const tbody = document.querySelector("tbody");
+      times.forEach((time, i) => {
+        const tr = document.createElement("tr");
+        const timeCell = document.createElement("td");
+        timeCell.textContent = time;
+        tr.appendChild(timeCell);
+        days.forEach((_, j) => {
+          tr.appendChild(createDotCell(i * days.length + j));
+        });
+        tbody.appendChild(tr);
+      });
+    }
+
+    function saveToStorage() {
+      const state = allDots.map(dot =>
+        dot.classList.contains("available") ? "a" :
+        dot.classList.contains("meeting") ? "m" : "u"
+      ).join("");
+      localStorage.setItem("sharedAvailability", state);
+    }
+
+    function loadFromStorage() {
+      const state = localStorage.getItem("sharedAvailability");
+      if (!state || state.length !== allDots.length) return;
+      state.split('').forEach((char, i) => {
+        allDots[i].className = 'status ' + (char === 'a' ? 'available' : char === 'm' ? 'meeting' : 'unselected');
+      });
+    }
+
+    buildGrid();
+    loadFromStorage();
+  </script>
+</body>
+</html>
