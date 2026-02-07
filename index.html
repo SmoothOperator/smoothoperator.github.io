@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SmoothOperator</title>
+    <title>Welcome to SmoothOperator</title>
     <link rel="icon" href="animatedfavicon.ico" type="image/x-icon">
     <style>
         /* Default light mode styles */
@@ -44,7 +44,7 @@
             cursor: pointer;
             text-decoration: underline;
             color: blue;
-            display: inline;
+            display: inline; /* Changed to make sure only the text is clickable */
             margin-top: 10px;
             margin-bottom: 20px;
         }
@@ -60,7 +60,7 @@
 
         p {
             margin-bottom: 1em;
-            line-height: 1.6;
+            line-height: 1.6; /* Improve readability */
         }
 
         .resume-link {
@@ -74,53 +74,47 @@
             color: red;
         }
 
-        .top-link {
+        .sassy-note {
             font-size: 1.1em;
             color: gray;
             margin-top: 20px;
-            font-family: Arial, sans-serif;
+            font-family: Arial, sans-serif; /* Changed to match the rest */
         }
 
-        body.dark-mode .top-link {
+        body.dark-mode .sassy-note {
             color: #aaaaaa;
-        }
-
-        img {
-            max-width: 100%;
-            height: auto;
-            margin-top: 20px;
-        }
-
-        .thumbnail {
-            max-width: 200px;
-            cursor: pointer;
-            margin-top: 20px;
-        }
-
-        .fullsize {
-            display: none;
-            max-width: 100%; /* Ensures full-size image doesn't exceed the page width */
-            height: auto;
-            margin-top: 20px;
         }
     </style>
 </head>
 <body>
-    <h1>SmoothOperator</h1>
-    <p>over 10 years procrastinating!</p>
+    <h1>Welcome to SmoothOperator</h1>
+    <p>This is me just like playing around with Github pages.</p>
     <a href="experiments.html">Go to Experiments</a>
     <br><br>
     <span class="dark-mode-toggle" onclick="toggleDarkMode()">Click here to activate dark mode</span>
 
-    <div class="top-link">
+    <div class="sassy-note">
         <p>Here's a <a href="resume.html" class="resume-link" target="_blank">resume</a> link. Enjoy!</p>
     </div>
 
-    <!-- Adding thumbnails for the Voxel OX images -->
-    <h2>It's 2026!</h2>
+    <script>
+        // Check if dark mode is already enabled
+        if (localStorage.getItem('darkMode') === 'enabled') {
+            document.body.classList.add('dark-mode');
+            document.querySelector('.dark-mode-toggle').textContent = 'Click here to deactivate dark mode';
+        }
 
-    <!-- Link to external scripts -->
-    <script src="scripts/darkmode.js"></script>
-    <script src="scripts/thumbnail.js"></script>
+        function toggleDarkMode() {
+            document.body.classList.toggle('dark-mode');
+            const toggleText = document.querySelector('.dark-mode-toggle');
+            if (document.body.classList.contains('dark-mode')) {
+                localStorage.setItem('darkMode', 'enabled');
+                toggleText.textContent = 'Click here to deactivate dark mode';
+            } else {
+                localStorage.setItem('darkMode', 'disabled');
+                toggleText.textContent = 'Click here to activate dark mode';
+            }
+        }
+    </script>
 </body>
 </html>
