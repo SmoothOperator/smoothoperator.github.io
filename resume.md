@@ -7,8 +7,6 @@ If you have a full-time position where you think my skills or experience would c
 
 https://www.linkedin.com/in/marshallpeck/
 
-[Check out my 2014-2024 photogallery](https://photos.app.goo.gl/z1X7arV6D6iKYqBN8) for a view into my creative process and projects.
-
 ---
 
 ### About Me
@@ -29,6 +27,7 @@ My specialties are design for rapid manufacturing (3D printing), 2.5D + 3D CNC m
 
 My design software of choice is Fusion 360. I’m proficient in many of its areas and have been using that software since its approximate year of release (2013). I am also well practiced in a variety of hand fabrication tools, power tools and the like.
 
+[Check out my 2014-2024 photogallery](https://photos.app.goo.gl/z1X7arV6D6iKYqBN8) for a view into my creative process and projects.
 
 ---
 
