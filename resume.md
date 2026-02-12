@@ -10,6 +10,8 @@ https://www.linkedin.com/in/marshallpeck/
 ---
 
 ### About Me
+I'm super-friendly, committed to ideals and goals of professionalism thowse of which I usually highlight being: communication forfthcoming, objectivity,  , belive work should be and 
+
 In 2014, I started ProtoBuilds.com a 3D printing and prototyping company after success on the early service aggregator platforms: 3Dhubs and Makexyz.
 
 I have worked for dozens of companies providing 3D printing, CNC machining, prototyping and design services (since 2014) across a wide range of industries from: consumer products, medical devices, light industrial machine equipment, defence and for companies large and small. I have provided digital fabrication services, consulting or design work for firms like SpaceX, NXP, Ottobock just to name a few.
