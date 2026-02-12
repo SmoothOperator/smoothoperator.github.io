@@ -10,7 +10,7 @@ https://www.linkedin.com/in/marshallpeck/
 ---
 
 ### About Me
-I'm super-friendly, committed to ideals and goals of professionalism thowse of which I usually highlight being: communication forfthcoming, objectivity,  , belive work should be and 
+I'm super-friendly, committed to ideals and goals of professionalism thowse of which I usually highlight being: communication forfthcoming, objectivity,  , belive work should be and humans are not machines a andm machunes are not ppeopole
 
 In 2014, I started ProtoBuilds.com a 3D printing and prototyping company after success on the early service aggregator platforms: 3Dhubs and Makexyz.
 
