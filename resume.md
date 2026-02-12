@@ -25,9 +25,9 @@ I have in the past, over many years, augmented teams with additional labor, take
 - Designed and prototyped mechanical/electrical systems, specializing in 3D printing and CNC machine design.
 - Provided consulting, product development, and manufacturing solutions to hundreds of badass clients.
 
-📸 [Check out my 2014-2024 photogallery](https://photos.app.goo.gl/z1X7arV6D6iKYqBN8) for a peek at my creative process and projects.
+📸 [Check out my 2014-2024 photogallery](https://photos.app.goo.gl/z1X7arV6D6iKYqBN8) for a view into my creative process and projects.
 
-see linkedin for additional work history
+see my linkedin for additional work history
 
 ---
 
@@ -39,8 +39,9 @@ see linkedin for additional work history
 
 ---
 
-### Latest Hobby
-Messing around with large language models and AI, including ChatGPT and other cutting-edge platforms, critiquing 
+### My view on "AI" amd LLMs
+The proposed use and usefulness of these tools should **always** demand a thorough critique and require a practical, realistic and complete technical understanding of how these systems function and potential enterprize economic and socio-economic impacts.
+
 
 ---
 
@@ -129,5 +130,3 @@ Break room for the ONNIT office in Austin, TX.
 
 
 
-</body>
-</html>
