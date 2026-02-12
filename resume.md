@@ -2,6 +2,11 @@
 
 [marshallpeck@gmail.com](mailto:marshallpeck@gmail.com) • [LinkedIn](https://www.linkedin.com/in/marshallpeck/) • [GitHub](https://github.com/SmoothOperator)
 
+If you have a full-time position where you think my skills or experience would come in handy, contact via:
+[marshallpeck@gmail.com](mailto:marshallpeck@gmail.com), reachout via linkedin or text: **(512)-228-2549**.
+
+https://www.linkedin.com/in/marshallpeck/
+
 ---
 
 ### About Me
@@ -25,17 +30,16 @@ I have in the past, over many years, augmented teams with additional labor, take
 - Designed and prototyped mechanical/electrical systems, specializing in 3D printing and CNC machine design.
 - Provided consulting, product development, and manufacturing solutions to hundreds of badass clients.
 
-📸 [Check out my 2014-2024 photogallery](https://photos.app.goo.gl/z1X7arV6D6iKYqBN8) for a view into my creative process and projects.
+[Check out my 2014-2024 photogallery](https://photos.app.goo.gl/z1X7arV6D6iKYqBN8) for a view into my creative process and projects.
 
-see my linkedin for additional work history
 
 ---
 
-### Passions 🔥
-- Robotics 🤖
-- Experimental Art 🎨
-- Science 🧪
-- Human-Computer Interaction 🖥️
+### Misc. hobbies / passions
+- Robotics
+- Experimental Art
+- Science
+- Human-Computer Interaction
 
 ---
 
@@ -45,41 +49,53 @@ The proposed use and usefulness of these tools should **always** demand a thorou
 
 ---
 
-### Education 🎓
+### Education
 - **Sam Houston State University** *(2004-2006, non-graduate)*
 
 ---
 
-### Skills & Tools 🛠️
+### Skills & Tools
 
 **Design & Manufacturing**
-- Expert-level Autodesk Fusion 360 skills, with thousands of hours spent on 3D printing, CNC machining, and product development.
-- Designed custom CNC machines and developed g-code workflows for various manufacturing and prototyping needs.
+- Autodesk Fusion 360
+- thousands of hours spent 3D printing
+
 
 **Programming**
-- Intermediate proficiency in Arduino IDE, C/C++, and Processing (Java).
+- Junior-level (probably) proficiency in Arduino IDE, C/C++
+
+**Electrical**
+- Experience with variety of development boards E.g. Adafruit, Sparkfun
+- discrete components, basic circuit diagrams
 
 **Communication & Management**
-- Strong track record in client relationships, project management, hiring, team leadership, and operating small fab studios.
+- Client/customer relationships, project management, hiring, team leadership, teaching, empowering collaboration
+- Through emails or docs with easy to digest info with images, gifs, high-level or granular spreadsheets
 
 ---
 
 ### Online Profiles 🌐
 - **Instructables**: 6 authored instructables, featured in MakeZine and popular 3D printing blogs.
-- **Devpost**: Profile created for F8 Hackathon.
+https://www.instructables.com/member/marshallpeck/
+
+- **Devpost**: Inclusive Maps created for F8 hackathon.
+https://devpost.com/marshallpeck
 
 ---
 
-### CAD/CAM Applications 🖥️
-- Autodesk Fusion 360
+### CAD/CAM Applications
+- Autodesk Fusion 360, mechanical motion-link, free-form (t-splines), rendering, and to lesser extent simulation.
+- Autodesk Inventor
+- Ability to pivot to other CAD or UI's as primary.
 - Simplify3D
+- Linux CNC, GRBL, Universal Gcode Sender
 
 
 
 ---
 
 
-# Portfolio
+# 2 projects from my Portfolio
 
 ### Voxel Ox
 An open source 3D printer published on OpenBuilds.com [project link](https://builds.openbuilds.com/builds/voxel-ox-extendable-3d-printer-and-cnc-platform.5080/)
