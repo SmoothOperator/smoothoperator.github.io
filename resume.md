@@ -7,30 +7,41 @@ If you have a full-time position where you think my skills or experience would c
 
 https://www.linkedin.com/in/marshallpeck/
 
+[Check out my 2014-2024 photogallery](https://photos.app.goo.gl/z1X7arV6D6iKYqBN8) for a view into my creative process and projects.
+
 ---
 
 ### About Me
-As a freelance professional, I have worked for dozens of companies providing 3D printing, CNC machining, prototyping and design services for about **10 years** (since 2014) across a wide range of industries from: consumer products, medical devices, light industrial machinine equipment, defence and for companies large and small. I have provided fabrication, consulting or design work for firms like **SpaceX**, **NXP** and have worked with 100's of other businesses over the years.
+In 2014, I started ProtoBuilds.com a 3D printing and prototyping company after success on the early service aggregator platforms: 3Dhubs and Makexyz.
 
-I have worked for a companies on either short-term contract by-the-hour or all-inclusive project, on-site or remote basis depending on needs of client/project where services required of me are valued anywhere from a few hundred dollars to 10's of thousands, requiring me to manage complex projects and reliably project outcomes over several months.
+I have worked for dozens of companies providing 3D printing, CNC machining, prototyping and design services (since 2014) across a wide range of industries from: consumer products, medical devices, light industrial machine equipment, defence and for companies large and small. I have provided digital fabrication services, consulting or design work for firms like SpaceX, NXP, Ottobock just to name a few.
 
-My specialties are design for rapid manufacturing, 2.5D + 3D CNC machining, SLA, SLS, FDM and fabrication of items or assemblies for end-use function, aesthetic prototypes, or short run-manufacturing.
+Over the many years, I have worked in a variety of capacities either short-term, contract by-the-hour, all-inclusive project, on-site or remote depending on needs of client/project. Services required of me have been valued anywhere from a few hundred dollars to 10's of thousands of dollars, requiring me to: propose, estimate, quote, invoice, manage and deliver a variety of complex projects, maintain my own commercial office as well as acquire, train and retain a staff ranging from 1-4 people.
 
-My design software of choice is Fusion 360 for which, you may consider me an expert in many of it's areas. Assemblies utilizing custom threads, interlocking parts or compliant mechanisms is something I have a lot of experience with, for example.
+ProtoBuilds started out as a quick answer to when people asked for more in depth assistance with their project and grew into a unique, small yet professional, product development and creative fabrication studio. I have 100’s of pictures from its peak years. It was a lot of fun.
 
-I have in the past, over many years, augmented teams with additional labor, taken on certain types of projects, full service or consulted. In that time, I have enjoyed being a business owner, exploring my passions, interests, and realizing many a dream. I belive my experience is unique.
+Nowadays I work solo as a freelance industrial designer for select projects or companies and enjoy free time hanging out with my 1 year old Australian Kelpie and 14 year old, yet still adventurous, cat.
 
-*What I'm looking for* is a new, interesting challenge and long-term project. That is why I am seeking full-time employment at an established firm or startup with salary range 90k+
+I have enjoyed being a business owner, exploring my passions, interests, realizing dreams of mine, and of others whose dreams I helped turn into reality. I believe my experience may be unique for its variety.
+
+
+My specialties are design for rapid manufacturing (3D printing), 2.5D + 3D CNC machining, SLA, SLS, FDM and fabrication of items or assemblies for end-use function, aesthetic prototypes, or short run-manufacturing.
+
+My design software of choice is Fusion 360. I’m proficient in many of its areas and have been using that software since its approximate year of release (2013). I am also well practiced in a variety of hand fabrication tools, power tools and the like.
+
 
 ---
+
+# What I'm looking for…
+A new, interesting challenge and long-term project. That is why I am seeking full-time employment at an established firm or startup with a salary range 90k+.
+
+I’m happy to continue living in the Austin, TX area. However, I am hoping for the possibility of moving to better weather climates on either coast.
 
 ### Experience
 **Founder & Operator – ProtoBuilds LLC** *(2014 - Present)*  
 - Managed quick-turnaround 3D printing and design services for high-value projects (>$50K), overseeing staff and project execution.
 - Designed and prototyped mechanical/electrical systems, specializing in 3D printing and CNC machine design.
 - Provided consulting, product development, and manufacturing solutions to hundreds of badass clients.
-
-[Check out my 2014-2024 photogallery](https://photos.app.goo.gl/z1X7arV6D6iKYqBN8) for a view into my creative process and projects.
 
 
 ---
