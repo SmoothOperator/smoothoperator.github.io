@@ -71,6 +71,7 @@ The proposed use and usefulness of these tools should **always** demand a thorou
 
 **Design & Manufacturing**
 - 1000+ hours in Autodesk Fusion 360
+  - 
 - thousands of hours 3D printing
 - hundres of hours CNC machining
 - low voltage wiring
@@ -84,8 +85,8 @@ The proposed use and usefulness of these tools should **always** demand a thorou
 - discrete components, basic circuit diagrams
 
 **Communication & Management**
-- Client/customer relationships, project management, hiring, team leadership, teaching, empowering collaboration
-- Through emails or docs with easy to digest info with images, gifs, high-level or granular spreadsheets
+- lient/customer relationships, project management, hiring, team leadership, teaching, empowering collaboration
+- emails or docs with easy to digest info with images, gifs, high-level or granular spreadsheets
 
 ---
 
