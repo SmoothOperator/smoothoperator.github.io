@@ -51,14 +51,20 @@ possibility for moving to cooler weather climates on either coast, major city
 
 ### Misc. hobbies / passions
 - robotics
-- experimental Art
-- human-Computer Interaction
+- experimental art
+- human-Computer interaction
+
+---
+
+### Hackathons
+- Startup Bus 2017
+- F8 Hackathon 2019
+project: https://devpost.com/software/inclusive-maps
 
 ---
 
 ### My view on "AI" amd LLMs
-The proposed use and usefulness of these tools should **always** demand a thorough critique and require a practical, realistic and complete technical understanding of how these systems function and potential enterprize economic and socio-economic impacts.
-
+The proposed use and usefulness of these tools should include a thorough critique and require a practical, realistic and complete technical understanding of how these systems function and potential enterprize impacts, limitations, risks, what they can and _cannot_ do and what they _are_ and are not.
 
 ---
 
@@ -71,18 +77,94 @@ The proposed use and usefulness of these tools should **always** demand a thorou
 
 **Design & Manufacturing**
 - 1000+ hours in Autodesk Fusion 360
-  - 
+  - original part design
+  - optimization for additive & subtractive mfg.
+  - mechanical assemblies
+    - hardware BOM
+    - electronics wire routing
+    - joints, kinimatic motion-studies
+    - animated motion-links
+    - free-form surface t-splines
+    - parametric sketches & assemblies
+    - static stress simulation
+    - thermal simulation
+    - advanced rendering, material textures, bump maps, fabrics
+    - g-code tool path generation (CAM) HSMWorks 2.5D, 3D carving
+    - (Autodesk EAGLE) basic circruit layout, import/export for 3rd party mfg.
+
+**Hands on real-world fabrication**
 - thousands of hours 3D printing
-- hundres of hours CNC machining
-- low voltage wiring
+- hundres of hours CNC machine operation
+  - small detail, high tolerance wood, wax, plastics, non-ferrous metals
+  - large sheet material projects, 5x10' wood, ACM dibond
+  
+  *CNC equip*
+    - DIY cnc routers design, build, operation (~4+ different machines)
+    - professsoinal avidcnc 5x10 CNC setup, assembly, operation, maintence
+    - HASS VF4 milling machine, operation, workpiece setup
+    - hobbyist CNC router equipment Shapeoko, Snapmaker
+ 
+  *Fabrication tools / shop tools & equip.*
+  - crill press
+  - circular saw
+  - miter saw aluminum, wood, plastics
+  - chop saw/ Cut-off wheel
+  - griding wheel, disk, belt sander
+  - hand-tools, impact, drill/driver, wood, self tapping steel fasteners
+  - air-compressor & vaccum pump operation, maintenece, selecting/making fittings, hose connections
+  - Jig-saw,
+  - Band-saw operation, maitnence
+  - Dremmel/rotary tool 
+  - Obital Sander
+  - Airbrush operation, maintence
+  
+
+  **Misc. equip**
+  - powered manual mill workpiece setup, drilling, chamfering, tapping, steel parts
+  - 40-ton brake press, stamp debossing, bending
+  - floor belt grinder opteration
+  - part tumbler/polisher
+  - fork-lift operation on single level, tight spaces, parking lot, fork extensions, ramp
+  - Universal Robotics robot arm UR3 basic operation, teaching/record action, custom program run
+  - FLIR thermal camera
+
+  **Fabricatoin mediums and techniques**
+  - Aluminum extrusion and similar for:
+    - multi-axis linear actuation (carteasian robotics), slides, guides bearing assemblies
+    - custom sheet material brackets, plates and off-shelf acesssories
+    - furniture & fixtures
+   
+  - ACM / polymetal (Dibond) desgin guide techniques
+  - plywood, softwood (cedar, pine) furniture/fixtures, hobby-craft
+  - tempered glass (assembly), plate glass (cutting)
+  - natural, in-situ lumber
+  - EPS foamboard
+  - fiberglass and epoxxy
+  - 2-part silicone, 2-part urethane
+  - paint/prep
+
+**DIY electronics**
+- low voltage wiring and connector making, DUPONT, DITTO, MOLEX
+- Soldering/desoldering, shrink tube
+- pin-board/protoboard component selection, layout, setup, test, troubleshooting
+- multi-meter use voltage, resistance, capacitance, continuity
+- essential use of 4 basic discrete components
+- various development boards and breakoutboards (Arduino), IMUs, mics, sensors, battery, DIY IOT (Adafruit, sparkfun), char
+- stepper motors, servo motors
+- Neopixel LED lighting wiring, power management (stationary, battery), programming, creative project integration
+- Basic 120v fixture installation
+
+**Programming** (non-AI assisted)
+- junior-level (probably) C++ Arduino IDE setup, library installation, wider ecosystem (+10 years exp. hobbyist)
+  - global/local var., setup, loop, if/else/elif, map, rand, switch, serial, digi/analog IO, milis
+  - basic algebra expressions
+  
+- Markdown
+- introductory java
+- introductory HTML
 
 
-**Programming**
-- Junior-level (probably) proficiency in Arduino IDE, C/C++
 
-**Electrical**
-- Experience with variety of development boards E.g. Adafruit, Sparkfun
-- discrete components, basic circuit diagrams
 
 **Communication & Management**
 - lient/customer relationships, project management, hiring, team leadership, teaching, empowering collaboration
