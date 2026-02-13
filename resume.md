@@ -34,24 +34,25 @@ My design software of choice is Fusion 360. I’m proficient in many of its area
 ---
 
 # What I'm looking for…
-A new, interesting challenge and long-term project. That is why I am seeking full-time employment at an established firm or startup with a salary range 90k+.
-
-I’m happy to continue living in the Austin, TX area. However, I am hoping for the possibility of moving to better weather climates on either coast.
+full-time
+salary 75k-100k+
+an established firm or startup
+work with a creative/problem solving team
+possibility for moving to cooler weather climates on either coast, major city
 
 ### Experience
 **Founder & Operator – ProtoBuilds LLC** *(2014 - Present)*  
-- Managed quick-turnaround 3D printing and design services for high-value projects (>$50K), overseeing staff and project execution.
-- Designed and prototyped mechanical/electrical systems, specializing in 3D printing and CNC machine design.
-- Provided consulting, product development, and manufacturing solutions to hundreds of badass clients.
-
+- quick-turnaround 3D printing and design services
+- high-value projects ($50K+), overseeing staff and project execution.
+- designed and prototyped mechanical/electrical systems, specializing in 3D printing and CNC machine design.
+- provided consulting, product development, and manufacturing solutions for hundreds of customers and clients.
 
 ---
 
 ### Misc. hobbies / passions
-- Robotics
-- Experimental Art
-- Science
-- Human-Computer Interaction
+- robotics
+- experimental Art
+- human-Computer Interaction
 
 ---
 
@@ -62,15 +63,17 @@ The proposed use and usefulness of these tools should **always** demand a thorou
 ---
 
 ### Education
-- **Sam Houston State University** *(2004-2006, non-graduate)*
+- **Sam Houston State University** (2004-2006)
 
 ---
 
 ### Skills & Tools
 
 **Design & Manufacturing**
-- Autodesk Fusion 360
-- thousands of hours spent 3D printing
+- 1000+ hours in Autodesk Fusion 360
+- thousands of hours 3D printing
+- hundres of hours CNC machining
+- low voltage wiring
 
 
 **Programming**
