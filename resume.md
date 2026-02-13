@@ -90,13 +90,21 @@ The proposed use and usefulness of these tools should include a thorough critiqu
     - thermal simulation
     - advanced rendering, material textures, bump maps, fabrics
     - g-code tool path generation (CAM) HSMWorks 2.5D, 3D carving
-    - (Autodesk EAGLE) basic circruit layout, import/export for 3rd party mfg.
+    - basic PCB design Autodesk EAGLE, import/export for 3rd party mfg.
+- Ability to pivot to other CAD or UI's as primary.
+- Simplify3D, various FDM slicers
+- Linux CNC, GRBL, Universal Gcode Sender
 
 **Hands on real-world fabrication**
 - thousands of hours 3D printing
 - hundres of hours CNC machine operation
   - small detail, high tolerance wood, wax, plastics, non-ferrous metals
   - large sheet material projects, 5x10' wood, ACM dibond
+- shop / office management
+  - safety, storage, education procedure, PPE, dust collection, organization, optimization
+  - talent / labor hiring / vetting part-time/full-time or 3rd pary services
+  - tracking work and paid-on-time compensation
+  - basic book-keeping and accounting
   
   *CNC equip*
     - DIY cnc routers design, build, operation (~4+ different machines)
@@ -116,7 +124,7 @@ The proposed use and usefulness of these tools should include a thorough critiqu
   - Band-saw operation, maitnence
   - Dremmel/rotary tool 
   - Obital Sander
-  - Airbrush operation, maintence
+  - Airbrush
   
 
   **Misc. equip**
@@ -127,11 +135,13 @@ The proposed use and usefulness of these tools should include a thorough critiqu
   - fork-lift operation on single level, tight spaces, parking lot, fork extensions, ramp
   - Universal Robotics robot arm UR3 basic operation, teaching/record action, custom program run
   - FLIR thermal camera
+  - calipers
+  - dial indicator
 
   **Fabricatoin mediums and techniques**
-  - Aluminum extrusion and similar for:
+  - Aluminum extrusion and similar (80/20)
     - multi-axis linear actuation (carteasian robotics), slides, guides bearing assemblies
-    - custom sheet material brackets, plates and off-shelf acesssories
+    - custom brackets, plates, off-shelf acesssories
     - furniture & fixtures
    
   - ACM / polymetal (Dibond) desgin guide techniques
@@ -158,17 +168,17 @@ The proposed use and usefulness of these tools should include a thorough critiqu
 - junior-level (probably) C++ Arduino IDE setup, library installation, wider ecosystem (+10 years exp. hobbyist)
   - global/local var., setup, loop, if/else/elif, map, rand, switch, serial, digi/analog IO, milis
   - basic algebra expressions
-  
 - Markdown
 - introductory java
 - introductory HTML
 
-
-
+*Other software / hardware*
+- google sheets mid but effective user
+- ablity to build desktop PC, maintain basic windows computer network
 
 **Communication & Management**
-- lient/customer relationships, project management, hiring, team leadership, teaching, empowering collaboration
-- emails or docs with easy to digest info with images, gifs, high-level or granular spreadsheets
+- client/customer relationship, project management, hiring, team leadership, teaching, empowering collaboration
+- emails or docs with easy to digest info with images, animated gifs, high-level or granular spreadsheets
 
 ---
 
@@ -178,15 +188,6 @@ https://www.instructables.com/member/marshallpeck/
 
 - **Devpost**: Inclusive Maps created for F8 hackathon.
 https://devpost.com/marshallpeck
-
----
-
-### CAD/CAM Applications
-- Autodesk Fusion 360, mechanical motion-link, free-form (t-splines), rendering, and to lesser extent simulation.
-- Autodesk Inventor
-- Ability to pivot to other CAD or UI's as primary.
-- Simplify3D
-- Linux CNC, GRBL, Universal Gcode Sender
 
 
 
