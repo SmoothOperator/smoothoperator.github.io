@@ -218,6 +218,13 @@ Inline-style:
 
 ---
 
+![myimage](:raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png)
+
+![myimage]([:raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png](https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png))
+
+
+---
+
 
 # 2 projects from my Portfolio
 
