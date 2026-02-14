@@ -251,6 +251,13 @@ An original breakroom concept and design with buildable CAD files and assemblies
   </a>
 </div>
 
+<!-- PIC 5 -->
+
+  <a href="https://static.wixstatic.com/media/ed8129_0252718232cc4b9398f89de869120fa1~mv2_d_1558_1610_s_2.jpg/v1/fill/w_725,h_750,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ed8129_0252718232cc4b9398f89de869120fa1~mv2_d_1558_1610_s_2.jpg" target="_blank">
+    <img src="[https://static.wixstatic.com/media/ed8129_87c23c8d921f4cea8f4aaef0b38b558c~mv2.jpg/v1/fill/w_1127,h_705,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ed8129_87c23c8d921f4cea8f4aaef0b38b558c~mv2.jpg](https://static.wixstatic.com/media/ed8129_0252718232cc4b9398f89de869120fa1~mv2_d_1558_1610_s_2.jpg/v1/fill/w_725,h_750,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ed8129_0252718232cc4b9398f89de869120fa1~mv2_d_1558_1610_s_2.jpg)?raw=true" style="height: 150px; object-fit: contain;">
+  </a>
+</div>
+
 ---
 
 ### ONNIT office Break room
