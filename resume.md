@@ -205,6 +205,17 @@ Inline-style:
 ### Voxel Ox _markdown_ thumbnail vers.
 [![sample screenshot](https://i.imgur.com/Tkks00R.png)](https://i.imgur.com/Ob4qAwu.png)
 
+
+---
+
+<markdown>
+# blah
+</markdown>
+{{:[img_2375.jpg](https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png)?200|}}
+<markdown>
+## more blah
+</markdown>
+
 ---
 
 
