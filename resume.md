@@ -191,7 +191,40 @@ https://devpost.com/marshallpeck
 
 ---
 
+### Voxel Ox TEST
+An open source 3D printer published on OpenBuilds.com [project link](https://builds.openbuilds.com/builds/voxel-ox-extendable-3d-printer-and-cnc-platform.5080/)
+https://builds.openbuilds.com/builds/voxel-ox-extendable-3d-printer-and-cnc-platform.5080/
 
+<div style="display: flex; gap: 10px; align-items: flex-start;">
+  <a href="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" target="_blank">
+    <img src="https://github.com/SmoothOperator/smoothoperator.github.io/blob/main/images/voxelox/Voxel%20OX%20Render.png?raw=true" style="height: 250px; object-fit: contain;">
+  </a>
+  
+  <!-- PIC 1 -->
+  
+  <a href="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20assembled.png" target="_blank">
+    <img src="https://github.com/SmoothOperator/smoothoperator.github.io/blob/main/images/voxelox/Voxel%20OX%20assembled.png?raw=true" style="height: 150px; object-fit: contain;">
+  </a>
+  
+  <!-- PIC 2 -->
+  
+  <a href="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/11845195_10101973842321305_35337157328280729_o.jpg" target="_blank">
+    <img src="https://github.com/SmoothOperator/smoothoperator.github.io/blob/main/images/voxelox/11845195_10101973842321305_35337157328280729_o.jpg?raw=true" style="height: 150px; object-fit: contain;">
+  </a>
+  
+  <!-- PIC 3 -->
+  
+  <a href="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/assembledVoxelOx.png" target="_blank">
+    <img src="https://github.com/SmoothOperator/smoothoperator.github.io/blob/main/images/assembledVoxelOx.png?raw=true" style="height: 150px; object-fit: contain;">
+  </a>
+</div>
+
+  <!-- PIC 4 -->
+  
+  <a href="https://static.wixstatic.com/media/ed8129_b547fd6f7351497ea0ff52904fb07b7a~mv2_d_2048_1536_s_2.png/v1/fill/w_1000,h_750,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/ed8129_b547fd6f7351497ea0ff52904fb07b7a~mv2_d_2048_1536_s_2.png" target="_blank">
+    <img src="https://static.wixstatic.com/media/ed8129_b547fd6f7351497ea0ff52904fb07b7a~mv2_d_2048_1536_s_2.png/v1/fill/w_1000,h_750,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/ed8129_b547fd6f7351497ea0ff52904fb07b7a~mv2_d_2048_1536_s_2.png?raw=true" style="height: 150px; object-fit: contain;">
+  </a>
+</div>
 
 ---
 
@@ -262,7 +295,6 @@ An original breakroom concept and design with buildable CAD files and assemblies
   <a href="https://static.wixstatic.com/media/ed8129_87c23c8d921f4cea8f4aaef0b38b558c~mv2.jpg/v1/fill/w_1127,h_705,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ed8129_87c23c8d921f4cea8f4aaef0b38b558c~mv2.jpg" target="_blank">
     <img src="https://static.wixstatic.com/media/ed8129_87c23c8d921f4cea8f4aaef0b38b558c~mv2.jpg/v1/fill/w_1127,h_705,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ed8129_87c23c8d921f4cea8f4aaef0b38b558c~mv2.jpg?raw=true" style="height: 150px; object-fit: contain;">
   </a>
-</div>
 
 ---
 
