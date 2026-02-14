@@ -213,10 +213,10 @@ https://builds.openbuilds.com/builds/voxel-ox-extendable-3d-printer-and-cnc-plat
 </p>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="220"/>
-  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="220"/>
-  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="220"/>
-  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="220"/>
+  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="245"/>
+  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="245"/>
+  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="245"/>
+  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="245"/>
   
 </p>
 
