@@ -218,6 +218,8 @@ Inline-style:
 
 ---
 
+### markdown thumbnail image
+
 ![myimage](:raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png)
 
 ![myimage]([voxelox/Voxel%20OX%20Renderg](https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png))
