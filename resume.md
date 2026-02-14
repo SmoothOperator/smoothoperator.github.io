@@ -251,21 +251,15 @@ https://builds.openbuilds.com/builds/voxel-ox-extendable-3d-printer-and-cnc-plat
   <a href="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" target="_blank">
     <img src="https://github.com/SmoothOperator/smoothoperator.github.io/blob/main/images/voxelox/Voxel%20OX%20Render.png?raw=true" style="height: 250px; object-fit: contain;">
   </a>
-
   <!-- PIC 1 -->
-
   <a href="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20assembled.png" target="_blank">
     <img src="https://github.com/SmoothOperator/smoothoperator.github.io/blob/main/images/voxelox/Voxel%20OX%20assembled.png?raw=true" style="height: 150px; object-fit: contain;">
   </a>
-
   <!-- PIC 2 -->
-
   <a href="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/11845195_10101973842321305_35337157328280729_o.jpg" target="_blank">
     <img src="https://github.com/SmoothOperator/smoothoperator.github.io/blob/main/images/voxelox/11845195_10101973842321305_35337157328280729_o.jpg?raw=true" style="height: 150px; object-fit: contain;">
   </a>
-
   <!-- PIC 3 -->
-
   <a href="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/assembledVoxelOx.png" target="_blank">
     <img src="https://github.com/SmoothOperator/smoothoperator.github.io/blob/main/images/assembledVoxelOx.png?raw=true" style="height: 150px; object-fit: contain;">
   </a>
