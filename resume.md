@@ -203,7 +203,7 @@ Inline-style:
 ---
 
 ### Voxel Ox _markdown_ thumbnail vers.
-[![sample screenshot](https://i.imgur.com/Tkks00R.png)](https://i.imgur.com/Ob4qAwu.png)
+[![sample screenshot]([https://i.imgur.com/Tkks00R.png](https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png))]([https://i.imgur.com/Ob4qAwu.png](https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png))
 
 
 ---
