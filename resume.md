@@ -7,28 +7,6 @@ If you have a full-time position where you think my skills or experience would c
 
 https://www.linkedin.com/in/marshallpeck/
 
-
-![Voxel OX Thumbnail](https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png)
-
-
-<img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" alt="Voxel OX Thumbnail" width="300">
-
-
-<img
-  src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png"
-  alt="Voxel OX Thumbnail"
-  width="300"
-/>
-
-<a href="[[https://your-link-here.com](https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png)](https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png)">
-  <img
-    src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png"
-    alt="Voxel OX Thumbnail"
-    width="300"
-  />
-</a>
-
-
 ---
 
 ### About Me
