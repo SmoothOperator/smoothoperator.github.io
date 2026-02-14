@@ -266,6 +266,27 @@ https://builds.openbuilds.com/builds/voxel-ox-extendable-3d-printer-and-cnc-plat
   
 </p>
 
+
+### Voxel OX test 6
+
+GHJG
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="520" />
+
+
+
+
+<img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="250" style="margin-left: 16px;" />
+
+
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="250" style="margin-right: 16px;" />
+  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="250" style="margin-right: 16px;"/>
+  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="250" style="margin-right: 16px;"/>
+</p>
+
 ---
 
 # 2 projects from my Portfolio
