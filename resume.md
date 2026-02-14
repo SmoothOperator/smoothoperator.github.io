@@ -211,44 +211,57 @@ https://www.instructables.com/member/marshallpeck/
 - **Devpost**: Inclusive Maps created for F8 hackathon.
 https://devpost.com/marshallpeck
 
-
 ---
 
-### Voxel Ox
-An open source 3D printer published on OpenBuilds.com [project link](https://builds.openbuilds.com/builds/voxel-ox-extendable-3d-printer-and-cnc-platform.5080/)
-https://builds.openbuilds.com/builds/voxel-ox-extendable-3d-printer-and-cnc-platform.5080/
+<style>
+  .image-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+  }
 
-Inline-style: 
-![alt text]([https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png "Logo Title Text 1"]([https://builds.openbuilds.com/builds/voxel-ox-extendable-3d-printer-and-cnc-platform.5080/](https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png))
+  .image-grid img {
+    width: 100%;
+    height: 200px;
+    object-fit: contain;
+  }
+
+  /* Mobile layout */
+  @media (max-width: 768px) {
+    .image-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (max-width: 480px) {
+    .image-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
+
+<div class="image-grid">
+
+  <a href="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" alt="Voxel OX Render">
+  </a>
+
+  <a href="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20assembled.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20assembled.png" alt="Voxel OX Assembled">
+  </a>
+
+  <a href="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/11845195_10101973842321305_35337157328280729_o.jpg" target="_blank">
+    <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/11845195_10101973842321305_35337157328280729_o.jpg" alt="Voxel OX Photo">
+  </a>
+
+  <a href="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/assembledVoxelOx.png" target="_blank">
+    <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/assembledVoxelOx.png" alt="Assembled Voxel OX">
+  </a>
+
+</div>
 
 
 ---
-
-### Voxel Ox _markdown_ thumbnail vers.
-[![sample screenshot]([https://i.imgur.com/Tkks00R.png](https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png))]([https://i.imgur.com/Ob4qAwu.png](https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png))
-
-
----
-
-<markdown>
-# blah
-</markdown>
-{{:[img_2375.jpg](https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png)?200|}}
-<markdown>
-## more blah
-</markdown>
-
----
-
-### markdown thumbnail image
-
-![myimage](:raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png)
-
-![myimage]([voxelox/Voxel%20OX%20Renderg](https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png))
-
-
----
-
 
 # 2 projects from my Portfolio
 
