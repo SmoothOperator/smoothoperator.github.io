@@ -202,6 +202,11 @@ Inline-style:
 
 ---
 
+### Voxel Ox _markdown_ thumbnail vers.
+[![sample screenshot](https://i.imgur.com/Tkks00R.png)](https://i.imgur.com/Ob4qAwu.png)
+
+---
+
 
 # 2 projects from my Portfolio
 
