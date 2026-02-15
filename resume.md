@@ -273,14 +273,6 @@ GHJG
 
 <p float="left">
   <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="520" />
-
-
-
-
-<img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="250" style="margin-left: 16px;" />
-
-
-
 <p float="left">
   <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="250" style="margin-right: 16px;" />
   <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="250" style="margin-right: 16px;"/>
