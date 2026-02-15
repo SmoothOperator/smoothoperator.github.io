@@ -287,6 +287,18 @@ GHJG
   <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="250" style="margin-right: 16px;"/>
 </p>
 
+
+### VTest 7
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="305" />
+<img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="140" style="margin-left: 20px;" />
+<p float="left">
+  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="140" style="margin-right: 20px;"/>
+  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="140" style="margin-right: 20px;"/>
+  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="140" style="margin-right: 20px;"/>
+</p>
+
 ---
 
 # 2 projects from my Portfolio
