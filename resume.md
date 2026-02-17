@@ -205,17 +205,18 @@ https://builds.openbuilds.com/builds/voxel-ox-extendable-3d-printer-and-cnc-plat
   
 </p>
 
-### Voxel Ox TEST 2
+### TINY Dome
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="408"/>
+  <img src="images/tinydome/1-tinydome.jpg" width="408"/>
 </p>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="200"/>
-  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="200"/>
-  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="200"/>
-  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="200"/>
+  <img src="images/tinydome/2-tinydome.jpg" width="200"/>
+  <img src="images/tinydome/3-tinydome.jpg" width="200"/>
+  <img src="images/tinydome/4-tinydome.jpg" width="200"/>
+  <img src="images/tinydome/5-tinydome.jpg" width="200"/>
+  <img src="images/tinydome/5-tinydome.jpg" width="200"/>
   
 </p>
 
