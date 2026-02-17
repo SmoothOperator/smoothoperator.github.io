@@ -196,12 +196,12 @@ An open source 3D printer published on OpenBuilds.com [project link](https://bui
 https://builds.openbuilds.com/builds/voxel-ox-extendable-3d-printer-and-cnc-platform.5080/
 
 <p align="left">
-  <img src="https://lh3.googleusercontent.com/pw/AP1GczM16rOavAnaDi_uGToLX4hJ2z1XoqSEeXXrrxDD0q0bMmKnmwLn9CBGZM9MOC0ed1YtvjOemvWmA5Rp4MjLZpla6QAFaxUynD0-feC_n3Dd3vjZdGZ8v1s5M3ObEcQCeWPHdEzcIx38FnNz39zDU2wYQw=w414-h414-s-no-gm?authuser=0" width="495"/>
+  <img src="images/voxelox/1-Voxel OX Render.png" width="495"/>
 </p>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="245"/>
-  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="245"/>
+  <img src="images/voxelox/assembled Voxel Ox.png" width="245"/>
+  <img src="https://lh3.googleusercontent.com/pw/AP1GczM16rOavAnaDi_uGToLX4hJ2z1XoqSEeXXrrxDD0q0bMmKnmwLn9CBGZM9MOC0ed1YtvjOemvWmA5Rp4MjLZpla6QAFaxUynD0-feC_n3Dd3vjZdGZ8v1s5M3ObEcQCeWPHdEzcIx38FnNz39zDU2wYQw=w414-h414-s-no-gm?authuser=0" width="245"/>
   
 </p>
 
