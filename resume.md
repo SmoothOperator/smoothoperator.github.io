@@ -215,8 +215,8 @@ https://builds.openbuilds.com/builds/voxel-ox-extendable-3d-printer-and-cnc-plat
   <img src="images/tinydome/2-tinydome.jpg" width="200"/>
   <img src="images/tinydome/3-tinydome.jpg" width="200"/>
   <img src="images/tinydome/4-tinydome.jpg" width="200"/>
-  <img src="images/tinydome/5-tinydome.jpg" width="200"/>
-  <img src="images/tinydome/5-tinydome.jpg" width="200"/>
+  <img src="images/tinydome/6-tinydome.jpg" width="200"/>
+
 </p>
 
 
