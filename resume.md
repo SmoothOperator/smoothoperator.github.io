@@ -230,10 +230,10 @@ Covid ventilator adapters
   <img src="images/ventilator_adapters/1-ventadapter.png" width="308" />
 
  <p float="left"> 
-  <img src="images/ventilator_adapters/2-ventadapter.png" width="100" />
-  <img src="images/ventilator_adapters/3-ventadapter.png" width="100" />
-  <img src="images/ventilator_adapters/4-ventadapter.png" width="100" />
-  <img src="images/ventilator_adapters/5-ventadapter.png" width="100" />
+  <img src="images/ventilator_adapters/2-ventadapter.jpg" width="100" />
+  <img src="images/ventilator_adapters/3-ventadapter.jpg" width="100" />
+  <img src="images/ventilator_adapters/4-ventadapter.jpg" width="100" />
+  <img src="images/ventilator_adapters/5-ventadapter.jpg" width="100" />
   
 </p>
 
