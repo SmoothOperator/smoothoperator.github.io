@@ -217,24 +217,23 @@ https://builds.openbuilds.com/builds/voxel-ox-extendable-3d-printer-and-cnc-plat
   <img src="images/tinydome/4-tinydome.jpg" width="200"/>
   <img src="images/tinydome/5-tinydome.jpg" width="200"/>
   <img src="images/tinydome/5-tinydome.jpg" width="200"/>
-  
 </p>
 
 
 
 ---
 
-### Voxel Ox TEST 8
-An open source 3D printer published on OpenBuilds.com [project link](https://builds.openbuilds.com/builds/voxel-ox-extendable-3d-printer-and-cnc-platform.5080/)
-https://builds.openbuilds.com/builds/voxel-ox-extendable-3d-printer-and-cnc-platform.5080/
+### Ventilator adapters
+Covid ventilator adapters
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="308" />
+  <img src="images/ventilator_adapters/1-ventadapter.png" width="308" />
 
  <p float="left"> 
-  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="100" />
-  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="100" />
-  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="100" />
+  <img src="images/ventilator_adapters/2-ventadapter.png" width="100" />
+  <img src="images/ventilator_adapters/3-ventadapter.png" width="100" />
+  <img src="images/ventilator_adapters/4-ventadapter.png" width="100" />
+  <img src="images/ventilator_adapters/5-ventadapter.png" width="100" />
   
 </p>
 
