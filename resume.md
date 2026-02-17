@@ -244,10 +244,10 @@ An open source 3D printer published on OpenBuilds.com [project link](https://bui
 https://builds.openbuilds.com/builds/voxel-ox-extendable-3d-printer-and-cnc-platform.5080/
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="328" />
+  <img src="images/ventilator_adapters/1-ventadapter.png" width="328" />
 </p>
 <p float="left">
-  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="120" />
+  <img src="images/ventilator_adapters/2-ventadapter.jpg" width="120" />
   <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="120" />
   <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="120" />
   <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="120" />
