@@ -289,7 +289,7 @@ contribution: CAD assembly, 3D printed prototype, rendering
 
 ---
 
-### ONNIT office breakroom & table tops
+### ONNIT office breakroom
 concept design, CAD assembly, CNC cut files
 
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:flex-start; align-items:flex-start;">
@@ -301,6 +301,37 @@ concept design, CAD assembly, CNC cut files
   <img src="images/ONNIToffice/3-ONNIT.jpg" style="height:150px; width:auto; max-width:100%;" />
 
   <img src="images/ONNIToffice/4-ONNIT.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+</div>
+
+---
+
+### SPF 3D printer
+concept design, CAD assembly, CNC cut files
+
+<div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:flex-start; align-items:flex-start;">
+
+  <img src="images/SP3Dprinter/2-SPprinter.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/SP3Dprinter/3-SPprinter.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/SP3Dprinter/4-SPprinter.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/SP3Dprinter/5-SPprinter.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/SP3Dprinter/6-SPprinter.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/SP3Dprinter/7-SPprinter.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/SP3Dprinter/8-SPprinter.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/SP3Dprinter/9-SPprinter.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/SP3Dprinter/10-SPprinter.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/SP3Dprinter/11-SPprinter.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/SP3Dprinter/12-SPprinter.jpg" style="height:150px; width:auto; max-width:100%;" />
 
 </div>
 
