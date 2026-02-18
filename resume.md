@@ -1,17 +1,13 @@
 # Marshall Peck
 
 [marshallpeck@gmail.com](mailto:marshallpeck@gmail.com) • [LinkedIn](https://www.linkedin.com/in/marshallpeck/) • [GitHub](https://github.com/SmoothOperator)
-
-If you have a full-time position where you think my skills or experience would come in handy, contact via:
-[marshallpeck@gmail.com](mailto:marshallpeck@gmail.com), reachout via linkedin or text: **(512)-228-2549**.
-
+contact via email
+[marshallpeck@gmail.com](mailto:marshallpeck@gmail.com), reachout via linkedin, or text: **(512)-228-2549**.
 https://www.linkedin.com/in/marshallpeck/
 
 ---
 
 ### About Me
-I'm super-friendly, committed to ideals and goals of professionalism thowse of which I usually highlight being: communication forfthcoming, objectivity,  , belive work should be and humans are not machines a andm machunes are not ppeopole
-
 In 2014, I started ProtoBuilds.com a 3D printing and prototyping company after success on the early service aggregator platforms: 3Dhubs and Makexyz.
 
 I have worked for dozens of companies providing 3D printing, CNC machining, prototyping and design services (since 2014) across a wide range of industries from: consumer products, medical devices, light industrial machine equipment, defence and for companies large and small. I have provided digital fabrication services, consulting or design work for firms like SpaceX, NXP, Ottobock just to name a few.
@@ -29,7 +25,8 @@ My specialties are design for rapid manufacturing (3D printing), 2.5D + 3D CNC m
 
 My design software of choice is Fusion 360. I’m proficient in many of its areas and have been using that software since its approximate year of release (2013). I am also well practiced in a variety of hand fabrication tools, power tools and the like.
 
-[Check out my 2014-2024 photogallery](https://photos.app.goo.gl/z1X7arV6D6iKYqBN8) for a view into my creative process and projects.
+Check out my [Adventures at ProtoBuilds 2014-2025](https://photos.app.goo.gl/z1X7arV6D6iKYqBN8) photo gallery for a view into my creative process and projects.
+https://photos.app.goo.gl/z1X7arV6D6iKYqBN8
 
 ---
 
@@ -422,3 +419,22 @@ half scale proof of concept chair for CNC
 </div>
 
 ---
+
+### miscellaneous fab
+various small fabrication projects
+
+<div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:flex-start; align-items:flex-start;">
+
+  <img src="images/CNC_wave_chair/1-wavechair.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/CNC_wave_chair/2-wavechair.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/CNC_wave_chair/3-wavechair.png" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/CNC_wave_chair/4-wavechair.png" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/CNC_wave_chair/5-wavechair.png" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/CNC_wave_chair/6-wavechair.png" style="height:150px; width:auto; max-width:100%;" />
+
+</div>
