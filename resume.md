@@ -18,12 +18,11 @@ ProtoBuilds started out as a quick answer to when people asked for more in depth
 
 Nowadays I work solo as a freelance industrial designer for select projects or companies and enjoy free time hanging out with my 1 year old Australian Kelpie and 14 year old, yet still adventurous, cat.
 
-I have enjoyed being a business owner, exploring my passions, interests, realizing dreams of mine, and of others whose dreams I helped turn into reality. I believe my experience may be unique for its variety.
-
+I have enjoyed being a business owner, exploring my passions, interests, realizing dreams of mine, and of others whose dreams I helped turn into reality.
 
 My specialties are design for rapid manufacturing (3D printing), 2.5D + 3D CNC machining, SLA, SLS, FDM and fabrication of items or assemblies for end-use function, aesthetic prototypes, or short run-manufacturing.
 
-My design software of choice is Fusion 360. I’m proficient in many of its areas and have been using that software since its approximate year of release (2013). I am also well practiced in a variety of hand fabrication tools, power tools and the like.
+My design software of choice is Fusion 360. I’m proficient in many of its areas. I have been using fusion since its approximate year of release (2013) and can train new users on this software. I am also well practiced in a variety of hand fabrication tools, power tools and the like.
 
 Check out my [Adventures at ProtoBuilds 2014-2025](https://photos.app.goo.gl/z1X7arV6D6iKYqBN8) photo gallery for a view into my creative process and projects.
 https://photos.app.goo.gl/z1X7arV6D6iKYqBN8
