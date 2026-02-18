@@ -378,3 +378,28 @@ Acrylic and aluminum extrusion tablet mount and scuplture for Hardrock Cafe conc
 </div>
 
 ---
+
+---
+
+### guitar sculpture on robot
+Acrylic and aluminum extrusion tablet mount and scuplture for Hardrock Cafe concept demo
+
+<div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:flex-start; align-items:flex-start;">
+
+  <img src="images/stressbridges/1-staticB.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/stressbridges/2-staticB.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/stressbridges/3-staticB.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/stressbridges/4-staticB.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/stressbridges/5-staticB.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/stressbridges/6-staticB.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/stressbridges/7-staticB.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+</div>
+
+---
