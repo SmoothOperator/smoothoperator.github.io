@@ -84,7 +84,7 @@ The proposed use and usefulness of these tools should include a thorough critiqu
   - mechanical assemblies
     - hardware BOM
     - electronics wire routing
-    - joints, kinimatic motion-studies
+    - joints, kinematic motion-studies
     - animated motion-links
     - free-form surface t-splines
     - parametric sketches & assemblies
@@ -99,18 +99,18 @@ The proposed use and usefulness of these tools should include a thorough critiqu
 
 **Hands on real-world fabrication**
 - thousands of hours 3D printing
-- hundres of hours CNC machine operation
+- hundreds of hours CNC machine operation
   - small detail, high tolerance wood, wax, plastics, non-ferrous metals
   - large sheet material projects, 5x10' wood, ACM dibond
 - shop / office management
   - safety, storage, education procedure, PPE, dust collection, organization, optimization
-  - talent / labor hiring / vetting part-time/full-time or 3rd pary services
+  - talent / labor hiring / vetting part-time/full-time or 3rd epoxy services
   - tracking work and paid-on-time compensation
   - basic book-keeping and accounting
   
   *CNC equip*
     - DIY cnc routers design, build, operation (~4+ different machines)
-    - professsoinal avidcnc 5x10 CNC setup, assembly, operation, maintence
+    - professional avidcnc 5x10 CNC setup, assembly, operation, maintenance
     - HASS VF4 milling machine, operation, workpiece setup
     - hobbyist CNC router equipment Shapeoko, Snapmaker
  
@@ -121,9 +121,9 @@ The proposed use and usefulness of these tools should include a thorough critiqu
   - chop saw/ Cut-off wheel
   - griding wheel, disk, belt sander
   - hand-tools, impact, drill/driver, wood, self tapping steel fasteners
-  - air-compressor & vaccum pump operation, maintenece, selecting/making fittings, hose connections
+  - air-compressor & vacuum pump operation, maintenance, selecting/making fittings, hose connections
   - Jig-saw,
-  - Band-saw operation, maitnence
+  - Band-saw operation, maintenance
   - Dremmel/rotary tool 
   - Obital Sander
   - Airbrush
@@ -132,7 +132,7 @@ The proposed use and usefulness of these tools should include a thorough critiqu
   **Misc. equip**
   - powered manual mill workpiece setup, drilling, chamfering, tapping, steel parts
   - 40-ton brake press, stamp debossing, bending
-  - floor belt grinder opteration
+  - floor belt grinder operation
   - part tumbler/polisher
   - fork-lift operation on single level, tight spaces, parking lot, fork extensions, ramp
   - Universal Robotics robot arm UR3 basic operation, teaching/record action, custom program run
@@ -140,18 +140,18 @@ The proposed use and usefulness of these tools should include a thorough critiqu
   - calipers
   - dial indicator
 
-  **Fabricatoin mediums and techniques**
+  **Fabrication mediums and techniques**
   - Aluminum extrusion and similar (80/20)
-    - multi-axis linear actuation (carteasian robotics), slides, guides bearing assemblies
-    - custom brackets, plates, off-shelf acesssories
+    - multi-axis linear actuation (cartesian robotics), slides, guides bearing assemblies
+    - custom brackets, plates, off-shelf accessories
     - furniture & fixtures
    
-  - ACM / polymetal (Dibond) desgin guide techniques
+  - ACM / polymetal (Dibond) design guide techniques
   - plywood, softwood (cedar, pine) furniture/fixtures, hobby-craft
   - tempered glass (assembly), plate glass (cutting)
   - natural, in-situ lumber
   - EPS foamboard
-  - fiberglass and epoxxy
+  - fiberglass and epoxy
   - 2-part silicone, 2-part urethane
   - paint/prep
 
