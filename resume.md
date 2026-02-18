@@ -240,8 +240,7 @@ Covid ventilator adapters
 ---
 
 ### NE Helmet
-An open source 3D printer published on OpenBuilds.com [project link](https://builds.openbuilds.com/builds/voxel-ox-extendable-3d-printer-and-cnc-platform.5080/)
-https://builds.openbuilds.com/builds/voxel-ox-extendable-3d-printer-and-cnc-platform.5080/
+A helmet concept design and SLS 3D printed prototype.
 
 <p float="left">
   <img src="1-NEhelmet.png" width="328" />
