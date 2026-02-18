@@ -311,6 +311,8 @@ concept design, CAD assembly, CNC cut files
 
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:flex-start; align-items:flex-start;">
 
+  <img src="images/SP3Dprinter/1-SPprinter.png" style="height:150px; width:auto; max-width:100%;" />
+
   <img src="images/SP3Dprinter/2-SPprinter.jpg" style="height:150px; width:auto; max-width:100%;" />
 
   <img src="images/SP3Dprinter/3-SPprinter.jpg" style="height:150px; width:auto; max-width:100%;" />
