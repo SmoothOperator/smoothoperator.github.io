@@ -281,9 +281,9 @@ contribution: CAD model, 3D printed prototype, mini model photography
 
   <img src="images/folding_arm_brace/5-foldingbrace.jpg" style="height:150px; width:auto; max-width:100%;" />
 
-  <img src="images/folding_arm_brace/6-foldingbrace.jpg" style="height:150px; width:auto; max-width:100%;" />
+  <img src="images/folding_arm_brace/6-foldingbrace.png" style="height:150px; width:auto; max-width:100%;" />
 
-  <img src="images/folding_arm_brace/7-foldingbrace.jpg" style="height:150px; width:auto; max-width:100%;" />
+  <img src="images/folding_arm_brace/7-foldingbrace.png" style="height:150px; width:auto; max-width:100%;" />
 
 </div>
 
