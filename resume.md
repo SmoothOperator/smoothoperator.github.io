@@ -401,3 +401,26 @@ Acrylic and aluminum extrusion tablet mount and scuplture for Hardrock Cafe conc
 </div>
 
 ---
+
+### CNC wave chair
+half scale proof of concept chair for CNC
+
+<div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:flex-start; align-items:flex-start;">
+
+  <img src="images/CNC_wave_chair/1-wavechair.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/CNC_wave_chair/2-wavechair.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/CNC_wave_chair/3-wavechair.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/CNC_wave_chair/4-wavechair.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/CNC_wave_chair/5-wavechair.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/CNC_wave_chair/6-wavechair.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/CNC_wave_chair/7-wavechair.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+</div>
+
+---
