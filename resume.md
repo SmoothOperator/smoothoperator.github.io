@@ -194,28 +194,48 @@ https://devpost.com/marshallpeck
 An open source 3D printer published on OpenBuilds.com  
 [Project Link](https://builds.openbuilds.com/builds/voxel-ox-extendable-3d-printer-and-cnc-platform.5080/)
 
-<div style="text-align:center;">
-  <img src="images/voxelox/1-Voxel OX Render.png" width="500" />
-</div>
+<div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:flex-start;">
 
-<div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin-top:12px;">
-  <img src="images/voxelox/assembled Voxel Ox.png" width="260" />
-  <img src="https://lh3.googleusercontent.com/pw/AP1GczM16rOavAnaDi_uGToLX4hJ2z1XoqSEeXXrrxDD0q0bMmKnmwLn9CBGZM9MOC0ed1YtvjOemvWmA5Rp4MjLZpla6QAFaxUynD0-feC_n3Dd3vjZdGZ8v1s5M3ObEcQCeWPHdEzcIx38FnNz39zDU2wYQw=w414-h414-s-no-gm?authuser=0" width="260" />
+  <div style="width:220px; height:220px; overflow:hidden;">
+    <img src="images/voxelox/1-Voxel OX Render.png" style="width:100%; height:100%; object-fit:cover;" />
+  </div>
+
+  <div style="width:220px; height:220px; overflow:hidden;">
+    <img src="images/voxelox/assembled Voxel Ox.png" style="width:100%; height:100%; object-fit:cover;" />
+  </div>
+
+  <div style="width:220px; height:220px; overflow:hidden;">
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczM16rOavAnaDi_uGToLX4hJ2z1XoqSEeXXrrxDD0q0bMmKnmwLn9CBGZM9MOC0ed1YtvjOemvWmA5Rp4MjLZpla6QAFaxUynD0-feC_n3Dd3vjZdGZ8v1s5M3ObEcQCeWPHdEzcIx38FnNz39zDU2wYQw=w414-h414-s-no-gm?authuser=0" style="width:100%; height:100%; object-fit:cover;" />
+  </div>
+
 </div>
 
 ---
 
 ### TINY Dome
 
-<div style="text-align:center;">
-  <img src="images/tinydome/1-tinydome.jpg" width="450" />
-</div>
+<div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:flex-start;">
 
-<div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin-top:12px;">
-  <img src="images/tinydome/2-tinydome.jpg" width="210" />
-  <img src="images/tinydome/3-tinydome.jpg" width="210" />
-  <img src="images/tinydome/4-tinydome.jpg" width="210" />
-  <img src="images/tinydome/6-tinydome.jpg" width="210" />
+  <div style="width:220px; height:220px; overflow:hidden;">
+    <img src="images/tinydome/1-tinydome.jpg" style="width:100%; height:100%; object-fit:cover;" />
+  </div>
+
+  <div style="width:220px; height:220px; overflow:hidden;">
+    <img src="images/tinydome/2-tinydome.jpg" style="width:100%; height:100%; object-fit:cover;" />
+  </div>
+
+  <div style="width:220px; height:220px; overflow:hidden;">
+    <img src="images/tinydome/3-tinydome.jpg" style="width:100%; height:100%; object-fit:cover;" />
+  </div>
+
+  <div style="width:220px; height:220px; overflow:hidden;">
+    <img src="images/tinydome/4-tinydome.jpg" style="width:100%; height:100%; object-fit:cover;" />
+  </div>
+
+  <div style="width:220px; height:220px; overflow:hidden;">
+    <img src="images/tinydome/6-tinydome.jpg" style="width:100%; height:100%; object-fit:cover;" />
+  </div>
+
 </div>
 
 ---
@@ -223,15 +243,28 @@ An open source 3D printer published on OpenBuilds.com
 ### Ventilator adapters
 Covid ventilator adapters
 
-<div style="text-align:center;">
-  <img src="images/ventilator_adapters/1-ventadapter.png" width="350" />
-</div>
+<div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:flex-start;">
 
-<div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin-top:12px;">
-  <img src="images/ventilator_adapters/2-ventadapter.jpg" width="110" />
-  <img src="images/ventilator_adapters/3-ventadapter.jpg" width="110" />
-  <img src="images/ventilator_adapters/4-ventadapter.jpg" width="110" />
-  <img src="images/ventilator_adapters/5-ventadapter.jpg" width="110" />
+  <div style="width:220px; height:220px; overflow:hidden;">
+    <img src="images/ventilator_adapters/1-ventadapter.png" style="width:100%; height:100%; object-fit:cover;" />
+  </div>
+
+  <div style="width:220px; height:220px; overflow:hidden;">
+    <img src="images/ventilator_adapters/2-ventadapter.jpg" style="width:100%; height:100%; object-fit:cover;" />
+  </div>
+
+  <div style="width:220px; height:220px; overflow:hidden;">
+    <img src="images/ventilator_adapters/3-ventadapter.jpg" style="width:100%; height:100%; object-fit:cover;" />
+  </div>
+
+  <div style="width:220px; height:220px; overflow:hidden;">
+    <img src="images/ventilator_adapters/4-ventadapter.jpg" style="width:100%; height:100%; object-fit:cover;" />
+  </div>
+
+  <div style="width:220px; height:220px; overflow:hidden;">
+    <img src="images/ventilator_adapters/5-ventadapter.jpg" style="width:100%; height:100%; object-fit:cover;" />
+  </div>
+
 </div>
 
 ---
@@ -239,20 +272,40 @@ Covid ventilator adapters
 ### NE Helmet
 **A helmet concept and SLS 3D printed prototype.**
 
-<div style="text-align:center;">
-  <img src="images/helmet/1-NEhelmet.png" width="350" />
-</div>
+<div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:flex-start;">
 
-<div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; margin-top:12px;">
-  <img src="images/helmet/2-NEhelmet.jpg" width="110" />
-  <img src="images/helmet/4-NEhelmet.jpg" width="110" />
-  <img src="images/helmet/5-NEhelmet.jpg" width="110" />
-  <img src="images/helmet/7-NEhelmet.jpg" width="110" />
-  <img src="images/helmet/8-NEhelmet.jpg" width="110" />
-  <img src="images/helmet/9-NEhelmet.jpg" width="110" />
+  <div style="width:220px; height:220px; overflow:hidden;">
+    <img src="images/helmet/1-NEhelmet.png" style="width:100%; height:100%; object-fit:cover;" />
+  </div>
+
+  <div style="width:220px; height:220px; overflow:hidden;">
+    <img src="images/helmet/2-NEhelmet.jpg" style="width:100%; height:100%; object-fit:cover;" />
+  </div>
+
+  <div style="width:220px; height:220px; overflow:hidden;">
+    <img src="images/helmet/4-NEhelmet.jpg" style="width:100%; height:100%; object-fit:cover;" />
+  </div>
+
+  <div style="width:220px; height:220px; overflow:hidden;">
+    <img src="images/helmet/5-NEhelmet.jpg" style="width:100%; height:100%; object-fit:cover;" />
+  </div>
+
+  <div style="width:220px; height:220px; overflow:hidden;">
+    <img src="images/helmet/7-NEhelmet.jpg" style="width:100%; height:100%; object-fit:cover;" />
+  </div>
+
+  <div style="width:220px; height:220px; overflow:hidden;">
+    <img src="images/helmet/8-NEhelmet.jpg" style="width:100%; height:100%; object-fit:cover;" />
+  </div>
+
+  <div style="width:220px; height:220px; overflow:hidden;">
+    <img src="images/helmet/9-NEhelmet.jpg" style="width:100%; height:100%; object-fit:cover;" />
+  </div>
+
 </div>
 
 ---
+
 
 
 
