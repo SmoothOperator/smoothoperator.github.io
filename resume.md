@@ -189,9 +189,10 @@ https://devpost.com/marshallpeck
 ---
 
 
-### Voxel Ox TEST 2
-An open source 3D printer published on OpenBuilds.com  
+### Voxel Ox 3D printer
+an open source 3D printer published on OpenBuilds.com  
 [Project Link](https://builds.openbuilds.com/builds/voxel-ox-extendable-3d-printer-and-cnc-platform.5080/)
+https://builds.openbuilds.com/builds/voxel-ox-extendable-3d-printer-and-cnc-platform.5080/
 
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:flex-start; align-items:flex-start;">
 
@@ -206,6 +207,7 @@ An open source 3D printer published on OpenBuilds.com
 ---
 
 ### TINY Dome
+flat-pack truncated icosahedron dome made with aluminum composite
 
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:flex-start; align-items:flex-start;">
 
@@ -223,8 +225,8 @@ An open source 3D printer published on OpenBuilds.com
 
 ---
 
-### Ventilator adapters
-Covid ventilator adapters
+### ventilator adapters
+custom ventilator adapters FDM 3D printed with polypropelene
 
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:flex-start; align-items:flex-start;">
 
@@ -242,7 +244,7 @@ Covid ventilator adapters
 
 ---
 
-### Helmet concept
+### helmet concept
 contribution: ideation, CAD assembly, rendering
 
 
@@ -266,7 +268,7 @@ contribution: ideation, CAD assembly, rendering
 
 ---
 
-### Folding arm brace
+### folding arm brace
 contribution: CAD assembly, 3D printed prototype, rendering
 
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:flex-start; align-items:flex-start;">
@@ -377,10 +379,8 @@ Acrylic and aluminum extrusion tablet mount and scuplture for Hardrock Cafe conc
 
 ---
 
----
-
-### guitar sculpture on robot
-Acrylic and aluminum extrusion tablet mount and scuplture for Hardrock Cafe concept demo
+### shape optimization study
+3 different bridge styles using shape optimization in Fusion360
 
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:flex-start; align-items:flex-start;">
 
