@@ -338,3 +338,43 @@ An FDM 3D printer designed for 100c enclosure temperature
 </div>
 
 ---
+
+### lattice business cards
+custom business cards utilizing seperate processes in Simplify 3D
+
+<div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:flex-start; align-items:flex-start;">
+
+  <img src="images/Lattice_business_cards/1-latticecards.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/Lattice_business_cards/2-latticecards.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/Lattice_business_cards/3-latticecards.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/Lattice_business_cards/4-latticecards.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+</div>
+
+---
+
+### guitar sculpture on robot
+Acrylic and aluminum extrusion tablet mount and scuplture for Hardrock Cafe concept demo
+
+<div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:flex-start; align-items:flex-start;">
+
+  <img src="images/robotguitar/1-guitar.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/robotguitar/2-guitar.png" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/robotguitar/3-guitar.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/robotguitar/4-guitar.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/robotguitar/5-guitar.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/robotguitar/6-guitar.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/robotguitar/7-guitar.png" style="height:150px; width:auto; max-width:100%;" />
+
+</div>
+
+---
