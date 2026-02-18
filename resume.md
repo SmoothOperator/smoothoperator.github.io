@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+
 # Marshall Peck
 
 [marshallpeck@gmail.com](mailto:marshallpeck@gmail.com) • [LinkedIn](https://www.linkedin.com/in/marshallpeck/) • [GitHub](https://github.com/SmoothOperator)
