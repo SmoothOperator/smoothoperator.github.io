@@ -242,8 +242,9 @@ Covid ventilator adapters
 
 ---
 
-### NE Helmet
-**A helmet concept and SLS 3D printed prototype.**
+### Helmet concept
+contribution: ideation, CAD assembly, rendering
+
 
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:flex-start; align-items:flex-start;">
 
@@ -260,6 +261,29 @@ Covid ventilator adapters
   <img src="images/helmet/8-NEhelmet.jpg" style="height:150px; width:auto; max-width:100%;" />
 
   <img src="images/helmet/9-NEhelmet.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+</div>
+
+---
+
+### Folding arm brace
+contribution: CAD model, 3D printed prototype, mini model photography
+
+<div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:flex-start; align-items:flex-start;">
+
+  <img src="images/folding_arm_brace/1-foldingbrace.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/folding_arm_brace/2-foldingbrace.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/folding_arm_brace/3-foldingbrace.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/folding_arm_brace/4-foldingbrace.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/folding_arm_brace/5-foldingbrace.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/folding_arm_brace/6-foldingbrace.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/folding_arm_brace/7-foldingbrace.jpg" style="height:150px; width:auto; max-width:100%;" />
 
 </div>
 
