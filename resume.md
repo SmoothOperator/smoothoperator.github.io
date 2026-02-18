@@ -189,17 +189,16 @@ https://devpost.com/marshallpeck
 ---
 
 ### Voxel Ox TEST 2
-An open source 3D printer published on OpenBuilds.com [project link](https://builds.openbuilds.com/builds/voxel-ox-extendable-3d-printer-and-cnc-platform.5080/)
-https://builds.openbuilds.com/builds/voxel-ox-extendable-3d-printer-and-cnc-platform.5080/
+An open source 3D printer published on OpenBuilds.com  
+[Project Link](https://builds.openbuilds.com/builds/voxel-ox-extendable-3d-printer-and-cnc-platform.5080/)
 
 <p align="left">
-  <img src="images/voxelox/1-Voxel OX Render.png" width="495"/>
+  <img src="images/voxelox/1-Voxel OX Render.png" width="495" />
 </p>
 
 <p align="left">
-  <img src="images/voxelox/assembled Voxel Ox.png" width="245"/>
-  <img src="https://lh3.googleusercontent.com/pw/AP1GczM16rOavAnaDi_uGToLX4hJ2z1XoqSEeXXrrxDD0q0bMmKnmwLn9CBGZM9MOC0ed1YtvjOemvWmA5Rp4MjLZpla6QAFaxUynD0-feC_n3Dd3vjZdGZ8v1s5M3ObEcQCeWPHdEzcIx38FnNz39zDU2wYQw=w414-h414-s-no-gm?authuser=0" width="245"/>
-  
+  <img src="images/voxelox/assembled Voxel Ox.png" width="245" />
+  <img src="https://lh3.googleusercontent.com/pw/AP1GczM16rOavAnaDi_uGToLX4hJ2z1XoqSEeXXrrxDD0q0bMmKnmwLn9CBGZM9MOC0ed1YtvjOemvWmA5Rp4MjLZpla6QAFaxUynD0-feC_n3Dd3vjZdGZ8v1s5M3ObEcQCeWPHdEzcIx38FnNz39zDU2wYQw=w414-h414-s-no-gm?authuser=0" width="245" />
 </p>
 
 ---
@@ -207,15 +206,14 @@ https://builds.openbuilds.com/builds/voxel-ox-extendable-3d-printer-and-cnc-plat
 ### TINY Dome
 
 <p align="left">
-  <img src="images/tinydome/1-tinydome.jpg" width="408"/>
+  <img src="images/tinydome/1-tinydome.jpg" width="408" />
 </p>
 
 <p align="left">
-  <img src="images/tinydome/2-tinydome.jpg" width="200"/>
-  <img src="images/tinydome/3-tinydome.jpg" width="200"/>
-  <img src="images/tinydome/4-tinydome.jpg" width="200"/>
-  <img src="images/tinydome/6-tinydome.jpg" width="200"/>
-
+  <img src="images/tinydome/2-tinydome.jpg" width="200" />
+  <img src="images/tinydome/3-tinydome.jpg" width="200" />
+  <img src="images/tinydome/4-tinydome.jpg" width="200" />
+  <img src="images/tinydome/6-tinydome.jpg" width="200" />
 </p>
 
 ---
@@ -223,15 +221,15 @@ https://builds.openbuilds.com/builds/voxel-ox-extendable-3d-printer-and-cnc-plat
 ### Ventilator adapters
 Covid ventilator adapters
 
-<p float="left">
+<p align="left">
   <img src="images/ventilator_adapters/1-ventadapter.png" width="308" />
+</p>
 
- <p float="left"> 
+<p align="left">
   <img src="images/ventilator_adapters/2-ventadapter.jpg" width="100" />
   <img src="images/ventilator_adapters/3-ventadapter.jpg" width="100" />
   <img src="images/ventilator_adapters/4-ventadapter.jpg" width="100" />
   <img src="images/ventilator_adapters/5-ventadapter.jpg" width="100" />
-  
 </p>
 
 ---
@@ -239,24 +237,18 @@ Covid ventilator adapters
 ### NE Helmet
 **A helmet concept and SLS 3D printed prototype.**
 
-<p float="left">
+<p align="left">
   <img src="images/helmet/1-NEhelmet.png" width="308" />
+</p>
 
- <p float="left"> 
+<p align="left">
   <img src="images/helmet/2-NEhelmet.jpg" width="100" />
   <img src="images/helmet/4-NEhelmet.jpg" width="100" />
   <img src="images/helmet/5-NEhelmet.jpg" width="100" />
   <img src="images/helmet/7-NEhelmet.jpg" width="100" />
   <img src="images/helmet/8-NEhelmet.jpg" width="100" />
   <img src="images/helmet/9-NEhelmet.jpg" width="100" />
-  
 </p>
 
 ---
 
-# What I'm looking for…
-full-time
-salary 75k-100k+
-an established firm or startup
-work with a creative/problem solving team
-possibility for moving to cooler weather climates on either coast, major city
