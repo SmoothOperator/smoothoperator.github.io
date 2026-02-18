@@ -307,7 +307,7 @@ concept design, CAD assembly, CNC cut files
 ---
 
 ### SPF 3D printer
-concept design, CAD assembly, CNC cut files
+An FDM 3D printer designed for 100c enclosure temperature
 
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:flex-start; align-items:flex-start;">
 
