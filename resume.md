@@ -256,3 +256,10 @@ Covid ventilator adapters
 </p>
 
 ---
+
+# What I'm looking for…
+full-time
+salary 75k-100k+
+an established firm or startup
+work with a creative/problem solving team
+possibility for moving to cooler weather climates on either coast, major city
