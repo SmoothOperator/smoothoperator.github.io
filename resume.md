@@ -114,17 +114,17 @@ The proposed use and usefulness of these tools should include a thorough critiqu
     - HASS VF4 milling machine, operation, workpiece setup
     - hobbyist CNC router equipment Shapeoko, Snapmaker
  
-  *Fabrication tools / shop tools & equip.*
+  *Fabrication tools / shop tools & equipment.*
   - drill press
   - circular saw
   - miter saw aluminum, wood, plastics
   - chop saw/ Cut-off wheel
-  - griding wheel, disk, belt sander
+  - grinding wheel, disk, belt sander
   - hand-tools, impact, drill/driver, wood, self tapping steel fasteners
   - air-compressor & vacuum pump operation, maintenance, selecting/making fittings, hose connections
   - Jig-saw,
   - Band-saw operation, maintenance
-  - Dremmel/rotary tool 
+  - Dremel/rotary tool 
   - Obital Sander
   - Airbrush
   
