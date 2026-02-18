@@ -115,7 +115,7 @@ The proposed use and usefulness of these tools should include a thorough critiqu
     - hobbyist CNC router equipment Shapeoko, Snapmaker
  
   *Fabrication tools / shop tools & equip.*
-  - crill press
+  - drill press
   - circular saw
   - miter saw aluminum, wood, plastics
   - chop saw/ Cut-off wheel
