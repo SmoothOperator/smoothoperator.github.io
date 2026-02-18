@@ -267,7 +267,7 @@ contribution: ideation, CAD assembly, rendering
 ---
 
 ### Folding arm brace
-contribution: CAD model, 3D printed prototype, mini model photography
+contribution: CAD assembly, 3D printed prototype, rendering
 
 <div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:flex-start; align-items:flex-start;">
 
@@ -284,6 +284,23 @@ contribution: CAD model, 3D printed prototype, mini model photography
   <img src="images/folding_arm_brace/6-foldingbrace.png" style="height:150px; width:auto; max-width:100%;" />
 
   <img src="images/folding_arm_brace/7-foldingbrace.png" style="height:150px; width:auto; max-width:100%;" />
+
+</div>
+
+---
+
+### ONNIT office breakroom & table tops
+concept design, CAD assembly, CNC cut files
+
+<div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:flex-start; align-items:flex-start;">
+
+  <img src="images/ONNIToffice/1-ONNIT.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/ONNIToffice/2-ONNIT.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/ONNIToffice/3-ONNIT.jpg" style="height:150px; width:auto; max-width:100%;" />
+
+  <img src="images/ONNIToffice/4-ONNIT.jpg" style="height:150px; width:auto; max-width:100%;" />
 
 </div>
 
