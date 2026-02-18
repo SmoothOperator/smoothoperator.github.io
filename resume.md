@@ -251,8 +251,8 @@ https://builds.openbuilds.com/builds/voxel-ox-extendable-3d-printer-and-cnc-plat
   <img src="2-NEhelmet.jpg" width="120" />
   <img src="4-NEhelmet.jpg" width="120" />
   <img src="5-NEhelmet.jpg" width="120" />
-  <img src="6-NEhelmet.jpg" width="120" />
-  <img src="7-NEhelmet.jpg" width="120" />
+  <img src="6-NEhelmet.png" width="120" />
+  <img src="7-NEhelmet.gng" width="120" />
 </p>
 
 ---
