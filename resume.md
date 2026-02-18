@@ -240,17 +240,15 @@ Covid ventilator adapters
 ---
 
 ### NE Helmet
-A helmet concept and SLS 3D printed prototype
+A helmet concept and SLS 3D printed prototype.
 
 <p float="left">
   <img src="images/helmet/1-NEhelmet.png" width="308" />
 
  <p float="left"> 
   <img src="images/helmet/2-NEhelmet.jpg" width="100" />
-  <img src="images/helmet/3-NEhelmet.jpg" width="100" />
   <img src="images/helmet/4-NEhelmet.jpg" width="100" />
   <img src="images/helmet/5-NEhelmet.jpg" width="100" />
-  <img src="images/helmet/6-NEhelmet.png" width="100" />
   <img src="images/helmet/7-NEhelmet.jpg" width="100" />
   <img src="images/helmet/8-NEhelmet.jpg" width="100" />
   <img src="images/helmet/9-NEhelmet.jpg" width="100" />
