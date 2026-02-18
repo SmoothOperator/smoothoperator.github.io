@@ -419,8 +419,6 @@ half scale proof of concept chair for CNC
 
   <img src="images/CNC_wave_chair/6-wavechair.png" style="height:150px; width:auto; max-width:100%;" />
 
-  <img src="images/CNC_wave_chair/7-wavechair.png" style="height:150px; width:auto; max-width:100%;" />
-
 </div>
 
 ---
