@@ -247,7 +247,7 @@ https://builds.openbuilds.com/builds/voxel-ox-extendable-3d-printer-and-cnc-plat
   <img src="1-NEhelmet.png" width="328" />
 </p>
 <p float="left">
-  <img src="images/ventilator_adapters/2-ventadapter.jpg" width="120" />
+  <img src="2-NEhelmet.png" width="120" />
   <img src="2-NEhelmet.jpg" width="120" />
   <img src="4-NEhelmet.jpg" width="120" />
   <img src="5-NEhelmet.jpg" width="120" />
