@@ -331,8 +331,6 @@ An FDM 3D printer designed for 100c enclosure temperature
 
   <img src="images/SP3Dprinter/10-SPprinter.jpg" style="height:150px; width:auto; max-width:100%;" />
 
-  <img src="images/SP3Dprinter/11-SPprinter.jpg" style="height:150px; width:auto; max-width:100%;" />
-
   <img src="images/SP3Dprinter/12-SPprinter.jpg" style="height:150px; width:auto; max-width:100%;" />
 
 </div>
