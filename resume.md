@@ -205,6 +205,8 @@ https://builds.openbuilds.com/builds/voxel-ox-extendable-3d-printer-and-cnc-plat
   
 </p>
 
+---
+
 ### TINY Dome
 
 <p align="left">
@@ -218,8 +220,6 @@ https://builds.openbuilds.com/builds/voxel-ox-extendable-3d-printer-and-cnc-plat
   <img src="images/tinydome/6-tinydome.jpg" width="200"/>
 
 </p>
-
-
 
 ---
 
@@ -240,90 +240,21 @@ Covid ventilator adapters
 ---
 
 ### NE Helmet
-A helmet concept design and SLS 3D printed prototype.
+A helmet concept and SLS 3D printed prototype
 
 <p float="left">
-  <img src="1-NEhelmet.png" width="328" />
-</p>
-<p float="left">
-  <img src="2-NEhelmet.png" width="120" />
-  <img src="2-NEhelmet.jpg" width="120" />
-  <img src="4-NEhelmet.jpg" width="120" />
-  <img src="5-NEhelmet.jpg" width="120" />
-  <img src="6-NEhelmet.png" width="120" />
-  <img src="7-NEhelmet.gng" width="120" />
-</p>
-
----
-
-### Voxel OX test 6
-
-GHJG
-
-<p float="left">
-  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="520" />
-<p float="left">
-  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="250" style="margin-right: 16px;" />
-  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="250" style="margin-right: 16px;"/>
-  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="250" style="margin-right: 16px;"/>
-</p>
-
-
-### VTest 7
-
-<p float="left">
-  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="305" />
-<p float="left">
-  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="140" style="margin-right: 20px;"/>
-  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="140" style="margin-right: 20px;"/>
-  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="140" style="margin-right: 20px;"/>
-</p>
-
----
-
-### Voxel Ox TEST 9
-An open source 3D printer published on OpenBuilds.com [project link](https://builds.openbuilds.com/builds/voxel-ox-extendable-3d-printer-and-cnc-platform.5080/)
-https://builds.openbuilds.com/builds/voxel-ox-extendable-3d-printer-and-cnc-platform.5080/
-
-<p float="left">
-  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="358" />
+  <img src="images/helmet/1-NEhelmet.png" width="308" />
 
  <p float="left"> 
-  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="150" />
-  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="150" />
-  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="150" />
+  <img src="images/helmet/2-NEhelmet.jpg" width="100" />
+  <img src="images/helmet/3-NEhelmet.jpg" width="100" />
+  <img src="images/helmet/4-NEhelmet.jpg" width="100" />
+  <img src="images/helmet/5-NEhelmet.jpg" width="100" />
+  <img src="images/helmet/6-NEhelmet.png" width="100" />
+  <img src="images/helmet/7-NEhelmet.jpg" width="100" />
+  <img src="images/helmet/8-NEhelmet.jpg" width="100" />
+  <img src="images/helmet/9-NEhelmet.jpg" width="100" />
   
 </p>
 
 ---
-
-### Voxel Ox TEST 10
-An open source 3D printer published on OpenBuilds.com [project link](https://builds.openbuilds.com/builds/voxel-ox-extendable-3d-printer-and-cnc-platform.5080/)
-https://builds.openbuilds.com/builds/voxel-ox-extendable-3d-printer-and-cnc-platform.5080/
-
-<p float="left">
-  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="368" />
-
- <p float="left"> 
-  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="140" />
-  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="120" />
-  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="120" />
-
----
-
-  ### Voxel Ox TEST 11
-An open source 3D printer published on OpenBuilds.com [project link](https://builds.openbuilds.com/builds/voxel-ox-extendable-3d-printer-and-cnc-platform.5080/)
-https://builds.openbuilds.com/builds/voxel-ox-extendable-3d-printer-and-cnc-platform.5080/
-
-<p float="left">
-  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="458" />
-
- <p float="left"> 
-  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="225" />
-  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="225" />
-  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="225" />
-  <img src="https://raw.githubusercontent.com/SmoothOperator/smoothoperator.github.io/main/images/voxelox/Voxel%20OX%20Render.png" width="225" />
-
----
-
-
