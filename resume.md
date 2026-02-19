@@ -11,6 +11,9 @@ text: **(512)-228-2549**
 
 https://www.linkedin.com/in/marshallpeck/
 
+resume hosted here:
+https://smoothoperator.github.io/resume.html
+
 ---
 
 ### About Me
@@ -20,17 +23,18 @@ I have worked for dozens of companies providing 3D printing, CNC machining, prot
 
 Over the many years, I have worked in a variety of capacities either short-term, contract by-the-hour, all-inclusive project, on-site or remote depending on needs of client/project. Services required of me have been valued anywhere from a few hundred dollars to 10's of thousands of dollars, requiring me to: propose, estimate, quote, invoice, manage and deliver a variety of complex projects, maintain my own commercial office as well as acquire, train and retain a staff ranging from 1-4 people.
 
-ProtoBuilds started out as a quick answer to when people asked for more in depth assistance with their project and grew into a unique, small yet professional, product development and creative fabrication studio. I have 100’s of pictures from its peak years. It was a lot of fun.
+ProtoBuilds started out as a quick answer to when people asked for more in depth assistance with their project and grew into a unique, small yet professional product development and creative fabrication studio. I have 100’s of pictures from its peak years. It was a lot of fun.
 
-Nowadays I work solo as a freelance industrial designer for select projects or companies and enjoy free time hanging out with my 1 year old Australian Kelpie and 14 year old, yet still adventurous, cat.
+Nowadays I work solo as a freelance industrial designer for select projects or companies. I enjoy free time hanging out with my Australian Kelpie and 14 year old, yet still adventurous, cat.
 
-I have enjoyed being a business owner, exploring my passions, interests, realizing dreams of mine, and of others whose dreams I helped turn into reality.
+I have enjoyed being a business owner, exploring my passions, interests, realizing  a few dreams of mine, and of others whose dreams I helped turn into reality.
 
 My specialties are design for rapid manufacturing (3D printing), 2.5D + 3D CNC machining, SLA, SLS, FDM and fabrication of items or assemblies for end-use function, aesthetic prototypes, or short run-manufacturing.
 
 My design software of choice is Fusion 360. I’m proficient in many of its areas. I have been using fusion since its approximate year of release (2013) and can train new users on this software. I am also well practiced in a variety of hand fabrication tools, power tools and the like.
 
 Check out my [Adventures at ProtoBuilds 2014-2025](https://photos.app.goo.gl/z1X7arV6D6iKYqBN8) photo gallery for a view into my creative process and projects.
+copy/paste link below:
 https://photos.app.goo.gl/z1X7arV6D6iKYqBN8
 
 ---
@@ -39,7 +43,7 @@ https://photos.app.goo.gl/z1X7arV6D6iKYqBN8
 full-time
 salary 75k-100k+
 an established firm or startup
-work with a creative/problem solving team
+creative/problem solving team
 possibility for moving to cooler weather climates on either coast, major city
 
 ### Experience
@@ -65,8 +69,8 @@ project: https://devpost.com/software/inclusive-maps
 
 ---
 
-### My view on "AI" amd LLMs
-The proposed use and usefulness of these tools should include a thorough critique and require a practical, realistic and complete technical understanding of how these systems function and potential enterprize impacts, limitations, risks, what they can and _cannot_ do and what they _are_ and are not.
+### My view on "AI" and LLMs
+The proposed use and usefulness of these tools should include a thorough critique and require a practical, realistic and complete technical understanding of how these systems function and potential enterprise impacts, limitations, risks, what they can and _cannot_ do and what they _are_ and are not.
 
 ---
 
@@ -101,20 +105,20 @@ The proposed use and usefulness of these tools should include a thorough critiqu
 - thousands of hours 3D printing
 - hundreds of hours CNC machine operation
   - small detail, high tolerance wood, wax, plastics, non-ferrous metals
-  - large sheet material projects, 5x10' wood, ACM dibond
-- shop / office management
+  - large sheet material projects, 5x10' wood, ACM
+**shop / office management**
   - safety, storage, education procedure, PPE, dust collection, organization, optimization
   - talent / labor hiring / vetting part-time/full-time or 3rd epoxy services
   - tracking work and paid-on-time compensation
   - basic book-keeping and accounting
   
-  *CNC equip*
+**CNC equipment**
     - DIY cnc routers design, build, operation (~4+ different machines)
     - professional avidcnc 5x10 CNC setup, assembly, operation, maintenance
     - HASS VF4 milling machine, operation, workpiece setup
     - hobbyist CNC router equipment Shapeoko, Snapmaker
  
-  *Fabrication tools / shop tools & equipment.*
+**Fabrication tools / shop tools & equipment**
   - drill press
   - circular saw
   - miter saw aluminum, wood, plastics
@@ -171,7 +175,7 @@ The proposed use and usefulness of these tools should include a thorough critiqu
   - global/local var., setup, loop, if/else/elif, map, rand, switch, serial, digi/analog IO, milis
   - basic algebra expressions
 
-*Other software / hardware*
+**Other software / hardware**
 - google sheets mid but effective user
 - ablity to build desktop PC, maintain basic windows computer network
 
@@ -185,7 +189,7 @@ The proposed use and usefulness of these tools should include a thorough critiqu
 - **Instructables**: 6 authored instructables, featured in MakeZine and popular 3D printing blogs.
 https://www.instructables.com/member/marshallpeck/
 
-- **Devpost**: Inclusive Maps created for F8 hackathon.
+- **Devpost**: Inclusive Maps at Meta's 2019 F8 hackathon.
 https://devpost.com/marshallpeck
 
 ---
