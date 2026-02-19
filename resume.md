@@ -2,16 +2,13 @@
 
 [marshallpeck@gmail.com](mailto:marshallpeck@gmail.com) • [LinkedIn](https://www.linkedin.com/in/marshallpeck/) • [GitHub](https://github.com/SmoothOperator)
 
-contact via email
-[marshallpeck@gmail.com](mailto:marshallpeck@gmail.com)
 
-or
+marshallpeck@gmail.com
 
 text: **(512)-228-2549**
 
 https://www.linkedin.com/in/marshallpeck/
 
-resume hosted here:
 https://smoothoperator.github.io/resume.html
 
 ---
