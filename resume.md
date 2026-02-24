@@ -20,17 +20,18 @@ Over the many years, I have worked in a variety of capacities either short-term,
 
 ProtoBuilds started out as a quick answer to when people asked for more in depth assistance with their project and grew into a unique, small yet professional product development and creative fabrication studio. I have 100’s of pictures from its peak years. It was a lot of fun.
 
-Nowadays I work solo as a freelance industrial designer for select projects or companies. I enjoy free time hanging out with my Australian Kelpie and 14 year old, yet still adventurous, cat.
+Nowadays I work solo as a freelance industrial designer for select projects or companies. I enjoy my free time hanging out with my Australian Kelpie and 14 year old, yet still adventurous, cat.
 
-I have enjoyed being a business owner, exploring my passions, interests, realizing  a few dreams of mine, and of others whose dreams I helped turn into reality.
+I have enjoyed being a business owner, exploring my passions, interests, realizing a few dreams of mine, and of others whose dreams I helped turn into reality.
 
-My specialties are design for rapid manufacturing (3D printing), 2.5D + 3D CNC machining, SLA, SLS, FDM and fabrication of items or assemblies for end-use function, aesthetic prototypes, or short run-manufacturing.
+Broadly, I specialize in design for rapid manufacturing (3D printing), 2.5D + 3D CNC machining, SLA, SLS, FDM and fabrication of items or assemblies for end-use function, aesthetic prototypes, short run-manufacturing. I also have a lot experience building designing medium duty CNC equipment and carteasian robots.
 
-My design software of choice is Fusion 360. I’m proficient in many of its areas. I have been using fusion since its approximate year of release (2013) and can train new users on this software. I am also well practiced in a variety of hand fabrication tools, power tools and the like.
+My design software of choice is Fusion 360. I have been using fusion since its approximate year of release (2013). I’m proficient in many of its areas including complex assemblies and animation. I can also train new users on this software up to an intermediate level. I like Fusion360 because it let's you do complicated stuff really quickly. Fusion is great when you want to communicate spatial ideas and, especially due to it's sharable, collaborative features, when teams/stake holders are spreadout over distances.
 
 Check out my [Adventures at ProtoBuilds 2014-2025](https://photos.app.goo.gl/z1X7arV6D6iKYqBN8) photo gallery for a view into my creative process and projects.
 copy/paste link below:
 https://photos.app.goo.gl/z1X7arV6D6iKYqBN8
+
 
 ---
 
@@ -64,8 +65,14 @@ project: https://devpost.com/software/inclusive-maps
 
 ---
 
-### My view on "AI" and LLMs
-The proposed use and usefulness of these tools should include a thorough critique and require a practical, realistic and complete technical understanding of how these systems function and potential enterprise impacts, limitations, risks, what they can and _cannot_ do and what they _are_ and are not.
+### My view on LLMs (specifically)
+The proposed use and usefulness of these tools should include a thorough critique and require a practical, realistic and complete technical understanding of how these systems function and potential impacts, limitations, risks, what they can and _cannot_ do, what they _are_ and are not.
+
+That said, I did not shy away from tools like ChatGPT and was an early adopter. Since I'm not a professional software developer and have been more of a hobbyist with microcontrollers, I found it to be sort of a game changer from my perspective of limited experience using tools that help write/re-write text more efficiently.
+
+Here are some things I would not rely on the assistance of an LLM for:
+- any output that you cannot not 100% vet yourself
+- an opinion or decision requiring logic or reason as one would expect from a human
 
 ---
 
