@@ -397,8 +397,6 @@ Acrylic and aluminum extrusion tablet mount and scuplture for Hardrock Cafe conc
 
   <img src="images/stressbridges/6-staticB.jpg" style="height:150px; width:auto; max-width:100%;" />
 
-  <img src="images/stressbridges/7-staticB.jpg" style="height:150px; width:auto; max-width:100%;" />
-
 </div>
 
 ---
