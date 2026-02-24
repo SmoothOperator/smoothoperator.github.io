@@ -7,6 +7,7 @@ text: **(512)-228-2549**
 
 https://www.linkedin.com/in/marshallpeck/
 
+## link below for latest version of this document (includes portfolio pictures)
 https://smoothoperator.github.io/resume.html
 
 ---
