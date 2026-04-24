@@ -1,3 +1,6 @@
+
+<div style="margin: 0; padding: 0;">
+  
 # Marshall Peck
 
 [marshallpeck@gmail.com](mailto:marshallpeck@gmail.com) • [LinkedIn](https://www.linkedin.com/in/marshallpeck/) • [GitHub](https://github.com/SmoothOperator)
@@ -429,3 +432,4 @@ half scale proof of concept chair for CNC
 </div>
 
 ---
+
